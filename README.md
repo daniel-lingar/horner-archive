@@ -1,4 +1,9 @@
 # Johnson County Civil War Archive
+
+<p align="center">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663251514784/peyAAcfVglzoCzKU.png" alt="Capitol Contracts LLC Logo" width="300">
+</p>
+
 ## How to Deploy This Site (Free, 15 Minutes)
 
 ---
