@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Killing of John Spencer Horner — Johnson County Civil War Archive</title>
+<style>
+  :root {
+    --bg: #f8f5ef;
+    --text: #1a1a1a;
+    --muted: #5a5a5a;
+    --accent: #8b1a1a;
+    --border: #c8b99a;
+    --card: #f0ebe0;
+    --link: #6b3a2a;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.75;
+    font-size: 17px;
+  }
+  header {
+    background: #1a0e08;
+    color: #e8dcc8;
+    padding: 2.5rem 2rem 2rem;
+    text-align: center;
+    border-bottom: 3px solid var(--accent);
+  }
+  header .label {
+    font-size: 0.8rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #a08060;
+    margin-bottom: 0.5rem;
+  }
+  header h1 {
+    font-size: clamp(1.6rem, 4vw, 2.6rem);
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.4rem;
+  }
+  header h1 em { color: #c8a060; font-style: italic; }
+  header .sub {
+    font-size: 0.95rem;
+    color: #9a8060;
+    margin-top: 0.5rem;
+  }
+  nav {
+    background: #2a1a10;
+    padding: 0.75rem 2rem;
+    text-align: center;
+    font-size: 0.82rem;
+    letter-spacing: 0.04em;
+  }
+  nav a {
+    color: #c8a878;
+    text-decoration: none;
+    margin: 0 0.5rem;
+  }
+  nav a:hover { color: #fff; }
+  main {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+  }
+  .section-label {
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.3rem;
+    margin-top: 3.5rem;
+  }
+  h2 {
+    font-size: 1.55rem;
+    font-weight: normal;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0.4rem;
+    margin-bottom: 1.2rem;
+    color: #2a1a10;
+  }
+  h3 {
+    font-size: 1.15rem;
+    font-weight: bold;
+    margin: 1.8rem 0 0.6rem;
+    color: #3a1a10;
+  }
+  h4 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 1.2rem 0 0.4rem;
+    color: #4a2a18;
+  }
+  p { margin-bottom: 1rem; }
+  blockquote {
+    border-left: 3px solid var(--accent);
+    padding: 0.6rem 1.2rem;
+    margin: 1.2rem 0;
+    background: var(--card);
+    font-style: italic;
+    color: #3a2010;
+  }
+  blockquote cite {
+    display: block;
+    font-style: normal;
+    font-size: 0.83rem;
+    color: var(--muted);
+    margin-top: 0.5rem;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.2rem 0;
+    font-size: 0.9rem;
+  }
+  th {
+    background: #2a1a10;
+    color: #e8d8b8;
+    padding: 0.5rem 0.7rem;
+    text-align: left;
+  }
+  td {
+    padding: 0.45rem 0.7rem;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  tr:nth-child(even) td { background: var(--card); }
+  .person-card {
+    border: 1px solid var(--border);
+    background: var(--card);
+    padding: 1rem 1.2rem;
+    margin: 1.2rem 0;
+    border-left: 4px solid var(--accent);
+  }
+  .person-card .role {
+    font-size: 0.78rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.2rem;
+  }
+  .person-card h4 { margin: 0 0 0.2rem; font-size: 1.05rem; }
+  .person-card .dates { font-size: 0.85rem; color: var(--muted); margin-bottom: 0.5rem; }
+  .person-card img { float: right; margin: 0 0 0.5rem 1rem; max-width: 120px; border: 1px solid var(--border); }
+  .person-card::after { content: ''; display: table; clear: both; }
+  .doc-entry {
+    border: 1px solid var(--border);
+    background: var(--card);
+    padding: 0.9rem 1.1rem;
+    margin: 1rem 0;
+  }
+  .doc-entry .doc-type {
+    font-size: 0.75rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 0.2rem;
+  }
+  .doc-entry h4 { margin: 0 0 0.3rem; }
+  .doc-entry .status {
+    display: inline-block;
+    font-size: 0.78rem;
+    margin-top: 0.4rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 2px;
+  }
+  .status-documented { background: #d4edda; color: #155724; }
+  .status-reviewed { background: #cce5ff; color: #004085; }
+  .status-pending { background: #fff3cd; color: #856404; }
+  .status-required { background: #f8d7da; color: #721c24; }
+  .doc-img {
+    width: 100%;
+    max-width: 600px;
+    border: 1px solid var(--border);
+    margin: 1rem 0;
+    display: block;
+  }
+  .doc-img-caption {
+    font-size: 0.82rem;
+    color: var(--muted);
+    font-style: italic;
+    margin-top: -0.5rem;
+    margin-bottom: 1rem;
+  }
+  .coord-table td:first-child { font-family: monospace; font-size: 0.85rem; }
+  .oq-item {
+    border-left: 3px solid var(--border);
+    padding: 0.5rem 1rem;
+    margin: 0.8rem 0;
+    background: var(--card);
+  }
+  .oq-item.priority { border-left-color: var(--accent); }
+  .oq-item strong { color: var(--accent); }
+  .descent-chain {
+    border: 1px solid var(--border);
+    padding: 1rem;
+    margin: 1rem 0;
+    background: var(--card);
+    text-align: center;
+  }
+  .descent-chain .gen {
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .descent-chain h4 { margin: 0.1rem 0; }
+  .descent-chain .dates { font-size: 0.85rem; color: var(--muted); }
+  .descent-chain .arrow { color: var(--border); font-size: 1.4rem; margin: 0.3rem 0; }
+  .highlight-box {
+    background: #2a1a10;
+    color: #e8d8b8;
+    padding: 1.1rem 1.4rem;
+    margin: 1.5rem 0;
+    border-left: 4px solid #c8a060;
+  }
+  .highlight-box p { margin-bottom: 0; color: #e8d8b8; }
+  .highlight-box strong { color: #f0c878; }
+  .new-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    background: var(--accent);
+    color: #fff;
+    padding: 0.1rem 0.4rem;
+    border-radius: 2px;
+    margin-left: 0.5rem;
+    vertical-align: middle;
+  }
+  footer {
+    background: #1a0e08;
+    color: #7a6a5a;
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.85rem;
+    margin-top: 4rem;
+  }
+  footer a { color: #a08060; }
+  @media (max-width: 600px) {
+    body { font-size: 15px; }
+    header { padding: 1.5rem 1rem; }
+    main { padding: 1rem 1rem 3rem; }
+    .person-card img { float: none; display: block; margin: 0 0 0.7rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="label">Johnson County Civil War Archive · Floyd Township, Arkansas</div>
+  <h1>The Killing of <em>John Spencer Horner</em></h1>
+  <div class="sub">Floyd Township, Johnson County, Arkansas — August 2, 1864</div>
+  <div class="sub" style="margin-top:0.3rem; font-size:0.8rem;">Research: Daniel Lingar &nbsp;·&nbsp; Dossier v. 17.0 June 2026 &nbsp;·&nbsp; Clarksville, AR</div>
+</header>
+
+<nav>
+  <a href="#origins">Origins</a>
+  <a href="#attack">The Attack</a>
+  <a href="#orphans">The Children</a>
+  <a href="#deaths">Seven Deaths</a>
+  <a href="#map">Map</a>
+  <a href="#people">People</a>
+  <a href="#sheriff">The Sheriff</a>
+  <a href="#reckoning">Reckoning</a>
+  <a href="#suspect">Suspect</a>
+  <a href="#descent">The Line</a>
+  <a href="#yale">Yale Cemetery</a>
+  <a href="#open">Open Questions</a>
+  <a href="#sources">Sources</a>
+  <a href="#dossier">Full Dossier</a>
+</nav>
+
+<main>
+
+<!-- §00 ORIGINS -->
+<div class="section-label" id="origins">§ 00</div>
+<h2>Origins — The Family Before Arkansas</h2>
+
+<p>The man who died in the potato patch on August 2, 1864 was not the beginning of the story. He was part of a generations-long American migration that began on the Virginia frontier, moved through the Piedmont of North Carolina, crossed into the Tennessee wilderness, and finally came to rest in the Ozark hills of Johnson County, Arkansas.</p>
+
+<p>The chain is documented. It runs from a 1752 land grant surveyed by George Washington to a murder in a potato patch.</p>
+
+<div class="person-card">
+  <div class="role">4th Great-Grandfather · b. ~1726</div>
+  <h4>George Horner Sr.</h4>
+  <div class="dates">~1726 – ~1794 · Frederick County, VA → Orange County, North Carolina</div>
+  <p>The earliest confirmed ancestor of this line. Received 400 acres in Frederick County, Virginia in 1752, surveyed by George Washington. Later settled among the Scots-Irish frontier settlements of Orange County, NC. Appointed road overseer for the Eno River trading path, 1759. Died in North Carolina ~1794.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">3rd Great-Grandfather · b. Oct 30, 1746, York County, Pennsylvania</div>
+  <h4>William Horner Sr.</h4>
+  <div class="dates">1746 – Oct 12, 1824 · York Co., PA → Randolph Co., NC → Jefferson Co., Tennessee</div>
+  <p>American Revolutionary War patriot. DAR #462142. Supplied beef and goods to the Continental Army. Family oral history states he hauled a four-horse wagon load of beef to General Washington at Valley Forge, winter 1777–1778. Deacon of Bent Creek Primitive Baptist Church. Buried Bent Creek Cemetery, Whitesburg, Tennessee.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">2nd Great-Grandfather · b. 1771, Orange County, North Carolina</div>
+  <h4>George Horner</h4>
+  <div class="dates">1771 – Apr 15, 1822 · Orange Co., NC → Beardstown, Perry County, Tennessee</div>
+  <p>Son of William. Married Jemima Russell, 1795, Hickman County, Tennessee. Father of Spencer Horner. Died Perry County, Tennessee, April 1822.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Great-Grandfather · b. ~1808, Dickson, Tennessee · MURDERED August 2, 1864</div>
+  <h4>John Spencer Horner</h4>
+  <div class="dates">~1808 – August 2, 1864 · Tennessee → Floyd Township, Johnson County, Arkansas</div>
+  <p>Union man in a Confederate county. Married Permelia Turner (b. Nov 11, 1810, Maury County, TN; d. Aug 9, 1892). Father of eleven children. Shot in his potato patch by approximately twenty men he recognized as neighbors. The subject of this archive.</p>
+</div>
+
+<div class="highlight-box">
+  <p><strong>The Washington Connection, 1752.</strong> George Horner Sr. owned 400 acres in Frederick County, Virginia on the North River of Cacapehon — surveyed by the young George Washington on March 9, 1752, and granted by Thomas Lord Fairfax. The same day, Washington surveyed an adjacent 292 acres belonging to a William Horner, likely a relative. This document survives.</p>
+</div>
+
+<img src="https://daniel-lingar.github.io/horner-archive/george-horner-fairfax-grant-1752-highres.jpg" alt="1752 Northern Neck land grant to George Horner, surveyed by George Washington" class="doc-img">
+<p class="doc-img-caption"><em>Northern Neck Proprietary Grant · George Horner · 400 acres · Frederick County, Virginia · March 9, 1752 · Surveyed by George Washington · Granted by Thomas Lord Fairfax</em></p>
+
+<p>The family's path from that Virginia frontier to the Arkansas hills follows the great Scots-Irish migration routes exactly — down the Great Wagon Trail through the Shenandoah Valley, into the Piedmont of North Carolina, then west into Tennessee, then south and west into Arkansas.</p>
+
+<h3>The Choctaw Scrip Patent, 1857</h3>
+
+<p>The land on which Spencer Horner was murdered seven years later was acquired under Choctaw scrip authority. On April 1, 1857, the General Land Office issued Patent No. 19B for 160 acres in Township 12 North, Range 24 West, at the Fayetteville Land Office. The patent text identifies Spencer Horner as assignee of Co-cha-tubbee, described in the instrument as a representative of Canne Chubbee, deceased.</p>
+
+<p>This resolves the previously unexplained notation on the patent. The instrument is a Choctaw scrip certificate — one of the land warrants issued under the Treaty of Dancing Rabbit Creek (1830) and subsequent Choctaw Scrip Acts, which granted individual allotments to Choctaw Nation members who elected to remain in Mississippi. Many of these certificates were later assigned, sold, or transferred to non-Native settlers through a secondary market that the federal government recognized at its land offices. Canne Chubbee appears to be the original certificate holder; Co-cha-tubbee appears in a representative capacity — likely an heir, administrator, or authorized agent acting on behalf of the deceased allottee.</p>
+
+<p>The Choctaw scrip chain of title supports a specific legal mechanism for Spencer's land acquisition. It does not, by itself, prove Native ancestry in the Horner line. The patent is a conveyance document — it records a transaction between a scrip holder's representative and an assignee, not a kinship relationship. Without additional evidence linking the Horner family to Choctaw enrollment records, the document establishes only that Spencer obtained his Floyd Township acreage through the Choctaw scrip system rather than by direct cash entry or preemption.</p>
+
+<h3>What the Patent Reveals Beyond the Land Transfer <span class="new-badge">v17</span></h3>
+
+<p>The patent is not merely a title document. Read against its context, it carries implications about Spencer's position in Johnson County society and his level of engagement with federal land systems.</p>
+
+<p><strong>Spencer had capital or credit in 1857.</strong> Choctaw scrip was not free. He either paid Co-cha-tubbee for the certificate assignment or traded something of equivalent value. The scrip market carried real value — land speculators had been buying Choctaw certificates in bulk since the 1840s and reselling them to settlers. Spencer acquiring one means he had something to bring to the transaction. This is consistent with the 1860 census showing him as a propertied landowner, but it pushes that financial picture back at least seven years.</p>
+
+<p><strong>Spencer operated out of the Fayetteville Land Office.</strong> His legal and land business ran through Fayetteville — Washington County jurisdiction — rather than Little Rock. Any disputes, filings, or subsequent transactions before Johnson County fully organized its own land infrastructure would have generated records at Fayetteville. This is relevant for locating any earlier land entries (see Document 4706, cash entry 1848) and for understanding his legal network.</p>
+
+<p><strong>The scrip transaction required a connection.</strong> Someone put Spencer in contact with Co-cha-tubbee, or Spencer found him through a land agent or speculator operating in the Fayetteville market. That intermediary — if one existed — may have left records in Washington County or in the broader Choctaw scrip secondary market documentation held at NARA RG 49.</p>
+
+<p><strong>Canne Chubbee's estate chain.</strong> The certificate originally belonged to Canne Chubbee, who was deceased by the time of the 1857 transaction. Co-cha-tubbee acted as representative. This implies a probate or claims process within the Choctaw Nation or before federal commissioners — a paper trail that likely exists in NARA RG 75 (Bureau of Indian Affairs, Dancing Rabbit Creek claims) and has not yet been examined.</p>
+
+<p><strong>Spencer was participating in post-removal economics.</strong> The land he died defending in 1864 was acquired through a system that displaced Choctaw families from Mississippi. That is not unusual for the time and place, but it is context that belongs in the record. The land had a prior history before Spencer's name appeared on the patent.</p>
+
+<div class="highlight-box">
+  <p><strong>The Choctaw Scrip Connection.</strong> BLM GLO accession AR2690__.426 (Document 19B, Class STA). The patent names Spencer Horner as assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased. The underlying certificate traces to the Choctaw allotment system created by the Treaty of Dancing Rabbit Creek (1830). Related federal record groups: NARA RG 49 (General Land Office — Choctaw Scrip Acts) and RG 75 (Bureau of Indian Affairs — Dancing Rabbit Creek claims). The GLO case file for accession AR2690__.426 has not yet been retrieved and may contain the original application, correspondence, and survey notes beyond the patent itself.</p>
+</div>
+
+<h3>Land Description — Sections 19 and 22</h3>
+
+<p>The patent covers four quarter-section parcels straddling two sections:</p>
+
+<table>
+  <thead><tr><th>Parcel</th><th>Section</th><th>Township / Range</th></tr></thead>
+  <tbody>
+    <tr><td>NE¼ of SE¼</td><td>Section 19</td><td>T12N, R24W</td></tr>
+    <tr><td>NW¼ of SE¼</td><td>Section 19</td><td>T12N, R24W</td></tr>
+    <tr><td>NW¼ of NW¼</td><td>Section 22</td><td>T12N, R24W</td></tr>
+    <tr><td>SE¼ of NW¼</td><td>Section 22</td><td>T12N, R24W</td></tr>
+  </tbody>
+</table>
+
+<p>Total: 160 acres. District of Lands subject to sale at Fayetteville, Arkansas. The original GLO survey plat for Sections 19 and 22 has not been retrieved. Surveyors of the period noted timber type, water features, terrain character, and rock formations in their field notes — information that may provide independent confirmation of the bluff and cave corridor identified through LiDAR analysis.</p>
+
+
+<!-- §01 THE ATTACK -->
+<div class="section-label" id="attack">§ 01</div>
+<h2>The Attack</h2>
+
+<p>On the morning of August 2, 1864 — a date fixed by William Riley Horner's tombstone, the 1942 family transcript, and his Union muster roll — one of Spencer's sons, the one they called Louis, took his horse up the mountain to get it shod, five miles from the house. Before he left, he told his father and his brother William: <em>whatever you do, don't go up to the house in the daytime. Stay back in the timber. Keep watch.</em></p>
+
+<p>But the women were killing a chicken for dinner, and the house was where the food was. So Spencer and William went up anyway.</p>
+
+<p>The children had been posted as lookouts — a common precaution in those years, when bushwhackers moved through the hills like weather. When the boys saw men coming off the mountain, they ran inside hollering: <em>"Here they come, Grandpap!"</em></p>
+
+<p>Spencer walked out into the potato patch to meet them. There were about twenty riders, and according to the family account he recognized them — they were neighbors, men he knew by name. He raised his hands to surrender, but they shot him where he stood. The family account says he died at or near the homestead.</p>
+
+<p>William Riley Horner ran for the timber, but they caught him in the potato field. They beat him with pistols and crushed his genitals, leaving him for dead. The women found him still breathing and carried him to a cave on the mountainside. He survived there for eight days, nursed by Mary Ann, before dying of head wounds on August 10, 1864.</p>
+
+<p>The bushwhackers did not leave immediately. They ransacked the homestead — pulling down buildings, knocking fences flat, digging where they thought money might be buried. Spencer had gold and silver hidden somewhere on the farm. They never found it.</p>
+
+<img src="https://daniel-lingar.github.io/horner-archive/william-riley-horner-tombstone.png" alt="Tombstone of William Riley Horner" class="doc-img" style="max-width:400px;">
+<p class="doc-img-caption">Full view of the stone at Moore Cemetery</p>
+
+<img src="https://daniel-lingar.github.io/horner-archive/william-riley-horner-tombstone-detail.png" alt="Detail of misspelling on tombstone" class="doc-img" style="max-width:400px;">
+<p class="doc-img-caption">Detail showing "WM. R. HORNER"</p>
+
+<blockquote>
+  "Wm. R. Homer Born Aug. 1, 1834 Killed Aug. 10, 1864 by parties known to his family."
+  <br><br>
+  His toil is o'er his work is done,<br>
+  And he is fully blest,<br>
+  He fought the fight the victory won,<br>
+  And entered into rest.
+  <cite>— Tombstone inscription, Moore Cemetery, Johnson County, Arkansas</cite>
+</blockquote>
+
+<p>The surname is cut as "Homer" — the misspelling preserved exactly as the stone carver rendered it. But the accusation was deliberate: <em>by parties known to his family</em>. A public record in stone, because the law would do nothing.</p>
+
+
+<!-- §02 THE CHILDREN -->
+<div class="section-label" id="orphans">§ 02</div>
+<h2>The Children Who Watched</h2>
+
+<p>In the house that day were Spencer's orphaned grandsons: <strong>John Samuel Acord</strong>, age 7, and <strong>Christopher Columbus Acord</strong>, age 3. Their mother Elizabeth Horner Acord had died March 1, 1864, of pneumonia — she'd spent her days chopping wood in the cold rain to keep the fire going while her husband was away, and it killed her at twenty-eight. She had been born July 10, 1835, in Perry County, Tennessee — the same county where her grandfather George Horner had died in 1822. Their father Francis made it home to learn his wife was dead, then went back to his unit and died at Lewisburg Ridge on July 28, 1864, from fever. Five days before Spencer was murdered.</p>
+
+<p>Spencer had taken the boys in after their mother's death in March. They had been at the farm for roughly five months when the riders came.</p>
+
+<div class="highlight-box">
+  <p><strong>Connection to the researcher:</strong> John Samuel Acord (born December 1, 1856; died March 20, 1928, Friley, Johnson County, Arkansas) is the 2nd great-grandfather of Daniel Lingar, who compiled this archive. This record exists because a seven-year-old boy survived what happened in that potato patch and lived to old age in the same county where it happened.</p>
+</div>
+
+<p>Spencer Horner was a tall man of fifty-six — a Union man in a predominantly Confederate county. He had two hundred acres at least. He had gold and silver hidden somewhere on the property. He had children scattered across Arkansas and Missouri, and he had these two boys, the youngest of the lot.</p>
+
+<h3>August 2, 1864 — Household Reconstruction (Inference)</h3>
+
+<p>Probable persons present at the Horner homestead on 2 August 1864 were John Spencer Horner, age 56; William Riley Horner, age 30; Mary Ann Boen Horner, about 26; John Samuel Acord, age 7; and Christopher Columbus Acord, age 3, with the reconstruction anchored by the documented 1850 and 1860 Horner household pattern in Johnson County and the 1860 Floyd Township spelling variants "Homer" and "Horne." Members of William Riley Horner's immediate household were also likely present, because the 1860 Floyd Township index places W. R. "Horne" with Mary, Sylpha, and John in the same household immediately before the John T. "Homer" household. This paragraph should be read as inference rather than fact, because the public census layer establishes household structure and local presence, not a direct witness list for 2 August 1864.</p>
+
+<p><em>Conflict note:</em> Public profile pages presently identify Christopher Columbus Acord with an 1859 birth year, which would make him about five on 2 August 1864, so the archive's age-three reading should remain flagged until resolved against the strongest underlying record. The same public profile layer identifies John Samuel Acord as born in 1856, which is consistent with listing him as age seven in the reconstructed August 1864 household.</p>
+
+
+<!-- §03 SEVEN DEATHS -->
+<div class="section-label" id="deaths">§ 03</div>
+<h2>The Seven Deaths of 1864</h2>
+
+<p>The killing of Spencer Horner was not an isolated act. It was the culmination of a year-long campaign of violence against Union-aligned families in Floyd Township. The deaths began in March and did not stop until August.</p>
+
+<table>
+  <thead>
+    <tr><th>Date</th><th>Individual</th><th>Cause</th><th>Location</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>March 1, 1864</td><td>Elizabeth Horner Acord, age 28</td><td>Pneumonia — chopping wood in cold rain</td><td>Floyd Township</td></tr>
+    <tr><td>March 18, 1864</td><td>William Gordon Acord</td><td>Murdered — ambushed in his own yard, betrayed by a neighbor</td><td>Little Mulberry Creek</td></tr>
+    <tr><td>July 28, 1864</td><td>Francis Marion Acord</td><td>Fever — died July 28 per military record</td><td>Lewisburg Ridge</td></tr>
+    <tr><td>July 31, 1864</td><td>Andrew Jackson Horner</td><td>Measles</td><td>Lewisburg Ridge</td></tr>
+    <tr><td>August 2, 1864</td><td>John Spencer Horner, age 56</td><td>Murdered — shot in the potato patch</td><td>Floyd Township homestead</td></tr>
+    <tr><td>August 10, 1864</td><td>William Riley Horner, age 30</td><td>Died of wounds — cave on mountainside</td><td>Floyd Township</td></tr>
+    <tr><td>August 12, 1864</td><td>Pleasant Horner</td><td>Disease — died Aug 12 per military record</td><td>Morrilton area</td></tr>
+  </tbody>
+</table>
+
+<p><strong>Seven deaths in 163 days.</strong> None of them in combat. The first murder came five months before Spencer — when William Gordon Acord was lured out of hiding by an unnamed neighbor who informed bushwhackers of his return from a grist mill. His wife Martha watched from an attic window. Their five-year-old son William Columbus witnessed it. The pattern was established before August ever arrived.</p>
+
+
+<!-- §04 MAP -->
+<div class="section-label" id="map">§ 04</div>
+<h2>Site Locations</h2>
+
+<p>GPS coordinates recorded by Jimmie Dewberry, 2003. Preserved in FamilySearch record LH23-VP3. All sites are north of Highway 86 (Low Gap Road), approximately 2.3 miles west of Ozone, Arkansas.</p>
+
+<table class="coord-table">
+  <thead>
+    <tr><th>Location</th><th>Coordinates</th><th>Confidence</th><th>Notes</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Moore Cemetery</td><td>35.6666°N, 93.4955°W</td><td>GPS-verified</td><td>Spencer, William, Permelia Horner buried here</td></tr>
+    <tr><td>Spencer Horner Homestead</td><td>35.6681°N, 93.4981°W</td><td>GPS-verified</td><td>Attack site, August 2, 1864; potato patch; Spencer's murder</td></tr>
+    <tr><td>The Bluff / Cave Refuge</td><td>35.6583°N, 93.4888°W</td><td>GPS-verified</td><td>William's hiding place; died here August 10, 1864</td></tr>
+    <tr><td>Ozone, AR</td><td>~35.653°N, 93.448°W</td><td>Approximate</td><td>Nearest community; 2.3 miles east of homestead</td></tr>
+    <tr><td>Yale Cemetery</td><td>~35.638°N, 93.572°W</td><td>Approximate</td><td>Henry Stewart, Marcus Mark Hill, Acord family burials</td></tr>
+    <tr><td>Clarksville, AR</td><td>~35.471°N, 93.467°W</td><td>County seat</td><td>Sheriff Hill's base; 7th Arkansas Cavalry organized here</td></tr>
+  </tbody>
+</table>
+
+<p><strong>Directions:</strong> From Ozone, AR, take Highway 86 (Low Gap Road) west approximately 2.3 miles. Turn north toward Farris Springs. A locked cable blocks access approximately one mile from the cemetery.</p>
+
+<h3>Then &amp; Now — Johnson County, 1860 vs. Today</h3>
+
+<img src="https://daniel-lingar.github.io/horner-archive/colton-1860-johnson-v2.jpg" alt="Detail from Colton's Railroad &amp; Township Map of Arkansas, 1860" class="doc-img">
+<p class="doc-img-caption"><em>Colton's Railroad &amp; Township Map of Arkansas, 1860 — Johnson County (teal), Franklin County (pink). Clarksville is the county seat. Floyd Township is in the northern hill country above the Mulberry River.</em></p>
+
+<p><strong>Historical map source:</strong> "Colton's Railroad &amp; Township Map of Arkansas," compiled by D.F. Shall from U.S. surveys, published by Johnson &amp; Browning, New York, 1860. <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~229244~5508007:Arkansas">David Rumsey Map Collection, Stanford University Libraries</a>.</p>
+
+
+<!-- §05 PEOPLE -->
+<div class="section-label" id="people">§ 05</div>
+<h2>The Principal People</h2>
+
+<div class="person-card">
+  <div class="role">Victim · Patriarch</div>
+  <h4>John Spencer Horner</h4>
+  <div class="dates">b. ~1808, Dickson, TN · d. August 2, 1864</div>
+  <p>Union-aligned. Shot near the home. According to the 1942 family transcript, he recognized his killers as neighbors. Held Land Patent 19B in Floyd Township since 1857, acquired under Choctaw scrip authority as assignee of Co-cha-tubbee.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Victim</div>
+  <h4>William Riley Horner</h4>
+  <div class="dates">b. August 1, 1834 · d. August 10, 1864</div>
+  <p>Son of Spencer. Beaten with pistols in the potato field. Hidden in a cave. Died eight days after the attack from head wounds. Age 30. Served in Co. K, 2nd Arkansas Infantry (US). Muster roll: "reported killed by guerillas 10 August, 1864, Johnson Co., Arkansas."</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Victim · March 18, 1864</div>
+  <h4>William Gordon Acord</h4>
+  <div class="dates">d. March 18, 1864 · Little Mulberry Creek</div>
+  <p>Ambushed and killed in his own yard after being betrayed by an unnamed neighbor. His wife Martha watched from an attic window. Their son William Columbus, age 5, witnessed the murder. Confederate service: CMSR confirmed in NARA M317, card #44903963 — unit designation pending full card retrieval. Claimed Union service in Co. K, 2nd Arkansas Infantry (US) — unconfirmed by primary document.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Witness · Age 7</div>
+  <h4>John Samuel Acord</h4>
+  <div class="dates">b. December 1, 1856 · d. March 20, 1928 · Friley, Johnson County, AR</div>
+  <p>Orphaned grandson in the house on August 2. Present when his grandfather was shot, per the 1942 family transcript. Later married Amanda Catherine Hill (b. Aug 5, 1859, Yale, AR; d. Apr 19, 1937) — niece of the sheriff who never investigated. 2nd great-grandfather of this archive's compiler.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Witness · Age 3</div>
+  <h4>Christopher Columbus Acord</h4>
+  <div class="dates">b. ~1861</div>
+  <p>Younger brother of John Samuel. Also in the house on August 2. Both boys orphaned before the attack: mother died March 1, father July 28, 1864.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Survivor</div>
+  <h4>Permelia Turner Horner</h4>
+  <div class="dates">b. November 11, 1810, Maury Co., TN · d. August 9, 1892</div>
+  <p>Spencer's wife. Present during the attack. Filed a widow's pension August 17, 1865. Sold the farm for a horse and wagon. Returned to Johnson County after the war. Died one day before the 28th anniversary of William's death in the cave.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Sheriff / CSA Colonel</div>
+  <h4>John Fry Hill</h4>
+  <div class="dates">b. Aug 9, 1822, Perry, TN · d. Feb 3, 1882, Clarksville, AR</div>
+  <img src="https://daniel-lingar.github.io/horner-archive/john-fry-hill-portrait.jpg" alt="Colonel John Fry Hill">
+  <p>Son of Marcus Mark Hill. Commanded 7th Arkansas Cavalry. His regiment was in Dardanelle — directly across the river — on August 3, 1864, the day after the attack. CMSR: "Absent — Detached," September 1864. Wounded at Pilot Knob, September 27, 1864. Filed amnesty petition 1866. Re-elected sheriff 1878. Arkansas Senate 1880.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Union Soldier · Brother of the Sheriff</div>
+  <h4>Joseph Hill</h4>
+  <div class="dates">b. January 9, 1823, Perry, TN · d. September 1864, Johnson Co., AR</div>
+  <p>Son of Marcus Mark Hill. Fought for the Union — 2nd Arkansas Cavalry (US). Died one month after Spencer was murdered. His daughter Amanda Catherine Hill later married John Samuel Acord.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Hill Family Patriarch</div>
+  <h4>Marcus Mark Hill</h4>
+  <div class="dates">b. 1790, NC · d. 1878, Mulberry Tsp, Johnson Co., AR</div>
+  <img src="https://daniel-lingar.github.io/horner-archive/marcus-mark-hill-memorial.jpg" alt="Marcus Mark Hill Memorial Stone">
+  <p>War of 1812 veteran. Served at the Battle of New Orleans under Cpt. Wm. Gault, Co. of Inf., 2nd Reg. W. TN Militia. Early pioneer of Johnson County. Married Rachael Fry, January 1813, Rutherford, Tennessee. Buried at Yale Cemetery, Oark.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Daughter · Widow</div>
+  <h4>Mary Ann Boen Horner</h4>
+  <div class="dates">b. 1838 · d. 1912</div>
+  <p>Daughter of Spencer. Married William Riley Horner. Nursed William in the cave for eight days. Fled to Newton County in 1865.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">AWOL · Son-in-Law of Spencer</div>
+  <h4>Hiram Boen</h4>
+  <div class="dates">AWOL May 28, 1864 – January 1, 1865</div>
+  <p>Son-in-law of Spencer Horner. Co. E, 2nd Arkansas Infantry (US). AWOL the entire period of the summer murders. Desertion charge cleared by War Department 1866, Special Order Bo-276-66, without stated reason.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Daughter · Mother of the Witnesses</div>
+  <h4>Elizabeth Horner Acord</h4>
+  <div class="dates">b. July 10, 1835, Perry Co., TN · d. March 1, 1864</div>
+  <p>Spencer's daughter. Died of pneumonia at 28 while her husband was at war. Born in the same county where her grandfather George Horner died in 1822. Mother of John Samuel and Christopher Columbus Acord.</p>
+</div>
+
+
+<!-- §06 THE SHERIFF -->
+<div class="section-label" id="sheriff">§ 06</div>
+<h2>The Sheriff Who Did Not Investigate</h2>
+
+<p>John Fry Hill was sheriff of Johnson County in August 1864. He had held the office since 1858, and he would hold it until the end of the war. He was also, at that very moment, a colonel in the Confederate army, commanding the 7th Arkansas Cavalry — a regiment raised and operating in the same county where Spencer Horner was murdered.</p>
+
+<p>The 7th Arkansas Cavalry was organized July 25, 1863, built around Hill's own cavalry battalion. Five of its twelve companies were drawn entirely from Johnson County. These were Hill's neighbors — the same men who knew every road, every hollow, and every Unionist family in Floyd Township.</p>
+
+<p>Military records place Hill's regiment in <strong>Dardanelle on August 3, 1864</strong> — directly across the river from Johnson County, the day after the attack. His September 1864 CMSR notation reads <strong>"Absent — Detached"</strong> — consistent with performing civil duties locally as sheriff. He was wounded at the Battle of Pilot Knob, Missouri, on September 27, 1864 — seven weeks after the murders — confirming he was fully active during the critical window.</p>
+
+<p>In his 1866 amnesty petition to President Andrew Johnson, Hill claimed he did not return to Johnson County until October 1865. His military records contradict this directly. The contemporaneous record is the stronger evidence.</p>
+
+<p>The men who killed Spencer Horner were Confederate-aligned irregulars fighting for the same cause Hill commanded troops to support. The sheriff was not going to investigate his own side. There is no record that he ever tried.</p>
+
+<div class="highlight-box">
+  <p><strong>The bloodline connection:</strong> John Fry Hill's brother Joseph had a daughter named Amanda Catherine Hill, born August 5, 1859, at Yale, Johnson County. She would marry John Samuel Acord — the seven-year-old boy who watched his grandfather get shot in the potato patch. The sheriff who did nothing was the great-uncle of the child who needed justice. The same bloodline, divided by war and duty and the choices men made.</p>
+</div>
+
+
+<!-- §07 THE RECKONING -->
+<div class="section-label" id="reckoning">§ 07</div>
+<h2>The Reckoning</h2>
+
+<p>Dr. John Turner Horner was Spencer's son, a thirty-four-year-old physician who had served in the Union army and survived the war. He had watched his family die — his father murdered, his brother beaten to death, his sister dead before the attack, her orphans now his responsibility. He led a squad of men back into the hills.</p>
+
+<p>The names survive in family memory: <strong>Wash Middleton</strong>, <strong>Fate Arnold</strong>, <strong>Jess Wilson</strong>. The family called them desperate men — men willing to do what the law would not.</p>
+
+<blockquote>
+  "One night they surrounded a house where the bushwhackers were having a dance. Wash Middleton took the man who killed grandfather by the hair and dragged him out, 'Now you'll kill a helpless old man' and killed him."
+  <cite>— 1942 Horner family oral history transcript</cite>
+</blockquote>
+
+<p>They killed seventeen of the twenty bushwhackers. A cornfield ambush where each man picked his target. A dance house surrounded at night. Dr. Horner threw his pistol at the leader when it wouldn't fire. A man was shot down between his wife and mother.</p>
+
+<h3>The Hunt — An Analysis</h3>
+
+<p>According to family oral tradition and the 1942 Horner family transcript, the reprisal was a systematic hunt — not a spontaneous act of grief, but a persistent, organized campaign to track down each of the twenty men responsible for the attack.</p>
+
+<p><strong>Command structure.</strong> The squad appears to have been led by men with Union military experience. Dr. Horner had recruited for Company K of the 2nd Arkansas Infantry (US), though the War Department later ruled he never formally enlisted himself. His confirmed service is a 27-day muster as 1st Lieutenant, Co. I, 10th Arkansas Militia (state/Confederate), February 22–March 19, 1862, at Clarksville, under Captain Christopher C. Casey. That unit disbanded without combat. His claimed later Union service in Co. K, 2nd Arkansas Infantry (US) is supported by Goodspeed's History of Barry County (1888) but not confirmed by a surviving CMSR. Wash Middleton was the elected 1st Lieutenant of Company E — elected by his fellow soldiers on Christmas Day 1863. The squad operated with a degree of military discipline and collective purpose common among Union-aligned men who had fought together and knew the terrain and the people on it.</p>
+
+<p><strong>Targeted extraction.</strong> The hunt was not indiscriminate. The squad targeted specific individuals known to have been at the potato field. Oral tradition describes targeted killings rather than sweeps — men pulled from hiding places and named for what they had done before being shot.</p>
+
+<p><strong>The 17 of 20 claim.</strong> The 1942 transcript explicitly states the squad killed seventeen of the twenty bushwhackers. This high body count implies a prolonged campaign that likely extended into the immediate post-war years. No military tribunal, provost marshal record, or court docket has been found to confirm or deny it. The official record is silent — which is itself a form of evidence about what the community chose not to see.</p>
+
+<div class="person-card">
+  <div class="role">Dr. John Turner Horner</div>
+  <h4>Spencer's son. Physician. Led the reprisal.</h4>
+  <p>Recruited for Co. K, 2nd Arkansas Infantry (US), but the War Department ruled in 1894 that he enrolled men without formally enlisting himself — leaving no muster roll record and no confirmed rank. His rejected pension file (NARA RG 15, Application 1,143,763) has not been retrieved and likely contains sworn statements relevant to both his service and the reprisal period.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">George Washington "Wash" Middleton</div>
+  <h4>Elected 1st Lieutenant, Co. E, 2nd Arkansas Infantry (US)</h4>
+  <p>Elected on Christmas Day 1863. Personally killed the man who murdered Spencer — dragged him from the dance house by the hair, named what he had done, then killed him.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">Fate Arnold</div>
+  <h4>Squad member</h4>
+  <p>Named in family tradition. Described as a man who "didn't know what fear was." Located after the war in Stone County, Arkansas. The 1942 transcript describes him as a "little wizened old man" when John Turner Horner's son finally met him.</p>
+</div>
+
+<div class="person-card">
+  <div class="role">James Mitchell "Jess" Wilson</div>
+  <h4>Named in oral history as both target and original attacker</h4>
+  <p>Documented as a Private in the 2nd Arkansas Cavalry (CSA) — listed as a paroled prisoner July 2, 1864, one month before the Horner attack. Oral tradition says he was found hiding under the skirts of his womenfolk before being pulled out and shot.</p>
+</div>
+
+
+<!-- §08 THE SUSPECT -->
+<div class="section-label" id="suspect">§ 08</div>
+<h2>The Named Suspect</h2>
+
+<p>The family tradition points to one man by name: <strong>Henry Stewart of Yale, Arkansas</strong>. Born December 1840 — making him twenty-three or twenty-four when Spencer Horner was killed. He lived a long life, dying in 1930, sixty-six years after the murder.</p>
+
+<p>He is buried at Yale Cemetery — the same ground where John "Old Jack" Acord lies. The grandfather of the two boys who watched Spencer die is in the same cemetery as the man the family believed killed him.</p>
+
+<blockquote>
+  "It is generally believed that one of the Stewarts from Yale participated in these killings, probably Henry Stewart."
+  <cite>— FamilySearch contributor HeatherAcord, 2013</cite>
+</blockquote>
+
+<img src="https://daniel-lingar.github.io/horner-archive/henry-stewart-confederate-pension.jpg" alt="Arkansas Ex-Confederate Pension Record — Henry Stewart, 1910–1915, page 283 of 302" class="doc-img">
+<p class="doc-img-caption"><em>Arkansas Ex-Confederate Pension Records, 1891–1939 · Henry Stewart · Pension Lists 1910–1915 · Page 283 of 302 · Ancestry.com / FamilySearch</em></p>
+
+<p><strong>A CMSR for Henry Stewart exists in NARA M317 (Confederate Soldiers from Arkansas).</strong> The unit designation and identity confirmation — confirming this is the Johnson County Henry Stewart (b. 1840, Yale Cemetery) rather than another bearer of the name — require full card retrieval.</p>
+
+
+<!-- §09 THE GOLD -->
+<div class="section-label" id="gold">§ 09</div>
+<h2>The Gold That Stayed Hidden</h2>
+
+<p>Spencer Horner had money. Gold and silver and paper, saved over years, hidden somewhere on the farm. The bushwhackers knew it — or believed it. After Spencer was shot and William was left for dead in the potato field, they turned the homestead inside out. They pulled down buildings, knocked fences flat, dug where they thought it might be buried. They never found it. The family never found it either.</p>
+
+<p>Years later, one of Spencer's sons dreamed about it: a black gum tree in the middle of a field, a certain number of steps toward the house, digging down and finding the pot of gold. But dreams are not maps, and the money stayed lost.</p>
+
+<p>Permelia sold the farm for a horse and wagon and left the place where she had raised her children and buried her husband. She came back to Johnson County after the war and lived until 1892, dying on August ninth — one day before the twenty-eighth anniversary of her son William's slow death in a cave.</p>
+
+<div class="oq-item priority" style="margin-top:1rem;">
+  <p><strong>The post-1864 land transfer — unrecovered.</strong> <span class="new-badge">v17</span> Permelia's sale of the farm for a horse and wagon is documented in family oral history, but the actual deed transfer — buyer, date, and price — has not been located in Johnson County deed records. That transaction, once found, would close the land story: who acquired the 160 acres Spencer died for, what it sold for, and whether it changed hands again before the record goes cold. The buyer's identity may also connect to the social network of the men who killed Spencer. Johnson County deed records from 1865–1870 have not been systematically examined for this transfer.</p>
+</div>
+
+
+<!-- §10 DOCUMENTARY RECORD -->
+<div class="section-label" id="docs">§ 10</div>
+<h2>Documentary Record</h2>
+
+<div class="doc-entry">
+  <div class="doc-type">Funerary Record</div>
+  <h4>Moore Cemetery — Spencer, William, and Permelia Horner burial site</h4>
+  <p>GPS-verified. Spencer Horner, William Riley Horner, and Permelia Turner Horner are buried here. Coordinates: 35.6666°N, 93.4955°W.</p>
+  <span class="status status-documented">● Documented</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Funerary Record</div>
+  <h4>William Riley Horner Tombstone</h4>
+  <p>"Killed Aug. 10, 1864 by parties known to his family." GPS coordinates verified. The public accusation preserved in stone because the law would do nothing.</p>
+  <img src="https://daniel-lingar.github.io/horner-archive/william-riley-horner-tombstone.png" alt="Tombstone of William Riley Horner" class="doc-img" style="max-width:350px; margin-top:0.7rem;">
+  <span class="status status-documented">● Photographed &amp; documented</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Site Record</div>
+  <h4>Cave / Bluff Site</h4>
+  <p>The overhang where William Riley Horner was carried after the attack. He survived there for eight days before dying of head wounds August 10, 1864. GPS: 35.6583°N, 93.4888°W. Recorded by Jimmie Dewberry, 2003.</p>
+  <span class="status status-documented">● GPS-verified</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Land Patent · Choctaw Scrip · April 1, 1857</div>
+  <h4>Federal Land Patent No. 19B — Spencer Horner, assignee of Co-cha-tubbee</h4>
+  <p>BLM GLO accession AR2690__.426. Certificate No. 19B. Issued at the Fayetteville Land Office. 160 acres, Township 12 North, Range 24 West, Sections 19 and 22. Spencer Horner named as assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased. Underlying certificate traces to the Treaty of Dancing Rabbit Creek (1830). Signed by President James Buchanan, April 1, 1857. Recorded by G.H. Jones, Ass't Sec'y, and J.A. Granger, Recorder of the General Land Office.</p>
+  <img src="https://daniel-lingar.github.io/horner-archive/Patent_19B_AR2690___426.jpg" alt="Federal Land Patent No. 19B — Spencer Horner, Choctaw Scrip, April 1, 1857" class="doc-img" style="margin-top:0.7rem;">
+  <p class="doc-img-caption" style="margin-top:0.3rem;"><em>BLM GLO Certificate No. 19B · Fayetteville Land Office · April 1, 1857 · Spencer Horner, assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased · 160 acres · T12N R24W · Signed by President James Buchanan</em></p>
+  <span class="status status-documented">● Documented</span>
+</div>
+
+
+<!-- §11 THE LINE -->
+<div class="section-label" id="descent">§ 11</div>
+<h2>The Line — From the Murder to the Researcher</h2>
+
+<p>This archive exists because of an unbroken chain of survival. Seven people, six generations, 162 years — from a potato patch in Floyd Township to a desk in Clarksville, Arkansas.</p>
+
+<div class="descent-chain">
+  <div class="gen">Murdered · August 2, 1864</div>
+  <h4>John Spencer Horner</h4>
+  <div class="dates">~1808 – 1864 · Floyd Township, Johnson County, Arkansas</div>
+  <p style="font-size:0.88rem; margin-top:0.3rem;">Shot in his potato patch. The subject of this archive.</p>
+  <div class="arrow">↓</div>
+  <div class="gen">Spencer's daughter · died March 1, 1864</div>
+  <h4>Elizabeth Horner Acord</h4>
+  <div class="dates">July 10, 1835 – March 1, 1864</div>
+  <div class="arrow">↓</div>
+  <div class="gen">Elizabeth's son · age 7 on the day of the murder</div>
+  <h4>John Samuel Acord</h4>
+  <div class="dates">December 1, 1856 – March 20, 1928 · Friley, Johnson County, Arkansas</div>
+  <div class="arrow">↓</div>
+  <div class="gen">John Samuel's daughter</div>
+  <h4>Rosie Acord Sexton</h4>
+  <div class="dates">July 8, 1898 – September 2, 1983 · Johnson County, Arkansas</div>
+  <div class="arrow">↓</div>
+  <div class="gen">Rosie's daughter</div>
+  <h4>Argie Faye Sexton Williams</h4>
+  <div class="dates">January 6, 1928 – August 29, 2004 · Johnson County, Arkansas</div>
+  <div class="arrow">↓</div>
+  <div class="gen">Argie's daughter · Daniel's mother</div>
+  <h4>Patricia Lynn Williams Lingar</h4>
+  <div class="dates">December 28, 1956 – December 3, 2021 · Clarksville, Johnson County, Arkansas</div>
+  <div class="arrow">↓</div>
+  <div class="gen">Patricia's son · compiler of this archive</div>
+  <h4>Daniel Bret Lingar</h4>
+  <div class="dates">September 12, 1982 · Clarksville, Johnson County, Arkansas</div>
+  <p style="font-size:0.88rem; margin-top:0.3rem;">2nd great-grandson of John Samuel Acord. 5th great-grandson of John Spencer Horner. This archive exists because a seven-year-old boy survived what happened in that potato patch and his blood eventually produced someone willing to write it down.</p>
+</div>
+
+<div class="highlight-box">
+  <p><strong>The double bloodline.</strong> Daniel Lingar descends from both the Horner victims and the Hill family. John Samuel Acord married Amanda Catherine Hill, daughter of Joseph Hill — the Union soldier whose brother John Fry Hill was the Confederate sheriff who never investigated the murder. The boy who watched his grandfather die married into the family of the man who let the killers go free. Both bloodlines run in the same veins today.</p>
+</div>
+
+
+<!-- §12 YALE CEMETERY -->
+<div class="section-label" id="yale">§ 12</div>
+<h2>Yale Cemetery — A Convergence</h2>
+
+<p>Yale Cemetery, near Oark in Johnson County, is where multiple independent threads of this case meet in the same ground.</p>
+
+<table>
+  <thead>
+    <tr><th>Individual</th><th>Role in This Case</th><th>Burial Confirmed</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Marcus Mark Hill</strong></td>
+      <td>Hill family patriarch. Father of the Confederate sheriff and the Union soldier. Died 1878, Yale. War of 1812 veteran.</td>
+      <td>Yes — Yale Cemetery</td>
+    </tr>
+    <tr>
+      <td><strong>Rachel Fry Hill</strong></td>
+      <td>Wife of Marcus. Mother of John Fry Hill and Joseph Hill. Died 1843, Yale, Johnson County.</td>
+      <td>Yes — died Yale, 1843</td>
+    </tr>
+    <tr>
+      <td><strong>Henry Stewart</strong></td>
+      <td>Named suspect in the killings (family tradition). Received Confederate pension 1910–1915; wartime unit undocumented. Tombstone: "Henry, b. 1840; d. 1930; h/o Ritty Stewart."</td>
+      <td>Yes — FindAGrave #32180961</td>
+    </tr>
+    <tr>
+      <td><strong>John "Old Jack" Acord</strong></td>
+      <td>Grandfather of orphaned witnesses John Samuel and Christopher Columbus Acord.</td>
+      <td>Yes — Yale Cemetery</td>
+    </tr>
+    <tr>
+      <td><strong>William G. Acord</strong></td>
+      <td>Tombstone: "CO K 2ND AR INF VOL... 1827–1864." Confirms Union service of the Acord family line.</td>
+      <td>Yes — Yale Cemetery</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!-- §13 OPEN QUESTIONS -->
+<div class="section-label" id="open">§ 13</div>
+<h2>Open Questions</h2>
+
+<p>The archive is a working document. These questions are documented, unresolved, and awaiting further evidence.</p>
+
+<div class="oq-item">
+  <p>The Choctaw scrip chain — resolved in part. Patent 19B (1857) names Spencer Horner as assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased. <em>What remains open:</em> whether the Horner family had any kinship or social connection to the Choctaw parties, or whether the scrip was acquired purely through the secondary certificate market. Choctaw enrollment rolls (NARA RG 75) have not been cross-referenced against Horner family names.</p>
+</div>
+
+<div class="oq-item">
+  <p>Hiram Boen's cleared desertion. Spencer's son-in-law went AWOL from the Union army from May 28 to January 1, 1865 — the entire period of the summer murders. The War Department cleared his charge in 1866 without stating a reason. The specific justification is contained in Special Order Bo-276-66, which has not been located.</p>
+</div>
+
+<div class="oq-item">
+  <p>John Fry Hill's exact location on August 2, 1864. His regiment was documented in Dardanelle on August 3. His amnesty petition claimed absence from the county. His CMSR says "Absent — Detached" in September. Confederate detached service orders or payrolls from August 1864 have not been located to resolve the discrepancy.</p>
+</div>
+
+<div class="oq-item">
+  <p>The 17/20 reprisal claim. No military tribunal, provost marshal record, or civil document has been found confirming the body count from the alleged post-war reprisal. The claim rests entirely on the 1942 oral history transcript.</p>
+</div>
+
+<div class="oq-item">
+  <p>Dr. John Turner Horner's rank. He claimed 2nd Lieutenant in Co. K. The War Department rejected his pension in 1894, ruling he recruited men but never formally enlisted himself. His name appears on no muster rolls. The 10th Arkansas Militia muster rolls at the Arkansas State Archives may contain his original Confederate enrollment.</p>
+</div>
+
+<div class="oq-item">
+  <p>John Spencer Horner's exact cause and sequence of death. The tombstone and oral history confirm August 2, 1864. Whether he died instantly or over hours, and the exact sequence relative to William's beating, remains unreconciled between the oral record and physical evidence.</p>
+</div>
+
+<div class="oq-item">
+  <p>Sylpha and John Horner — census image verification. Can the names and exact ages of Sylpha Horner and John Horner be confirmed from image-level census records, estate materials, or heir-identification documents?</p>
+</div>
+
+<div class="oq-item">
+  <p>The Masonic connection. Mulberry Lodge #272 and Springhill Lodge #118 were active in the Yale/Mulberry corridor and erected tombstones in the area as late as 1886. Their membership records — which may include names of both victims and perpetrators — have not been examined.</p>
+</div>
+
+<div class="oq-item">
+  <p><strong>OQ-12:</strong> William Gordon Acord CMSR (NARA M317, card #44903963) — does it confirm 11th Arkansas Infantry or a different unit?</p>
+</div>
+
+<div class="oq-item">
+  <p><strong>OQ-13:</strong> Henry Stewart CMSR (NARA M317) — does the unit designation confirm service in a Johnson County command (10th Arkansas Militia, 7th Arkansas Cavalry)?</p>
+</div>
+
+<div class="oq-item">
+  <p><strong>OQ-14:</strong> George Washington Middleton CMSR (NARA M399) — does it confirm 1st Lieutenant, Co. E, 2nd Arkansas Infantry (US), elected Christmas Day 1863?</p>
+</div>
+
+<div class="oq-item priority">
+  <p><strong>OQ-15 — PRIORITY:</strong> John Turner Horner rejected pension file (NARA RG 15, Application 1,143,763) — what sworn statements does it contain? Not digitized. Physical retrieval required.</p>
+</div>
+
+<div class="oq-item">
+  <p><strong>OQ-16:</strong> Special Order Bo-276-66 (War Department, July 3, 1866) — what justification cleared Hiram Boen's desertion charge? Location: NARA RG 94.</p>
+</div>
+
+<div class="oq-item priority">
+  <p><strong>OQ-17 — NEW:</strong> <span class="new-badge">v17</span> Fayetteville Land Office register entry for Patent 19B. The Register of the Land Office at Fayetteville would have logged the date Spencer filed, any witnesses present, and sometimes an address or county of residence at time of filing. NARA holds many of these registers. Location: NARA RG 49, Fayetteville Land Office entry books.</p>
+</div>
+
+<div class="oq-item priority">
+  <p><strong>OQ-18 — NEW:</strong> <span class="new-badge">v17</span> Co-cha-tubbee identity and estate record. Co-cha-tubbee acted as representative of deceased Canne Chubbee in the 1857 patent transaction. This implies a Choctaw probate or claims process. Co-cha-tubbee is searchable in NARA RG 75 (Bureau of Indian Affairs, Dancing Rabbit Creek claims), Armstrong Roll (1831), and Choctaw removal records. Identifying Co-cha-tubbee may reveal whether Spencer had a pre-existing social or business connection to the Choctaw community or accessed the certificate through a speculator intermediary.</p>
+</div>
+
+<div class="oq-item">
+  <p><strong>OQ-19 — NEW:</strong> <span class="new-badge">v17</span> GLO case file for accession AR2690__.426. The patent itself has been recovered and imaged. The underlying GLO case file — held at NARA RG 49 — may contain Spencer's original application, correspondence, survey notes, and the text of the original Choctaw scrip certificate. Not yet retrieved.</p>
+</div>
+
+<div class="oq-item priority">
+  <p><strong>OQ-20 — NEW:</strong> <span class="new-badge">v17</span> Post-1864 deed transfer for the Floyd Township 160 acres. Permelia Turner Horner sold the farm for a horse and wagon, per family oral history. The actual deed transfer — buyer, date, price — has not been located in Johnson County deed records. The buyer's identity may connect to the social network of the men who killed Spencer. Johnson County deed records, 1865–1870, have not been systematically examined for this transaction.</p>
+</div>
+
+<div class="oq-item">
+  <p><strong>OQ-21 — NEW:</strong> <span class="new-badge">v17</span> 1860 census land assessment for Spencer Horner. The 1860 federal census recorded real estate and personal property values for household heads. Spencer's entry should show the assessed value of his 160-acre holding and personal property at the time — useful for quantifying what was at stake in 1864 and for cross-referencing the gold and silver referenced in family oral history. 1860 Floyd Township census image has not been retrieved at the field-by-field level for this entry.</p>
+</div>
+
+<div class="oq-item">
+  <p><strong>OQ-22 — NEW:</strong> <span class="new-badge">v17</span> Original GLO survey plat for Sections 19 and 22, T12N R24W. Period surveyors noted timber type, water features, terrain character, and rock formations in their field notes. These notes may provide independent documentation of the bluff and cave corridor identified through LiDAR analysis, and may record the spring or water source in the concealed access bench area. Location: BLM GLO Records or NARA cartographic records.</p>
+</div>
+
+
+<!-- §14 SOURCES -->
+<div class="section-label" id="sources">§ 14</div>
+<h2>Primary Sources</h2>
+
+<div class="doc-entry">
+  <div class="doc-type">Land Grant</div>
+  <h4>Northern Neck Proprietary Grant — George Horner, 1752</h4>
+  <p>Frederick County, Virginia. 400 acres on the North River of Cacapehon. Granted by Thomas Lord Fairfax. Surveyed by George Washington. March 9, 1752. Establishes the Horner family on the Virginia frontier 112 years before Spencer's murder. This document definitively refutes later claims of Cherokee ancestry in the direct line.</p>
+  <span class="status status-documented">● Documented</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Land Records</div>
+  <h4>Federal Land Patents 4706 &amp; 19B</h4>
+  <p>Fayetteville Land Office. Document 4706 (1848, cash entry). Document 19B (April 1, 1857, Choctaw scrip): 160 acres, T12N R24W, Sections 19 and 22. Names Spencer Horner as assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased. BLM GLO accession AR2690__.426, docClass STA. Establishes Choctaw scrip chain of title for the Floyd Township homestead. Patent image now on file.</p>
+  <span class="status status-documented">● Documented &amp; Imaged</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Federal Records — Not Yet Examined</div>
+  <h4>NARA RG 49 — General Land Office, Choctaw Scrip Acts and Fayetteville Land Office Registers</h4>
+  <p>Record Group 49 holds Choctaw Scrip Acts and related land warrant records, including the underlying GLO case file for accession AR2690__.426 and the Fayetteville Land Office entry registers that would document Spencer's filing date, witnesses, and place of residence at time of application.</p>
+  <span class="status status-pending">● Not yet examined</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Federal Records — Not Yet Examined</div>
+  <h4>NARA RG 75 — Bureau of Indian Affairs, Dancing Rabbit Creek Claims</h4>
+  <p>Record Group 75 holds individual Choctaw allotment files and Dancing Rabbit Creek treaty claims. The upstream documentation for Certificate 19B — including Canne Chubbee's original claim and Co-cha-tubbee's representative status — is expected to be in this record group. Co-cha-tubbee is also searchable in the Armstrong Roll (1831) and Choctaw removal records held here.</p>
+  <span class="status status-pending">● Not yet examined</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Federal Census</div>
+  <h4>1850 &amp; 1860 Federal Census — Household Reconstruction</h4>
+  <p>1850 Federal Census, Johnson County, Arkansas, Mulberry Township, page 250, families 21–22. 1860 Federal Census, Johnson County, Arkansas, Floyd Township — W. R. "Horne" on page 981, lines 35–38, and John T. "Homer" on page 982, lines 1–7. The 1860 entry for Spencer Horner's household has not been retrieved at the field-by-field level for real estate and personal property values.</p>
+  <span class="status status-reviewed">● Reviewed (partial)</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Court Records — Acquisition in Progress</div>
+  <h4>Estate of Spencer Horner, 1865</h4>
+  <p>Johnson County Court Records. Administrator: Dr. John Turner Horner. Expected to name heirs and document property disposition after the murder.</p>
+  <span class="status status-pending">● Acquisition in progress</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Court Records — Not Yet Examined</div>
+  <h4>Johnson County Deed Records, 1865–1870 — Post-1864 Land Transfer</h4>
+  <p>Permelia Turner Horner sold the Floyd Township farm for a horse and wagon after the murders. The deed recording that transfer — identifying the buyer, date, and price — has not been located. Johnson County deed records from 1865–1870 have not been systematically examined for this transaction. <span class="new-badge">v17</span></p>
+  <span class="status status-pending">● Not yet examined</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Military Records</div>
+  <h4>Company K, 2nd Arkansas Infantry (US) — CMSR Cluster</h4>
+  <p>NARA. Service and death records for Francis Marion Acord, William Riley Horner, William Gordon Acord, and George Washington Middleton. Confirms: "William Riley Horner — reported killed by guerillas 10 August, 1864, Johnson Co., Arkansas."</p>
+  <span class="status status-reviewed">● Reviewed</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Military Records</div>
+  <h4>CMSR — John Fry Hill, 7th Arkansas Cavalry (CSA)</h4>
+  <p>Regiment in Dardanelle, August 3, 1864 (day after the attack). September 1864: "Absent — Detached." Wounded at Battle of Pilot Knob, September 27, 1864. Contradicts his 1866 amnesty petition claims.</p>
+  <span class="status status-reviewed">● Reviewed</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Military Records</div>
+  <h4>CMSR — Hiram Boen, Co. E, 2nd Arkansas Infantry (US)</h4>
+  <p>AWOL from May 28, 1864 to January 1, 1865. Desertion charge cleared by War Department 1866, Special Order Bo-276-66, without stated reason.</p>
+  <span class="status status-reviewed">● Reviewed</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Court Records</div>
+  <h4>John Fry Hill Amnesty Petition, 1866</h4>
+  <p>Handwritten petition to President Andrew Johnson. Claims Hill did not return to Johnson County until October 1865 — directly contradicted by his CMSR. Successfully petitioned. Recovered seized property.</p>
+  <span class="status status-reviewed">● Reviewed</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Pension Records</div>
+  <h4>Widow's &amp; Minor Pensions — Horner / Acord</h4>
+  <p>Permelia Turner Horner filed widow's pension August 17, 1865. Dr. John Turner Horner filed minor pension for orphaned Acord children September 7, 1865. His own invalid pension (1893) rejected: War Department ruled "did not enlist himself."</p>
+  <span class="status status-reviewed">● Reviewed</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Oral History</div>
+  <h4>1942 Horner Family Transcript</h4>
+  <p>Recorded by Eva Horner, 78 years after the events. Names individuals, describes the attack, the cave refuge, the reprisal hunt, and the gold. FindAGrave #9297073. Single known copy, privately held.</p>
+  <span class="status status-reviewed">● Held by researcher</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Pension Record</div>
+  <h4>Arkansas Ex-Confederate Pension Records — Henry Stewart, 1910–1915</h4>
+  <p>Page 283 of 302. Implies Confederate military service; no unit or enlistment record located. Cross-reference with NARA M317 CMSR pending.</p>
+  <img src="https://daniel-lingar.github.io/horner-archive/henry-stewart-confederate-pension.jpg" alt="Arkansas Ex-Confederate Pension Record — Henry Stewart, page 283" class="doc-img" style="max-width:400px; margin-top:0.7rem;">
+  <span class="status status-documented">● Documented</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">GPS Documentation</div>
+  <h4>Dewberry Site Survey, 2003</h4>
+  <p>Jimmie Dewberry (2003). Three coordinates: Moore Cemetery, Horner house site, cave/bluff. FamilySearch LH23-VP3. Cross-verified against modern topography.</p>
+  <span class="status status-documented">● Verified</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Historical Text</div>
+  <h4>Goodspeed Barry County, MO History, 1888</h4>
+  <p>Biographical entry for John Fry Hill establishing his dual role as Johnson County sheriff and colonel of the 7th Arkansas Cavalry (CSA) during the war.</p>
+  <span class="status status-reviewed">● Reviewed</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Pension File — Physical Retrieval Required</div>
+  <h4>John Turner Horner — Rejected Pension File, NARA RG 15, Application 1,143,763</h4>
+  <p>Filed March 2, 1894. Rejected October 5, 1894. File is held at NARA and has not been digitized. Expected contents: Horner's sworn service statement, witness affidavits, and documentation relevant to his Civil War activities and the reprisal period. <strong>Highest-priority unretrieved document in this research.</strong></p>
+  <span class="status status-required">● Physical retrieval required — NARA</span>
+</div>
+
+<div class="doc-entry">
+  <div class="doc-type">Cartographic Records — Not Yet Examined</div>
+  <h4>Original GLO Survey Plat — Sections 19 &amp; 22, T12N R24W</h4>
+  <p>Period surveyors noted timber type, water features, terrain, and rock formations. These field notes may independently document the bluff and cave corridor identified through LiDAR analysis. Location: BLM GLO Records or NARA cartographic holdings. <span class="new-badge">v17</span></p>
+  <span class="status status-pending">● Not yet examined</span>
+</div>
+
+
+<!-- §15 FULL DOSSIER -->
+<div class="section-label" id="dossier">§ 15</div>
+<h2>Full Research Dossier</h2>
+
+<h3>The Killing of John Spencer Horner — Complete Dossier</h3>
+
+<p>Version 17.0 · June 2026 · Patent image integrated · Choctaw scrip analysis expanded · New open questions OQ-17 through OQ-22 · Post-1864 deed transfer gap documented · GLO survey plat identified as research target · Co-cha-tubbee identity trail opened · All prior research: military records integration · CMSR cluster · Reprisal hunt analysis · Land patents · GPS data · 1942 transcript · Confederate pension record · Hill amnesty petition · Full ancestry chain · Researcher descent</p>
+
+<p>
+  <a href="https://daniel-lingar.github.io/horner-archive/dossier.pdf">Download PDF</a> &nbsp;·&nbsp;
+  <a href="mailto:lingardaniel1@gmail.com">Licensing Inquiries</a>
+</p>
+
+</main>
+
+<footer>
+  <p>© Daniel Lingar · Free for non-commercial research, educational, and genealogical use with attribution.</p>
+  <p style="margin-top:0.5rem;">Contact for reproduction rights, exhibition use, or documentary licensing: <a href="mailto:lingardaniel1@gmail.com">lingardaniel1@gmail.com</a></p>
+  <p style="margin-top:0.5rem; font-size:0.8rem;">Working document — updated as research progresses · The Killing of John Spencer Horner — Johnson County Civil War Archive · Research by Daniel Lingar · Clarksville, Arkansas</p>
+</footer>
+
+</body>
+</html>
