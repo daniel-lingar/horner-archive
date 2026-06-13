@@ -1,31 +1,40 @@
-# Joseph Hill / Amanda Catherine Hill Acord Correction - 1900 Census Lock
+# Joseph Hill / Amanda Catherine Hill Acord Correction - 1900 Census Clarification
 
 ## Status
 
 Correction note for the Horner-Hill archive and public dossier.
 
+This note supersedes the earlier correction language that treated the 1900 United States Federal Census entry for Joseph Hill in Limestone Township, Johnson County, Arkansas, as proof that Amanda Catherine Hill's father was still living in 1900.
+
 ## Standardized correction
 
-Legacy language stating or implying that Joseph Hill died in the line of duty shortly after the August 1864 Horner murders, or that Amanda Catherine Hill was left a war orphan at age five, should be removed from the public narrative unless a primary source is later produced proving that claim.
+The 1900 Census Joseph Hill reference should not be used as evidence that the elder Joseph Hill, father of Amanda Catherine Hill Acord, survived to 1900. That 1900 Joseph Hill appears to be the son, not Amanda's father.
 
-The corrected version is:
+Therefore, the public narrative should avoid both unsupported extremes:
 
-Joseph Hill survived the Civil War, remained in Johnson County, Arkansas, lived as a local farmer, and was still present in Limestone Township in the 1900 United States Federal Census. Amanda Catherine Hill was therefore not orphaned by Joseph Hill's death in 1864.
+1. It should not state as fact that Amanda Catherine Hill was orphaned by Joseph Hill's death shortly after the August 1864 Horner murders unless a primary source proves that specific claim.
+2. It should not state as fact that Amanda Catherine Hill's father survived to 1900 based on the Limestone Township census entry, because that record appears to identify the son.
+
+The corrected working position is:
+
+Joseph Hill, father of Amanda Catherine Hill Acord, remains a source-sensitive point in the timeline. The 1900 Census reference belongs to the younger Joseph Hill/son and must not be used to prove the elder Joseph Hill's 1900 survival. Amanda's status should be described carefully unless direct evidence establishes when her father died.
 
 ## Public narrative replacement
 
-John Samuel Acord married Amanda Catherine Hill, daughter of Joseph Hill. Joseph Hill was a Union-aligned member of the Hill family, while his brother John Fry Hill served as the Confederate sheriff whose office never investigated the Horner killings. The significance of the marriage remains intact, but it should be framed as a postwar union between the Horner/Acord survivor line and the divided Hill family - not as a marriage between two children orphaned by the same month of wartime violence.
+John Samuel Acord married Amanda Catherine Hill, daughter of Joseph Hill. Joseph Hill belonged to the Union-aligned Hill family, while John Fry Hill served as the Confederate sheriff whose office never investigated the Horner killings. The significance of the marriage remains intact, but the dossier should frame it as a postwar union between the Horner/Acord survivor line and the divided Hill family - not as a marriage between two children definitively orphaned by the same month of wartime violence unless that claim is directly sourced.
 
 ## Genealogical anchor points
 
 - John Samuel Acord - FamilySearch ID: L43H-SMX
 - Amanda Catherine Hill Acord - FamilySearch ID: LCT7-GCC
-- Joseph Hill - present in Limestone Township, Johnson County, Arkansas, in the 1900 U.S. Federal Census
+- Joseph Hill in the 1900 Limestone Township census - treat as the son, not Amanda's father, unless future source review proves otherwise
 
 ## Repository action required
 
-Update all public-facing files, especially `index.html` and `dossier.pdf`, to remove the claim that Joseph Hill died one month after the Horner murders and the claim that Amanda Catherine Hill was orphaned by his death in 1864.
+Update all public-facing files, especially `index.html` and `dossier.pdf`, to remove or qualify the claim that Joseph Hill died one month after the Horner murders and the claim that Amanda Catherine Hill was orphaned by his death in 1864, unless a direct source is added for that specific death timeline.
 
-Recommended commit message when the binary PDF can be safely regenerated:
+Also remove the earlier incorrect correction claim that the 1900 Census proves the elder Joseph Hill was alive in Limestone Township.
 
-`Update Joseph Hill timeline and Amanda Hill status to reflect 1900 Census records`
+Recommended commit message when the public page and binary PDF can be safely regenerated:
+
+`Clarify Joseph Hill 1900 Census identity and Amanda Hill timeline`
