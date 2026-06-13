@@ -2,18 +2,18 @@
 
 ## Status
 
-Correction note for the Horner-Hill archive and public dossier.
+Authoritative correction note for the Horner-Hill archive and public dossier.
 
 This note supersedes the earlier correction language that treated the 1900 United States Federal Census entry for Joseph Hill in Limestone Township, Johnson County, Arkansas, as proof that Amanda Catherine Hill's father was still living in 1900.
 
 ## Standardized correction
 
-The 1900 Census Joseph Hill reference should not be used as evidence that the elder Joseph Hill, father of Amanda Catherine Hill Acord, survived to 1900. That 1900 Joseph Hill appears to be the son, not Amanda's father.
+The 1900 Census Joseph Hill reference should not be used as evidence that the elder Joseph Hill, father of Amanda Catherine Hill Acord, survived to 1900. That 1900 Joseph Hill is to be treated as the son, not Amanda's father, unless a future primary-source review proves otherwise.
 
 Therefore, the public narrative should avoid both unsupported extremes:
 
 1. It should not state as fact that Amanda Catherine Hill was orphaned by Joseph Hill's death shortly after the August 1864 Horner murders unless a primary source proves that specific claim.
-2. It should not state as fact that Amanda Catherine Hill's father survived to 1900 based on the Limestone Township census entry, because that record appears to identify the son.
+2. It should not state as fact that Amanda Catherine Hill's father survived to 1900 based on the Limestone Township census entry, because that record identifies the younger Joseph Hill/son for archive purposes.
 
 The corrected working position is:
 
