@@ -1,0 +1,26 @@
+1860 U.S. Federal Census — Johnson County, Arkansas, Floyd Township
+Sheets 981-982 · Enumerator A.M. Marshall · NARA M653, roll 44
+Transcribed from published image: floyd-township-pages-981-982-horner-cluster.jpg
+Archive: Horner Civil War Archive · OQ-21 closed v20.5 · June 2026
+
+=== PAGE 981 (lines 35-38) — W.R. "Horne" household (William Riley Horner) ===
+Line 35  W.R. Horne     28  M  farmer  TN   Real Estate: $900   Personal Estate: (blank)
+Line 36  Mary           21  F         TN
+Line 37  Sylpha          1  F         AR
+Line 38  John          2/12 M         AR
+
+=== PAGE 982 (lines 1-7) — John T. "Homer" household (John Spencer Horner) ===
+Line  1  John T. Homer  52  M  farmer  TN   Real Estate: $200   Personal Estate: $1,000
+Line  2  Susan          50  F         TN
+Line  3  Lewis          22  M  farmer  TN
+Line  4  Mary           20  F         TN
+Line  5  Spencer        18  M  farmer  TN
+Line  6  Isabell        16  F         TN
+Line  7  Russell        14  M         TN
+
+NOTES
+- Dollar columns apply to head of household row only (standard 1860 Schedule 1 layout).
+- Spencer Horner (line 5) is the son; John T. Homer is the patriarch (b. ~1808; age rounds to 52 in 1860).
+- Combined documented valuation on adjacent lines: $1,100 real estate + $1,000 personal property (Spencer household).
+- William Riley's separate household shows higher real-estate valuation ($900) than his father's ($200), consistent with two propertied farms in the same township cluster.
+- Patents on file (1848 cash entry + 1857 Patent 19B) document additional land not fully reflected in these census columns — see OQ-17/OQ-19.
