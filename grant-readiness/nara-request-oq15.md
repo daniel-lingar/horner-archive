@@ -1,6 +1,6 @@
 # NARA Records Request — OQ-15 / OQ-16 Bundle
 
-**Status:** Draft ready to send · June 2026  
+**Status:** **Sent 16 Jun 2026** from lingardaniel1@gmail.com → inquire@nara.gov · Awaiting NARA reply  
 **To:** inquire@nara.gov (or order via eservices.archives.gov)  
 **Researcher:** Daniel Bret Lingar · lingardaniel1@gmail.com · Clarksville, Johnson County, Arkansas
 
@@ -74,6 +74,7 @@ When ordering through https://eservices.archives.gov/:
 
 ## After sending
 
-- [ ] Log confirmation number in `00_INBOX/_auto_ingest/INGEST_LOG.md`
-- [ ] Update §13 OQ-15 status to "Requested [date]"
+- [x] Sent 16 Jun 2026 (lingardaniel1@gmail.com → inquire@nara.gov)
+- [x] Site §13 + §16 updated to Requested 16 Jun 2026 (v20.9)
+- [ ] Log NARA confirmation/reply in `sources/INGEST_LOG.md` when received
 - [ ] On receipt: deposit scans in `sources/nara/` and update §16 evidentiary table

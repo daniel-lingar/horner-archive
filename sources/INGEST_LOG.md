@@ -11,7 +11,7 @@
 | 2026-06 | GLO field notes T12N R24W | Arkansas COSL (Book 913A / BD0164) | `sources/glo-field-notes-t12n-r24w/` | Primary | OQ-22 closed | 4 excerpt JPGs committed; full 89-page pull local only |
 | 2026-06 | GLO field notes research note | Daniel Lingar | `sources/glo-field-notes-oq22.md` | Secondary | OQ-22 | Methodology + manifest |
 | 2026-06 | Estate 1865 index notes | Johnson County Courthouse index (1973 search failed) | `sources/estate-oq20-research.md` | Primary (index) | OQ-20 | Physical file not retrieved |
-| 2026-06 | NARA request draft OQ-15/16 | Daniel Lingar | `grant-readiness/nara-request-oq15.md` | — | OQ-15, OQ-16 | **Not sent** |
+| 2026-06-16 | NARA request OQ-15/16 | Daniel Lingar → inquire@nara.gov | `grant-readiness/nara-request-oq15.md`, `nara-request-oq15.eml` | — | OQ-15, OQ-16 | **Sent 16 Jun 2026**; awaiting NARA reply/quote |
 | 2026-06 | Audience evidence matrix | Daniel Lingar | `sources/audience-evidence-matrix.md` | — | §16 | Internal grant/education guide |
 | — | NARA pension WC75885 transcript | Prior research | Cited in §16; originals pending | Primary | William R. Horner | Full file retrieval funded deliverable |
 | — | Land Patent 19B image | BLM GLO / on-site | `index.html` §04 | Primary | OQ-19 upstream open | Imaged on site |
