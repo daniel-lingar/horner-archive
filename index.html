@@ -4,6 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Killing of John Spencer Horner — Johnson County Civil War Archive</title>
+<meta name="description" content="Public history archive documenting the August 2, 1864 killing of John Spencer Horner in Floyd Township, Johnson County, Arkansas — land records, GPS sites, primary sources, and open research questions.">
+<meta property="og:title" content="The Killing of John Spencer Horner — Johnson County Civil War Archive">
+<meta property="og:description" content="Descendant-led public history archive: Choctaw scrip land, August 1864 attack, seven deaths of 1864, Hill sheriff conflict, and verified GPS sites in Johnson County, Arkansas.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://daniel-lingar.github.io/horner-archive/">
+<meta property="og:image" content="https://daniel-lingar.github.io/horner-archive/william-riley-horner-tombstone.png">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
 <style>
   :root {
     --bg: #f8f5ef;
@@ -240,6 +247,34 @@
     margin-top: 4rem;
   }
   footer a { color: #a08060; }
+  #site-map { height: 420px; border: 1px solid var(--border); margin: 1.2rem 0; }
+  .map-links { font-size: 0.88rem; margin-bottom: 1rem; }
+  .photo-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 0.9rem;
+    margin: 1.2rem 0;
+  }
+  .photo-gallery figure {
+    margin: 0;
+    border: 1px solid var(--border);
+    background: var(--card);
+    padding: 0.4rem;
+  }
+  .photo-gallery img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+    border: 1px solid var(--border);
+    cursor: pointer;
+  }
+  .photo-gallery figcaption {
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 0.4rem;
+    line-height: 1.35;
+  }
   @media (max-width: 600px) {
     body { font-size: 15px; }
     header { padding: 1.5rem 1rem; }
@@ -254,7 +289,7 @@
   <div class="label">Johnson County Civil War Archive · Floyd Township, Arkansas</div>
   <h1>The Killing of <em>John Spencer Horner</em></h1>
   <div class="sub">Floyd Township, Johnson County, Arkansas — August 2, 1864</div>
-  <div class="sub" style="margin-top:0.3rem; font-size:0.8rem;">Research: Daniel Lingar &nbsp;·&nbsp; Dossier v. 20.0 June 2026 &nbsp;·&nbsp; Clarksville, AR</div>
+  <div class="sub" style="margin-top:0.3rem; font-size:0.8rem;">Research: Daniel Lingar &nbsp;·&nbsp; Dossier v. 20.1 June 2026 &nbsp;·&nbsp; Clarksville, AR</div>
 </header>
 
 <nav>
@@ -263,10 +298,13 @@
   <a href="#orphans">The Children</a>
   <a href="#deaths">Seven Deaths</a>
   <a href="#map">Map</a>
+  <a href="#field-docs">Field Docs</a>
   <a href="#people">People</a>
   <a href="#sheriff">The Sheriff</a>
   <a href="#reckoning">Reckoning</a>
   <a href="#suspect">Suspect</a>
+  <a href="#gold">The Gold</a>
+  <a href="#docs">Documents</a>
   <a href="#descent">The Line</a>
   <a href="#yale">Yale Cemetery</a>
   <a href="#open">Open Questions</a>
@@ -484,12 +522,52 @@
 
 <p><strong>Directions:</strong> From Ozone, AR, take Highway 86 (Low Gap Road) west approximately 2.3 miles. Turn north toward Farris Springs. A locked cable blocks access approximately one mile from the cemetery.</p>
 
+<h3>Interactive Site Map <span class="new-badge">v20.1</span></h3>
+<p class="map-links">
+  <a href="horner-sites.kml">Download KML</a> (shelter investigation polygons, gate, cemetery, homestead, bluff) &nbsp;·&nbsp;
+  <a href="https://www.google.com/maps/d/u/0/create?hl=en">Import into Google My Maps</a>
+</p>
+<div id="site-map" role="img" aria-label="Map of Horner archive GPS sites in Johnson County, Arkansas"></div>
+
 <h3>Then &amp; Now — Johnson County, 1860 vs. Today</h3>
 
 <img src="https://daniel-lingar.github.io/horner-archive/colton-1860-johnson-v2.jpg" alt="Detail from Colton's Railroad &amp; Township Map of Arkansas, 1860" class="doc-img">
 <p class="doc-img-caption"><em>Colton's Railroad &amp; Township Map of Arkansas, 1860 — Johnson County (teal), Franklin County (pink). Clarksville is the county seat. Floyd Township is in the northern hill country above the Mulberry River.</em></p>
 
 <p><strong>Historical map source:</strong> "Colton's Railroad &amp; Township Map of Arkansas," compiled by D.F. Shall from U.S. surveys, published by Johnson &amp; Browning, New York, 1860. <a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~229244~5508007:Arkansas">David Rumsey Map Collection, Stanford University Libraries</a>.</p>
+
+<!-- FIELD DOCUMENTATION -->
+<div class="section-label" id="field-docs">§ 04b</div>
+<h2>Field Documentation — Moore Cemetery <span class="new-badge">v20.1</span></h2>
+
+<p>On-site photographs, June 2026. GPS anchor: Moore Cemetery, 35.6666°N, 93.4955°W (Jimmie Dewberry survey, 2003; cross-verified). Stones visible include Permelia Turner Horner (d. Aug 9, 1892), John Spencer Horner (murdered Aug 2, 1864), and William Riley Horner (d. Aug 10, 1864).</p>
+
+<div class="photo-gallery">
+  <figure>
+    <a href="field-docs/moore-cemetery-stones-row-01.jpg"><img src="field-docs/moore-cemetery-stones-row-01.jpg" alt="Four Horner family tombstones in a row at Moore Cemetery"></a>
+    <figcaption>Four family stones in situ — Moore Cemetery clearing.</figcaption>
+  </figure>
+  <figure>
+    <a href="field-docs/moore-cemetery-stones-row-02.jpg"><img src="field-docs/moore-cemetery-stones-row-02.jpg" alt="Permelia, Spencer, and William Riley Horner markers"></a>
+    <figcaption>Permelia, Spencer, and William Riley Horner markers.</figcaption>
+  </figure>
+  <figure>
+    <a href="field-docs/moore-cemetery-overview.jpg"><img src="field-docs/moore-cemetery-overview.jpg" alt="Overview of Moore Cemetery among trees"></a>
+    <figcaption>Cemetery overview — wooded hilltop burial ground.</figcaption>
+  </figure>
+  <figure>
+    <a href="field-docs/moore-cemetery-panorama.jpg"><img src="field-docs/moore-cemetery-panorama.jpg" alt="Panoramic view of Moore Cemetery"></a>
+    <figcaption>Panoramic view of the cemetery clearing.</figcaption>
+  </figure>
+  <figure>
+    <a href="field-docs/moore-cemetery-permelia-stone.jpg"><img src="field-docs/moore-cemetery-permelia-stone.jpg" alt="Permelia Turner Horner tombstone"></a>
+    <figcaption>Permelia Turner Horner — d. Aug 9, 1892.</figcaption>
+  </figure>
+  <figure>
+    <a href="field-docs/moore-cemetery-stone-detail.jpg"><img src="field-docs/moore-cemetery-stone-detail.jpg" alt="Horner family marker detail"></a>
+    <figcaption>Marker detail — weathered inscription surface.</figcaption>
+  </figure>
+</div>
 
 
 <!-- §05 PEOPLE -->
@@ -550,7 +628,7 @@
   <div class="role">Union Soldier · Brother of the Sheriff</div>
   <h4>Joseph Hill</h4>
   <div class="dates">b. January 9, 1823, Perry, TN · d. September 1864, Johnson Co., AR</div>
-  <p>Son of Marcus Mark Hill. Fought for the Union — 2nd Arkansas Cavalry (US). Died one month after Spencer was murdered. His daughter Amanda Catherine Hill later married John Samuel Acord.</p>
+  <p>Son of Marcus Mark Hill. Fought for the Union — 2nd Arkansas Cavalry (US). Family records place his death in September 1864, Johnson County; the exact date relative to the August murders is not established by a primary document in this archive. His daughter Amanda Catherine Hill later married John Samuel Acord. <em>Note:</em> a 1900 Limestone Township census entry for Joseph Hill refers to the younger Joseph Hill (son), not Amanda's father, unless future source review proves otherwise.</p>
 </div>
 
 <div class="person-card">
@@ -763,11 +841,11 @@
 </div>
 
 <div class="highlight-box">
-  <p><strong>The double bloodline.</strong> Daniel Lingar descends from both the Horner victims and the Hill family. John Samuel Acord married Amanda Catherine Hill, daughter of Joseph Hill — the Union soldier whose brother John Fry Hill was the Confederate sheriff who never investigated the murder. The boy who watched his grandfather die married into the family of the man who let the killers go free. Both bloodlines run in the same veins today.</p>
+  <p><strong>The double bloodline.</strong> Daniel Lingar descends from both the Horner victims and the Hill family. John Samuel Acord married Amanda Catherine Hill, daughter of Joseph Hill — a Union-aligned member of the divided Hill family whose brother John Fry Hill was the Confederate sheriff who never investigated the murder. The boy who watched his grandfather die married into the county power structure that let the killings go uninvestigated. Both bloodlines run in the same veins today.</p>
 </div>
 
 <div class="highlight-box">
-  <p><strong>The impossible marriage, 1876.</strong> John Samuel Acord was seven years old when he watched his grandfather shot in the potato patch. Amanda Catherine Hill was five years old when her father — Union soldier Joseph Hill — died one month after the murders. Her uncle was the Confederate sheriff who never investigated. Both orphaned by the same war, both raised in the shadow of the same violence, they married twelve years later and had fifteen children. The fifteenth child was Rosie. Without that fifteenth child, this archive would not exist. The reconciliation the county never achieved on paper happened in one bloodline.</p>
+  <p><strong>The impossible marriage, 1876.</strong> John Samuel Acord was seven years old when he watched his grandfather shot in the potato patch. Amanda Catherine Hill was five years old during the summer of 1864, when her uncle — Confederate sheriff John Fry Hill — held office in the county that would not investigate the killings. Her father Joseph Hill belonged to the Union-aligned Hill line; his precise death date remains source-sensitive and should not be stated as fact without direct documentation. They married twelve years later and had fifteen children. The fifteenth child was Rosie. Without that fifteenth child, this archive would not exist. The reconciliation the county never achieved on paper happened in one bloodline.</p>
 </div>
 
 
@@ -1036,7 +1114,7 @@
 
 <h3>The Killing of John Spencer Horner — Complete Dossier</h3>
 
-<p>Version 20.0 · June 2026 · B-suffix error corrected (160 acres = child under ten, not over ten) · Impossible marriage section added · Double bloodline thesis integrated · Grant package v20 synchronized · All prior research: 7th Cavalry companies · Masonic-Stewart connection · OQ-14 confirmed · OQ-23 and OQ-24 added · Patent 19B image · CMSR cluster · Reprisal hunt analysis · Land patents · GPS data · 1942 transcript · Confederate pension record · Hill amnesty petition · Full ancestry chain · Researcher descent</p>
+<p>Version 20.1 · June 2026 · Joseph Hill timeline qualified · Moore Cemetery field gallery · Interactive site map · KML download · Henry Stewart pension image fixed · B-suffix error corrected (160 acres = child under ten, not over ten) · Impossible marriage section added · Double bloodline thesis integrated · Grant package v20 synchronized · All prior research: 7th Cavalry companies · Masonic-Stewart connection · OQ-14 confirmed · OQ-23 and OQ-24 added · Patent 19B image · CMSR cluster · Reprisal hunt analysis · Land patents · GPS data · 1942 transcript · Confederate pension record · Hill amnesty petition · Full ancestry chain · Researcher descent</p>
 
 <p>
   <a href="https://daniel-lingar.github.io/horner-archive/dossier.pdf">Download PDF</a> &nbsp;·&nbsp;
@@ -1050,6 +1128,31 @@
   <p style="margin-top:0.5rem;">Contact for reproduction rights, exhibition use, or documentary licensing: <a href="mailto:lingardaniel1@gmail.com">lingardaniel1@gmail.com</a></p>
   <p style="margin-top:0.5rem; font-size:0.8rem;">Working document — updated as research progresses · The Killing of John Spencer Horner — Johnson County Civil War Archive · Research by Daniel Lingar · Clarksville, Arkansas</p>
 </footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+(function () {
+  var map = L.map('site-map').setView([35.663, -93.488], 13);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
+
+  var sites = [
+    { name: 'Moore Cemetery', lat: 35.6666, lng: -93.4955, note: 'Spencer, William, Permelia Horner' },
+    { name: 'Spencer Horner Homestead', lat: 35.6681, lng: -93.4981, note: 'Attack site — Aug 2, 1864' },
+    { name: 'Bluff / Cave Refuge', lat: 35.6583, lng: -93.4888, note: 'William Riley Horner — died Aug 10, 1864' },
+    { name: 'Ozone, AR', lat: 35.653, lng: -93.448, note: 'Nearest community — 2.3 mi east' },
+    { name: 'Yale Cemetery', lat: 35.638, lng: -93.572, note: 'Hill, Stewart, Acord burials' },
+    { name: 'Clarksville, AR', lat: 35.471, lng: -93.467, note: 'County seat — Sheriff Hill' }
+  ];
+
+  sites.forEach(function (site) {
+    L.marker([site.lat, site.lng]).addTo(map)
+      .bindPopup('<strong>' + site.name + '</strong><br>' + site.note);
+  });
+})();
+</script>
 
 </body>
 </html>
