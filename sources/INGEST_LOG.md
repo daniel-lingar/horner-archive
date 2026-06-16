@@ -13,6 +13,7 @@
 | 2026-06 | Estate 1865 index notes | Johnson County Courthouse index (1973 search failed) | `sources/estate-oq20-research.md` | Primary (index) | OQ-20 | Physical file not retrieved |
 | 2026-06-16 | NARA request OQ-15/16 | Daniel Lingar → inquire@nara.gov | `grant-readiness/nara-request-oq15.md`, `nara-request-oq15.eml` | — | OQ-15, OQ-16 | **Sent 16 Jun 2026**; awaiting NARA reply/quote |
 | 2026-06 | Audience evidence matrix | Daniel Lingar | `sources/audience-evidence-matrix.md` | — | §16 | Internal grant/education guide |
+| 2026-06-16 | OQ-PPAN-001 tracker | Daniel Lingar | `sources/oq-ppan-001.md` | — | OQ-PPAN-001, §04b | PPAN lookup open; matrix TBD |
 | — | NARA pension WC75885 transcript | Prior research | Cited in §16; originals pending | Primary | William R. Horner | Full file retrieval funded deliverable |
 | — | Land Patent 19B image | BLM GLO / on-site | `index.html` §04 | Primary | OQ-19 upstream open | Imaged on site |
 | — | Moore Cemetery field photos | Daniel Lingar, June 2026 | `index.html` §field-docs | Primary | §05 | GPS cross-verified |
@@ -27,7 +28,8 @@
 
 ## Pending intake (not yet logged as deposited)
 
-- OQ-20 estate request letters drafted: `grant-readiness/estate-request-oq20.md` — **not yet sent**
+- OQ-20 estate request letters drafted: `grant-readiness/estate-request-oq20.md` — clerk mail / archives email status TBD
+- OQ-PPAN-001 deliverable matrix — fill via ARCountyData + map screenshots
 - Spencer Horner Estate 1865 probate file (Johnson County / State Archives)
 - William R. Horner Estate 1865 probate file
 - NARA RG 15 pension #1,143,763 (OQ-15)

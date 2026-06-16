@@ -1,0 +1,87 @@
+# OQ-PPAN-001 — Modern Parcel / PPAN Identification for Horner–Moore Sites
+
+| Metadata | Value |
+| --- | --- |
+| **Status** | **Open** |
+| **Priority** | **High** |
+| **Source verification** | [ARCountyData — Johnson County](https://www.arcountydata.com/county.asp?county=Johnson) |
+| **Data recency** | Assessor: 15 Jun 2026 · Collector: 16 Jun 2026 |
+| **Key capability** | Free public search via PPAN / Parcel Number field |
+
+## Purpose
+
+Identify the modern Johnson County PPAN (parcel number) and assessor records covering the Horner homestead, Moore Cemetery, Moore homestead, bluff/cave/overhang area, and related hillside targets.
+
+---
+
+## Reference framework
+
+### Historic legal anchor (controlling reference)
+
+**Rule:** Use this description in formal clerk, assessor, estate, and land-record correspondence. Modern PPANs may not match the 1857 patent boundaries one-to-one. Do not anchor formal letters on a PPAN until current surface parcel boundaries are mapped to the historic patent.
+
+| Field | Value |
+| --- | --- |
+| Tract size | 160 acres |
+| Source document | Federal Land Patent / Certificate **19B** |
+| Township / Range | **T12N R24W** |
+| Aliquot parts | NE¼ SE¼, Sec. 19 · NW¼ SE¼, Sec. 19 · NW¼ NW¼, Sec. 22 · SE¼ NW¼, Sec. 22 |
+
+**Related:** 1848 cash entry (Document **4706**, Fayetteville Land Office) — additional acreage; section breakdown not yet pinned on site.
+
+### GPS coordinates to cross-check
+
+| Site | Latitude | Longitude | Confidence |
+| --- | --- | --- | --- |
+| Spencer Horner homestead (attack site) | 35.6681°N | 93.4981°W | GPS-verified (Dewberry 2003) |
+| Moore Cemetery | 35.6666°N | 93.4955°W | GPS-verified |
+| Moore Cemetery (KML label) | 35.66217°N | 93.4955°W | KML waypoint — reconcile in field |
+| Moore homestead / old Moore place | 35.65638°N | 93.4955°W | Approximate — field-check |
+| Bluff / cave refuge | 35.6583°N | 93.4888°W | GPS-verified |
+| Overhang target A (KML) | 35.65885°N | 93.4893°W | KML shelter target |
+| Overhang target B (KML) | 35.6579°N | 93.4885°W | KML shelter target |
+| Locked gate / cable (KML) | 35.64768°N | 93.4955°W | Approximate access point |
+
+**Map assets:** `horner-sites.kml` · §04 map table · [Regrid Johnson County](https://app.regrid.com/us/ar/johnson) · [Acres plat map](https://www.acres.com/plat-map/map/ar/johnson-county-ar)
+
+---
+
+## Lookup workflow
+
+1. **ARCountyData:** Johnson County → Search Real Estate Records. Search by legal description (T12N R24W, Sec. 19 & 22) and by PPAN if returned from map click.
+2. **Spatial cross-check:** Plot coordinates on Regrid or Acres; note which parcel polygon contains each point.
+3. **Extract:** PPAN, owner/taxpayer, acreage, modern legal description, school district.
+4. **Feature verification:** Confirm which sites fall inside each parcel (homestead, cemetery, bluff, gate/access corridor).
+5. **Archive deposit:** Screenshot parcel cards + map views → `sources/ppan-001/` (create on completion).
+
+---
+
+## Deliverable matrix
+
+*The historic 160-acre tract may now be split, merged, or absorbed into larger rural farm, timber, or pasture tracts. Cemetery and bluff areas may not have separate PPANs.*
+
+| Site | Coordinates | Modern PPAN | Owner / taxpayer | Acreage | Legal description | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Horner homestead | 35.6681, -93.4981 | TBD | TBD | TBD | TBD | Likely overlaps Patent 19B Sec. 19/22 |
+| Moore Cemetery | 35.6666, -93.4955 | TBD | TBD | TBD | TBD | Cemetery sliver or parent tract |
+| Moore homestead | 35.65638, -93.4955 | TBD | TBD | TBD | TBD | Approximate point |
+| Bluff / cave / overhang | 35.6583, -93.4888 | TBD | TBD | TBD | TBD | Hillside / timber |
+| Overhang target A | 35.65885, -93.4893 | TBD | TBD | TBD | TBD | KML target |
+| Overhang target B | 35.6579, -93.4885 | TBD | TBD | TBD | TBD | KML target |
+| Locked gate / access | 35.64768, -93.4955 | TBD | TBD | TBD | TBD | Access corridor context |
+
+---
+
+## Cross-references
+
+- OQ-20 estate/deed search — use **Patent 19B legal description**, not PPAN, in clerk letters
+- `grant-readiness/estate-request-oq20.md`
+- `index.html` §04 land description · §04b coordinate table
+
+## On completion
+
+- [ ] Fill deliverable matrix above
+- [ ] Deposit screenshots in `sources/ppan-001/`
+- [ ] Update §13 / §16 on site
+- [ ] Log in `sources/INGEST_LOG.md`
+- [ ] Optional: add PPAN layer note to `horner-sites.kml`
