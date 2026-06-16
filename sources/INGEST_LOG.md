@@ -27,6 +27,7 @@
 
 ## Pending intake (not yet logged as deposited)
 
+- OQ-20 estate request letters drafted: `grant-readiness/estate-request-oq20.md` — **not yet sent**
 - Spencer Horner Estate 1865 probate file (Johnson County / State Archives)
 - William R. Horner Estate 1865 probate file
 - NARA RG 15 pension #1,143,763 (OQ-15)

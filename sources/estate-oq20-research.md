@@ -47,6 +47,8 @@ Zilpha Boen, widow; guardian William S. for minor children. Connects Boen–Horn
 
 ## Retrieval plan (2026)
 
+**Ready-to-send letters:** [`grant-readiness/estate-request-oq20.md`](../grant-readiness/estate-request-oq20.md)
+
 ### 1. Johnson County Circuit Clerk (Clarksville)
 
 Request:
