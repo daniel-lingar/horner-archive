@@ -1,0 +1,839 @@
+{
+  "township": "12N",
+  "range": "24W",
+  "meridian": "Fifth Principal (Louisiana Purchase)",
+  "county": "Johnson County, Arkansas",
+  "patent_sections": [
+    19,
+    22
+  ],
+  "source": "Arkansas Commissioner of State Lands \u2014 Transcribed Field Notes",
+  "search_url": "https://cosl.org/History/LouisianaPurchase/TranscribedFieldNotesTownshipRange",
+  "published_excerpts": [
+    "excerpt-index-t12n-r24w.jpg",
+    "excerpt-sec21-22-mulberry-dec1845.jpg",
+    "excerpt-sec19-corner-jan1844.jpg",
+    "excerpt-sec19-homer-field-jan1844.jpg"
+  ],
+  "transcription": "sections-19-22-transcription.txt",
+  "oq_status": "OQ-22 closed v20.7",
+  "bundles": [
+    {
+      "quarter": "NW",
+      "township": "12",
+      "range": "24",
+      "book": "225A",
+      "bundle": "BD0078"
+    },
+    {
+      "quarter": "NW",
+      "township": "12",
+      "range": "24",
+      "book": "913A",
+      "bundle": "BD0164"
+    }
+  ],
+  "pages": [
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 1,
+      "file": "225A-BD0078-page-001.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62596.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62596.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62596.jpg&BD=BD0078&BK=225A&SQ=1"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 2,
+      "file": "225A-BD0078-page-002.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62597.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62597.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62597.jpg&BD=BD0078&BK=225A&SQ=2"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 3,
+      "file": "225A-BD0078-page-003.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62598.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62598.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62598.jpg&BD=BD0078&BK=225A&SQ=3"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 4,
+      "file": "225A-BD0078-page-004.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62599.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62599.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62599.jpg&BD=BD0078&BK=225A&SQ=4"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 5,
+      "file": "225A-BD0078-page-005.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62600.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62600.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62600.jpg&BD=BD0078&BK=225A&SQ=5"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 6,
+      "file": "225A-BD0078-page-006.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62601.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62601.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62601.jpg&BD=BD0078&BK=225A&SQ=6"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 7,
+      "file": "225A-BD0078-page-007.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62602.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62602.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62602.jpg&BD=BD0078&BK=225A&SQ=7"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 8,
+      "file": "225A-BD0078-page-008.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62603.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62603.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62603.jpg&BD=BD0078&BK=225A&SQ=8"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 9,
+      "file": "225A-BD0078-page-009.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62604.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62604.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62604.jpg&BD=BD0078&BK=225A&SQ=9"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 10,
+      "file": "225A-BD0078-page-010.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62605.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62605.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62605.jpg&BD=BD0078&BK=225A&SQ=10"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 11,
+      "file": "225A-BD0078-page-011.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62606.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62606.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62606.jpg&BD=BD0078&BK=225A&SQ=11"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 12,
+      "file": "225A-BD0078-page-012.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62607.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62607.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62607.jpg&BD=BD0078&BK=225A&SQ=12"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 13,
+      "file": "225A-BD0078-page-013.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62608.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62608.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62608.jpg&BD=BD0078&BK=225A&SQ=13"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 14,
+      "file": "225A-BD0078-page-014.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62609.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62609.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62609.jpg&BD=BD0078&BK=225A&SQ=14"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 15,
+      "file": "225A-BD0078-page-015.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62610.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62610.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62610.jpg&BD=BD0078&BK=225A&SQ=15"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 16,
+      "file": "225A-BD0078-page-016.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62611.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62611.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62611.jpg&BD=BD0078&BK=225A&SQ=16"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 17,
+      "file": "225A-BD0078-page-017.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62612.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62612.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62612.jpg&BD=BD0078&BK=225A&SQ=17"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 18,
+      "file": "225A-BD0078-page-018.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62613.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62613.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62613.jpg&BD=BD0078&BK=225A&SQ=18"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 19,
+      "file": "225A-BD0078-page-019.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62614.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62614.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62614.jpg&BD=BD0078&BK=225A&SQ=19"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 20,
+      "file": "225A-BD0078-page-020.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62615.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62615.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62615.jpg&BD=BD0078&BK=225A&SQ=20"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 21,
+      "file": "225A-BD0078-page-021.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62616.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62616.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62616.jpg&BD=BD0078&BK=225A&SQ=21"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 22,
+      "file": "225A-BD0078-page-022.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62617.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62617.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62617.jpg&BD=BD0078&BK=225A&SQ=22"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 23,
+      "file": "225A-BD0078-page-023.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62618.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62618.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62618.jpg&BD=BD0078&BK=225A&SQ=23"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 24,
+      "file": "225A-BD0078-page-024.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62619.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62619.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62619.jpg&BD=BD0078&BK=225A&SQ=24"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 25,
+      "file": "225A-BD0078-page-025.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62620.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62620.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62620.jpg&BD=BD0078&BK=225A&SQ=25"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 26,
+      "file": "225A-BD0078-page-026.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62621.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62621.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62621.jpg&BD=BD0078&BK=225A&SQ=26"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 27,
+      "file": "225A-BD0078-page-027.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62622.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62622.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62622.jpg&BD=BD0078&BK=225A&SQ=27"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 28,
+      "file": "225A-BD0078-page-028.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62623.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62623.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62623.jpg&BD=BD0078&BK=225A&SQ=28"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 29,
+      "file": "225A-BD0078-page-029.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62624.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62624.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62624.jpg&BD=BD0078&BK=225A&SQ=29"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 30,
+      "file": "225A-BD0078-page-030.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62625.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62625.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62625.jpg&BD=BD0078&BK=225A&SQ=30"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 31,
+      "file": "225A-BD0078-page-031.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62626.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62626.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62626.jpg&BD=BD0078&BK=225A&SQ=31"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 32,
+      "file": "225A-BD0078-page-032.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62627.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62627.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62627.jpg&BD=BD0078&BK=225A&SQ=32"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 33,
+      "file": "225A-BD0078-page-033.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62628.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62628.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62628.jpg&BD=BD0078&BK=225A&SQ=33"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 34,
+      "file": "225A-BD0078-page-034.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62629.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62629.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62629.jpg&BD=BD0078&BK=225A&SQ=34"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 35,
+      "file": "225A-BD0078-page-035.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62630.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62630.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62630.jpg&BD=BD0078&BK=225A&SQ=35"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 36,
+      "file": "225A-BD0078-page-036.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62631.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62631.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62631.jpg&BD=BD0078&BK=225A&SQ=36"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 37,
+      "file": "225A-BD0078-page-037.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62632.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62632.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62632.jpg&BD=BD0078&BK=225A&SQ=37"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 38,
+      "file": "225A-BD0078-page-038.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62633.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62633.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62633.jpg&BD=BD0078&BK=225A&SQ=38"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 39,
+      "file": "225A-BD0078-page-039.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62634.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62634.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62634.jpg&BD=BD0078&BK=225A&SQ=39"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 40,
+      "file": "225A-BD0078-page-040.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62635.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62635.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62635.jpg&BD=BD0078&BK=225A&SQ=40"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 41,
+      "file": "225A-BD0078-page-041.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62636.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62636.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62636.jpg&BD=BD0078&BK=225A&SQ=41"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 42,
+      "file": "225A-BD0078-page-042.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62637.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62637.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62637.jpg&BD=BD0078&BK=225A&SQ=42"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 43,
+      "file": "225A-BD0078-page-043.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62638.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62638.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62638.jpg&BD=BD0078&BK=225A&SQ=43"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 44,
+      "file": "225A-BD0078-page-044.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62639.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62639.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62639.jpg&BD=BD0078&BK=225A&SQ=44"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 45,
+      "file": "225A-BD0078-page-045.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62640.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62640.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62640.jpg&BD=BD0078&BK=225A&SQ=45"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 46,
+      "file": "225A-BD0078-page-046.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62641.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62641.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62641.jpg&BD=BD0078&BK=225A&SQ=46"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 47,
+      "file": "225A-BD0078-page-047.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62642.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62642.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62642.jpg&BD=BD0078&BK=225A&SQ=47"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 48,
+      "file": "225A-BD0078-page-048.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62643.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62643.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62643.jpg&BD=BD0078&BK=225A&SQ=48"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 49,
+      "file": "225A-BD0078-page-049.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62644.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62644.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62644.jpg&BD=BD0078&BK=225A&SQ=49"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 50,
+      "file": "225A-BD0078-page-050.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62645.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62645.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62645.jpg&BD=BD0078&BK=225A&SQ=50"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 51,
+      "file": "225A-BD0078-page-051.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62646.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62646.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62646.jpg&BD=BD0078&BK=225A&SQ=51"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 52,
+      "file": "225A-BD0078-page-052.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62647.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62647.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62647.jpg&BD=BD0078&BK=225A&SQ=52"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 53,
+      "file": "225A-BD0078-page-053.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62648.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62648.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62648.jpg&BD=BD0078&BK=225A&SQ=53"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 54,
+      "file": "225A-BD0078-page-054.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62649.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62649.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62649.jpg&BD=BD0078&BK=225A&SQ=54"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 55,
+      "file": "225A-BD0078-page-055.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62650.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62650.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62650.jpg&BD=BD0078&BK=225A&SQ=55"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 56,
+      "file": "225A-BD0078-page-056.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62651.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62651.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62651.jpg&BD=BD0078&BK=225A&SQ=56"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 57,
+      "file": "225A-BD0078-page-057.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62652.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62652.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62652.jpg&BD=BD0078&BK=225A&SQ=57"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 58,
+      "file": "225A-BD0078-page-058.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62653.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62653.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62653.jpg&BD=BD0078&BK=225A&SQ=58"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 59,
+      "file": "225A-BD0078-page-059.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62654.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62654.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62654.jpg&BD=BD0078&BK=225A&SQ=59"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 60,
+      "file": "225A-BD0078-page-060.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62655.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62655.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62655.jpg&BD=BD0078&BK=225A&SQ=60"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 61,
+      "file": "225A-BD0078-page-061.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62656.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62656.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62656.jpg&BD=BD0078&BK=225A&SQ=61"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 62,
+      "file": "225A-BD0078-page-062.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62657.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62657.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62657.jpg&BD=BD0078&BK=225A&SQ=62"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 63,
+      "file": "225A-BD0078-page-063.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62658.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62658.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62658.jpg&BD=BD0078&BK=225A&SQ=63"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 64,
+      "file": "225A-BD0078-page-064.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62659.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62659.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62659.jpg&BD=BD0078&BK=225A&SQ=64"
+    },
+    {
+      "book": "225A",
+      "bundle": "BD0078",
+      "seq": 65,
+      "file": "225A-BD0078-page-065.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0078/225A/Img62660.jpg",
+      "path": "LPSFNT/BD0078/225A/Img62660.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0078\\225A\\Img62660.jpg&BD=BD0078&BK=225A&SQ=65"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 1,
+      "file": "913A-BD0164-page-001.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41737.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41737.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41737.jpg&BD=BD0164&BK=913A&SQ=1"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 2,
+      "file": "913A-BD0164-page-002.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41738.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41738.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41738.jpg&BD=BD0164&BK=913A&SQ=2"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 3,
+      "file": "913A-BD0164-page-003.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41739.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41739.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41739.jpg&BD=BD0164&BK=913A&SQ=3"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 4,
+      "file": "913A-BD0164-page-004.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41740.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41740.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41740.jpg&BD=BD0164&BK=913A&SQ=4"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 5,
+      "file": "913A-BD0164-page-005.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41741.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41741.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41741.jpg&BD=BD0164&BK=913A&SQ=5"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 6,
+      "file": "913A-BD0164-page-006.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41742.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41742.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41742.jpg&BD=BD0164&BK=913A&SQ=6"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 7,
+      "file": "913A-BD0164-page-007.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41743.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41743.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41743.jpg&BD=BD0164&BK=913A&SQ=7"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 8,
+      "file": "913A-BD0164-page-008.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41744.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41744.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41744.jpg&BD=BD0164&BK=913A&SQ=8"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 9,
+      "file": "913A-BD0164-page-009.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41745.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41745.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41745.jpg&BD=BD0164&BK=913A&SQ=9"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 10,
+      "file": "913A-BD0164-page-010.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41746.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41746.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41746.jpg&BD=BD0164&BK=913A&SQ=10"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 11,
+      "file": "913A-BD0164-page-011.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41747.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41747.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41747.jpg&BD=BD0164&BK=913A&SQ=11"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 12,
+      "file": "913A-BD0164-page-012.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41748.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41748.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41748.jpg&BD=BD0164&BK=913A&SQ=12"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 13,
+      "file": "913A-BD0164-page-013.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41749.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41749.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41749.jpg&BD=BD0164&BK=913A&SQ=13"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 14,
+      "file": "913A-BD0164-page-014.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41750.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41750.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41750.jpg&BD=BD0164&BK=913A&SQ=14"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 15,
+      "file": "913A-BD0164-page-015.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41751.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41751.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41751.jpg&BD=BD0164&BK=913A&SQ=15"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 16,
+      "file": "913A-BD0164-page-016.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41752.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41752.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41752.jpg&BD=BD0164&BK=913A&SQ=16"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 17,
+      "file": "913A-BD0164-page-017.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41753.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41753.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41753.jpg&BD=BD0164&BK=913A&SQ=17"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 18,
+      "file": "913A-BD0164-page-018.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41754.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41754.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41754.jpg&BD=BD0164&BK=913A&SQ=18"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 19,
+      "file": "913A-BD0164-page-019.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41755.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41755.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41755.jpg&BD=BD0164&BK=913A&SQ=19"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 20,
+      "file": "913A-BD0164-page-020.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41756.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41756.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41756.jpg&BD=BD0164&BK=913A&SQ=20"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 21,
+      "file": "913A-BD0164-page-021.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41757.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41757.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41757.jpg&BD=BD0164&BK=913A&SQ=21"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 22,
+      "file": "913A-BD0164-page-022.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img41758.jpg",
+      "path": "LPSFNT/BD0164/913A/Img41758.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img41758.jpg&BD=BD0164&BK=913A&SQ=22"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 23,
+      "file": "913A-BD0164-page-023.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img62545.jpg",
+      "path": "LPSFNT/BD0164/913A/Img62545.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img62545.jpg&BD=BD0164&BK=913A&SQ=23"
+    },
+    {
+      "book": "913A",
+      "bundle": "BD0164",
+      "seq": 24,
+      "file": "913A-BD0164-page-024.jpg",
+      "url": "https://coslstorage.blob.core.windows.net/history-docs/LPSFNT/BD0164/913A/Img62546.jpg",
+      "path": "LPSFNT/BD0164/913A/Img62546.jpg",
+      "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img62546.jpg&BD=BD0164&BK=913A&SQ=24"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+GLO Field Notes — T12N R24W (5th Principal Meridian)
+Johnson County, Arkansas · Patent 19B sections 19 & 22
+Source: Arkansas Commissioner of State Lands, Book 913A, Bundle BD0164 (NW quarter)
+Compared copy index + transcribed pages retrieved June 2026 (OQ-22)
+
+---
+INDEX (Book 913A page 1 / COSL seq 1)
+Township 12 North, Range 24 West — section grid with line-note page references.
+Viewer: https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT/BD0164/913A/Img41737.jpg&BD=BD0164&BK=913A&SQ=1
+
+---
+SECTION 19 & 20 — North line between Sections 19 & 20
+Date: January 5, 1844 (Book 913A page 17 / COSL seq 17)
+
+Between Sections 19 & 20:
+  20.30  Entered John Arringtons field brs E & W & here entered bottom brs E & W
+  20.25  Left the field brs E & W
+  20.25  West Mulberry distance obtained by calculation 144 links wide runs West
+  39.06  Entered G. Homers field brs E & W
+  40.00  Set a ¼ Section corner post [witness trees: Black Gum/Walnut 14 in, Black Oak 14 in]
+  58.40  Left the field brs East & West
+  60.00  A Road brs East & West & here left the bottom brs E & W
+  64.30  A Brook 20 links wide runs S W
+  80.00  Set a post corner to Sections 17,18,19 & 20
+
+Land: "hilly & Rocky except the bottom which is 1st rate soil timber Oak Gum &c undergrowth Oak bushes &c"
+
+Archive note: "G. Homers field" is a surveyor's 1844 occupation notation on the river bottom — not proved as Spencer Horner (patent assignee 1857) without deed chain. Phonetic Homer/Horne/Horner variants appear in census for this family.
+
+---
+SECTION 19 — Corner establishment (adjacent lines)
+Date: January 4, 1844 (Book 913A page 16 / COSL seq 16)
+
+  80.00  Set a post corner to Sections 19,20,29 & 30
+  [Multiple brooks 15–30 links wide; hilly & rocky, poor pine/oak timber]
+
+West — true line between Sections 19 & 30:
+  40.00  Set a ¼ Section corner post
+  [Brook 25 links wide runs North at 71.26 chains]
+
+---
+SECTIONS 21 & 22 — North line (Mulberry corridor)
+Date: December 29, 1845 (Book 913A page 10 / COSL seq 10)
+
+Between Sections 21 & 22, Township 12 North Range 24 West:
+  18.00  Mulberry 110 links wide runs S W
+  21.50  Entered bottom brs N W & S E
+  25.50  A Road brs N W & S E
+  33.10  Entered Subanks field brs E & W
+  40.00  Set a ¼ Section corner post
+  40.40  Left the field brs E & W
+  80.00  Set a post corner to Sections 15,16,21 & 22
+
+Land: "hilly & Rocky soil poor timber Pine & Oak undergrowth Oak bushes &c"
+
+---
+SECTION 22 — West line with Section 15
+(Book 913A page 11 / COSL seq 11)
+
+Corrected line between Sections 15 & 22:
+  80.18  The corner to Sections 15,16,21 & 22
+  Land hilly & Rocky soil poor timber Pine & Oak undergrowth
+
+---
+RELEVANCE TO HORNER HOMESTEAD (Patent 19B, 160 acres)
+
+Patent parcels: Sec 19 (NE¼ SE¼, NW¼ SE¼) · Sec 22 (NW¼ NW¼, SE¼ NW¼)
+
+1844–1845 surveyors describe:
+  • River bottom ("1st rate soil") vs upland ("hilly & Rocky")
+  • Named watercourses: Mulberry (110–144 links wide), multiple brooks
+  • Roads crossing section lines
+  • Pre-patent fields: Arrington, G. Homer(s), Subanks
+
+Corroborates oral/LiDAR geography: bluff-upland vs bottom-land contrast along Little Mulberry corridor. Does not name Spencer Horner (b. ~1809) — he acquires via Choctaw scrip in 1857.
+
+Full COSL bundle: 89 transcribed pages · manifest.json · fetch script: scripts/fetch_cosl_field_notes.py
