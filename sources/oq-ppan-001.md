@@ -2,7 +2,7 @@
 
 | Metadata | Value |
 | --- | --- |
-| **Status** | **Open** |
+| **Status** | **Partial** — Patent 19B PPANs identified via AGISO GIS (16 Jun 2026); GPS hits need ARCountyData verify |
 | **Priority** | **High** |
 | **Source verification** | [ARCountyData — Johnson County](https://www.arcountydata.com/county.asp?county=Johnson) |
 | **Data recency** | Assessor: 15 Jun 2026 · Collector: 16 Jun 2026 |
@@ -62,13 +62,16 @@ Identify the modern Johnson County PPAN (parcel number) and assessor records cov
 
 | Site | Coordinates | Modern PPAN | Owner / taxpayer | Acreage | Legal description | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Horner homestead | 35.6681, -93.4981 | TBD | TBD | TBD | TBD | Likely overlaps Patent 19B Sec. 19/22 |
-| Moore Cemetery | 35.6666, -93.4955 | TBD | TBD | TBD | TBD | Cemetery sliver or parent tract |
-| Moore homestead | 35.65638, -93.4955 | TBD | TBD | TBD | TBD | Approximate point |
-| Bluff / cave / overhang | 35.6583, -93.4888 | TBD | TBD | TBD | TBD | Hillside / timber |
-| Overhang target A | 35.65885, -93.4893 | TBD | TBD | TBD | TBD | KML target |
-| Overhang target B | 35.6579, -93.4885 | TBD | TBD | TBD | TBD | KML target |
-| Locked gate / access | 35.64768, -93.4955 | TBD | TBD | TBD | TBD | Access corridor context |
+| **Patent 19B block** | T12N R24W Sec 19 & 22 | See map | Multiple | 160 (1857) | NE¼ SE¼, NW¼ SE¼, NW¼ NW¼, SE¼ NW¼ | [`patent-19b-parcel-map.md`](ppan-001/patent-19b-parcel-map.md) |
+| Horner homestead | 35.6681, -93.4981 | `001-06437-000` * | YORK EDWARD V & MELISSA K | 40 | NE SW, **Sec. 25** | *AGISO GIS hit — verify; also see `001-06308-000` CRAIN Sec. 19 |
+| Moore Cemetery | 35.6666, -93.4955 | `001-06437-000` * | YORK (same hit) | 40 | Sec. 25 | *Verify on ARCountyData; nearby `001-06408-000` DEWBERRY Sec. 23 |
+| Moore homestead | 35.65638, -93.4955 | `001-06512-000` | U S A | 240 | Sec. 36 NE4 E2 NW | Approximate point |
+| Bluff / cave / overhang | 35.6583, -93.4888 | `001-06512-000` | U S A | 240 | Sec. 36 | AGISO hit |
+| Overhang target A | 35.65885, -93.4893 | `001-06512-000` | U S A | 240 | Sec. 36 | Same polygon as bluff |
+| Overhang target B | 35.6579, -93.4885 | `001-06512-000` | U S A | 240 | Sec. 36 | Same polygon as bluff |
+| Locked gate / access | 35.64768, -93.4955 | `001-06521-000` | GALLOWAY LAND CO LLC | 200 | Sec. 36 S2 SW NE SE S2 SE | Access corridor |
+
+**AGISO pull:** `sources/ppan-001/agiso-query-2026-06-16.txt` · Query script: `scripts/query_ppan_001.py`
 
 ---
 
@@ -80,7 +83,8 @@ Identify the modern Johnson County PPAN (parcel number) and assessor records cov
 
 ## On completion
 
-- [ ] Fill deliverable matrix above
+- [x] AGISO GIS query — Patent 19B PPAN map + GPS point hits (16 Jun 2026)
+- [ ] ARCountyData screenshots to confirm GPS → PPAN
 - [ ] Deposit screenshots in `sources/ppan-001/`
 - [ ] Update §13 / §16 on site
 - [ ] Log in `sources/INGEST_LOG.md`

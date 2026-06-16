@@ -62,7 +62,17 @@ Request:
 
 Search probate / county court records transfer inventories for Johnson County estate packets circa 1865.
 
-### 3. Deed books (parallel track)
+### 3. FamilySearch microfilm (parallel track)
+
+Search [FamilySearch Catalog — Johnson County, Arkansas](https://www.familysearch.org/search/catalog?place=Johnson%20County,%20Arkansas) for:
+
+- Probate records / probate minutes (1864–1870)
+- County court records
+- Deed records (grantor index: Horner, Permelia, Mary Ann)
+
+On-site viewing at Family History Centers; some films digitized with login.
+
+### 4. Deed books (parallel track)
 
 Johnson County deed records **1865–1870**:
 
@@ -70,7 +80,7 @@ Johnson County deed records **1865–1870**:
 - Legal description: T12N R24W, Patent 19B / Certificate 19B, 160 acres, Floyd or Mulberry Township
 - FamilySearch microfilm catalog: Johnson County deeds + probate
 
-### 4. Newton / Webster County MO
+### 5. Newton / Webster County MO
 
 Heirs indexed in Webster County MO in 1865; Mary Ann filed widow pension from **Newton County AR** (July 1865). Cross-county notices may exist in Newton or Webster probate.
 
