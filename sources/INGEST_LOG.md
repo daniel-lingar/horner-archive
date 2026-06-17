@@ -13,7 +13,9 @@
 | 2026-06 | Estate 1865 index notes | Johnson County Courthouse index (1973 search failed) | `sources/estate-oq20-research.md` | Primary (index) | OQ-20 | Physical file not retrieved |
 | 2026-06-16 | NARA request OQ-15/16 | Daniel Lingar → inquire@nara.gov | `grant-readiness/nara-request-oq15.md`, `nara-request-oq15.eml` | — | OQ-15, OQ-16 | **Sent 16 Jun 2026**; awaiting NARA reply/quote |
 | 2026-06 | Audience evidence matrix | Daniel Lingar | `sources/audience-evidence-matrix.md` | — | §16 | Internal grant/education guide |
-| 2026-06-16 | OQ-PPAN-001 tracker | Daniel Lingar | `sources/oq-ppan-001.md` | — | OQ-PPAN-001, §04b | PPAN lookup open; matrix TBD |
+| 2026-06-16 | OQ-PPAN-001 parcel matrix | AGISO CAMA / Daniel Lingar | `sources/ppan-001/completed-matrix.md`, `agiso-matrix-2026-06-16.json` | Primary | OQ-PPAN-001, §04b | Patent 19B + site feature PPANs |
+| 2026-06-17 | OQ-PPAN-001 gate corridor | AGISO CAMA corridor scan | `sources/ppan-001/gate-corridor-2026-06-17.json`, `scripts/scan_access_corridor.py` | Primary | OQ-PPAN-001, §04b | **Primary gate confirmed** `001-03571-000` @ 35.66075, -93.48564 |
+| 2026-06-17 | PPAN interactive map | Daniel Lingar | `ppan-map.html`, `js/horner-site-map.js`, `js/horner-site-map-data.js` | — | OQ-PPAN-001, §04 | Satellite + PPAN popups + access corridors |
 | — | NARA pension WC75885 transcript | Prior research | Cited in §16; originals pending | Primary | William R. Horner | Full file retrieval funded deliverable |
 | — | Land Patent 19B image | BLM GLO / on-site | `index.html` §04 | Primary | OQ-19 upstream open | Imaged on site |
 | — | Moore Cemetery field photos | Daniel Lingar, June 2026 | `index.html` §field-docs | Primary | §05 | GPS cross-verified |
@@ -29,7 +31,7 @@
 ## Pending intake (not yet logged as deposited)
 
 - OQ-20 estate request letters drafted: `grant-readiness/estate-request-oq20.md` — clerk mail / archives email status TBD
-- OQ-PPAN-001 deliverable matrix — fill via ARCountyData + map screenshots
+- OQ-PPAN-001 ARCountyData gate screenshot (optional; GIS confirmation complete)
 - Spencer Horner Estate 1865 probate file (Johnson County / State Archives)
 - William R. Horner Estate 1865 probate file
 - NARA RG 15 pension #1,143,763 (OQ-15)

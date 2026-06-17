@@ -1,0 +1,43 @@
+{
+  "source": "Arkansas AGISO Planning_Cadastre layer 6 (Johnson CAMA, assessor 16 Jun 2026)",
+  "method": "scripts/scan_access_corridor.py — point-in-polygon corridor scan",
+  "primary_gate": {
+    "status": "confirmed",
+    "coordinates": { "lat": 35.66075, "lon": -93.48564 },
+    "ppan": "001-03571-000",
+    "owner": "U S A",
+    "acres": 621.0,
+    "legal": "SECTION",
+    "section": 31,
+    "township": "12",
+    "range": "23",
+    "str": "S31-T12-R23",
+    "south_parcel_at_boundary": {
+      "ppan": "001-06435-000",
+      "owner": "U S A",
+      "acres": 240.0,
+      "legal": "SW NW W2 SW SE SW S2 SE",
+      "section": 25,
+      "boundary_coords": { "lat": 35.66488, "lon": -93.4926 }
+    },
+    "notes": "Federal timber boundary on Jimmie SSE corridor, ~0.9 mi SSE of cemetery (35.6666, -93.4955). Legacy KML gate at 35.64768, -93.4955 (Galloway 001-06521-000) discarded."
+  },
+  "jimmie_sse_corridor": [
+    { "lat": 35.6666, "lon": -93.4955, "ppan": "001-06437-000", "owner": "YORK EDWARD V & MELISSA K", "acres": 40.0, "section": 25 },
+    { "lat": 35.66626, "lon": -93.49492, "ppan": "001-06441-000", "owner": "TAFF ALLISON & AMELIA", "acres": 40.26, "section": 25 },
+    { "lat": 35.66488, "lon": -93.4926, "ppan": "001-06435-000", "owner": "U S A", "acres": 240.0, "section": 25 },
+    { "lat": 35.66075, "lon": -93.48564, "ppan": "001-03571-000", "owner": "U S A", "acres": 621.0, "section": 31, "gate": true }
+  ],
+  "legacy_meridian_corridor": [
+    { "lat": 35.64768, "lon": -93.4955, "ppan": "001-06521-000", "owner": "GALLOWAY LAND CO LLC", "acres": 200.0, "section": 36, "status": "legacy_discard" },
+    { "lat": 35.65052, "lon": -93.4955, "ppan": "001-06523-000", "owner": "QUALLS LONNIE R", "acres": 40.0, "section": 36 },
+    { "lat": 35.65241, "lon": -93.4955, "ppan": "001-06516-000", "owner": "HORNEY PAUL & FRANSHEL", "acres": 160.0, "section": 36 },
+    { "lat": 35.6543, "lon": -93.4955, "ppan": "001-06512-000", "owner": "U S A", "acres": 240.0, "section": 36 },
+    { "lat": 35.6614, "lon": -93.4955, "ppan": "001-06435-000", "owner": "U S A", "acres": 240.0, "section": 25 },
+    { "lat": 35.66518, "lon": -93.4955, "ppan": "001-06437-000", "owner": "YORK EDWARD V & MELISSA K", "acres": 40.0, "section": 25 }
+  ],
+  "arcountydata_verify": {
+    "map": "https://www.arcountydata.com/maps/map?county=JOHTAX&ne=-93.471,35.668&sw=-93.491,35.648",
+    "ppan_search": "https://www.arcountydata.com/propsearch.asp?county=Johnson"
+  }
+}

@@ -2,7 +2,7 @@
 
 | Metadata | Value |
 | --- | --- |
-| **Status** | **Partial** — Patent 19B PPANs identified via AGISO GIS (16 Jun 2026); GPS hits need ARCountyData verify |
+| **Status** | **Closed v20.13** — Matrix + **primary gate confirmed** (`001-03571-000` U.S.A. @ 35.66075, -93.48564) |
 | **Priority** | **High** |
 | **Source verification** | [ARCountyData — Johnson County](https://www.arcountydata.com/county.asp?county=Johnson) |
 | **Data recency** | Assessor: 15 Jun 2026 · Collector: 16 Jun 2026 |
@@ -40,9 +40,10 @@ Identify the modern Johnson County PPAN (parcel number) and assessor records cov
 | Bluff / cave refuge | 35.6583°N | 93.4888°W | GPS-verified |
 | Overhang target A (KML) | 35.65885°N | 93.4893°W | KML shelter target |
 | Overhang target B (KML) | 35.6579°N | 93.4885°W | KML shelter target |
-| Locked gate / cable (KML) | 35.64768°N | 93.4955°W | Approximate access point |
+| Locked gate / cable (Jimmie SSE — **primary**) | 35.66075°N | 93.48564°W | **Confirmed** — `001-03571-000` U.S.A., Sec. 31 T12N R23W |
+| Locked gate / cable (KML est. — legacy) | 35.64768°N | 93.4955°W | Discard — Galloway `001-06521-000`, Troy-era estimate |
 
-**Map assets:** `horner-sites.kml` · §04 map table · [Regrid Johnson County](https://app.regrid.com/us/ar/johnson) · [Acres plat map](https://www.acres.com/plat-map/map/ar/johnson-county-ar)
+**Map assets:** [**`ppan-map.html`**](../ppan-map.html) (full-screen interactive) · `horner-sites.kml` · §04 map table · [Regrid Johnson County](https://app.regrid.com/us/ar/johnson) · [Acres plat map](https://www.acres.com/plat-map/map/ar/johnson-county-ar)
 
 ---
 
@@ -60,18 +61,18 @@ Identify the modern Johnson County PPAN (parcel number) and assessor records cov
 
 *The historic 160-acre tract may now be split, merged, or absorbed into larger rural farm, timber, or pasture tracts. Cemetery and bluff areas may not have separate PPANs.*
 
-| Site | Coordinates | Modern PPAN | Owner / taxpayer | Acreage | Legal description | Notes |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Patent 19B block** | T12N R24W Sec 19 & 22 | See map | Multiple | 160 (1857) | NE¼ SE¼, NW¼ SE¼, NW¼ NW¼, SE¼ NW¼ | [`patent-19b-parcel-map.md`](ppan-001/patent-19b-parcel-map.md) |
-| Horner homestead | 35.6681, -93.4981 | `001-06437-000` * | YORK EDWARD V & MELISSA K | 40 | NE SW, **Sec. 25** | *AGISO GIS hit — verify; also see `001-06308-000` CRAIN Sec. 19 |
-| Moore Cemetery | 35.6666, -93.4955 | `001-06437-000` * | YORK (same hit) | 40 | Sec. 25 | *Verify on ARCountyData; nearby `001-06408-000` DEWBERRY Sec. 23 |
-| Moore homestead | 35.65638, -93.4955 | `001-06512-000` | U S A | 240 | Sec. 36 NE4 E2 NW | Approximate point |
-| Bluff / cave / overhang | 35.6583, -93.4888 | `001-06512-000` | U S A | 240 | Sec. 36 | AGISO hit |
-| Overhang target A | 35.65885, -93.4893 | `001-06512-000` | U S A | 240 | Sec. 36 | Same polygon as bluff |
-| Overhang target B | 35.6579, -93.4885 | `001-06512-000` | U S A | 240 | Sec. 36 | Same polygon as bluff |
-| Locked gate / access | 35.64768, -93.4955 | `001-06521-000` | GALLOWAY LAND CO LLC | 200 | Sec. 36 S2 SW NE SE S2 SE | Access corridor |
+See **[`ppan-001/completed-matrix.md`](ppan-001/completed-matrix.md)** for full table + Patent 19B aliquot map.
 
-**AGISO pull:** `sources/ppan-001/agiso-query-2026-06-16.txt` · Query script: `scripts/query_ppan_001.py`
+| Site | Coordinates | Modern PPAN | Owner | Acres | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Horner Homestead | 35.6681, -93.4981 | `001-06308-000` | CRAIN RANDA ET AL | 182.66 | Sec. 19 — patent overlap |
+| Moore Cemetery | 35.6666, -93.4955 | `001-06298-001` | DEWBERRY DORIS | 47.73 | No separate cemetery PPAN |
+| Moore Homestead | 35.65638, -93.4955 | `001-06512-000` | U S A | 240 | Sec. 36 |
+| Bluff / cave / overhang | 35.6583, -93.4888 | `001-06512-000` | U S A | 240 | Sec. 36 timber/federal |
+| Overhang A / B | see matrix | `001-06512-000` | U S A | 240 | Same tract |
+| Locked gate (primary) | 35.66075, -93.48564 | `001-03571-000` | U S A | 621 | Sec. 31 T12N R23W — **confirmed** |
+
+**Data:** `agiso-matrix-2026-06-16.json` · `gate-corridor-2026-06-17.json` · Scripts: `scripts/scan_access_corridor.py`
 
 ---
 
@@ -84,7 +85,8 @@ Identify the modern Johnson County PPAN (parcel number) and assessor records cov
 ## On completion
 
 - [x] AGISO GIS query — Patent 19B PPAN map + GPS point hits (16 Jun 2026)
-- [ ] ARCountyData screenshots to confirm GPS → PPAN
+- [x] Gate corridor scan — primary `001-03571-000` confirmed (17 Jun 2026)
+- [ ] ARCountyData screenshot of gate boundary (optional chain-of-custody)
 - [ ] Deposit screenshots in `sources/ppan-001/`
 - [ ] Update §13 / §16 on site
 - [ ] Log in `sources/INGEST_LOG.md`

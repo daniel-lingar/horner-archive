@@ -138,8 +138,16 @@
     <Folder>
       <name>Access and Context Points</name>
       <Placemark>
-        <name>Locked Gate / Cable Access (Approx. Field-Check)</name>
-        <description>Approximate placement based on the historical direction note: locked cable blocks access approximately one mile from Moore Cemetery after turning north from Highway 86 / Low Gap Road toward Farris Springs. This is an estimated access-control point for field navigation, not a GPS-verified Jimmie Dewberry control point.</description>
+        <name>Locked Gate / Cable — Primary (Jimmie SSE, Confirmed)</name>
+        <description>GIS corridor scan confirmed 17 Jun 2026. Federal boundary crossing on NW-fork dirt spur ≈0.9 mi SSE of Moore Cemetery. PPAN 001-03571-000 — U.S.A., 621 ac, Sec. 31 T12N R23W. South-side parcel at boundary: 001-06435-000 (U.S.A., 240 ac, S25). Source: AGISO CAMA / Johnson assessor feed.</description>
+        <styleUrl>#style-gate</styleUrl>
+        <Point>
+          <coordinates>-93.48564000,35.66075000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Locked Gate / Cable — Legacy KML Estimate (Discard)</name>
+        <description>Troy-era unverified estimate on -93.4955 meridian. PPAN 001-06521-000 — GALLOWAY LAND CO LLC. Not Jimmie-corrected; do not use for navigation.</description>
         <styleUrl>#style-gate</styleUrl>
         <Point>
           <coordinates>-93.49550000,35.64768000,0</coordinates>
@@ -154,15 +162,15 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Access Context Route — Gate to Moore Cemetery</name>
-        <description>Approximate access-context line from the locked gate / cable point through the Moore homestead context point to Moore Cemetery. Use as a navigation reference only; road/path alignment should be field-checked against current access conditions.</description>
+        <name>Access Context Route — Primary Gate to Moore Cemetery (Jimmie SSE)</name>
+        <description>Primary access corridor from confirmed federal gate boundary (35.66075, -93.48564) northwest to Moore Cemetery (35.6666, -93.4955). Field-check road alignment against satellite imagery.</description>
         <styleUrl>#style-access-line</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
-            -93.49550000,35.64768000,0
-            -93.49550000,35.65638000,0
-            -93.49550000,35.66217000,0
+            -93.48564000,35.66075000,0
+            -93.49260000,35.66488000,0
+            -93.49550000,35.66660000,0
           </coordinates>
         </LineString>
       </Placemark>

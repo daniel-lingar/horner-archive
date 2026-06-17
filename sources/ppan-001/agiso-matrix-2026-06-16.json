@@ -1,0 +1,504 @@
+{
+  "source": "Arkansas AGISO Planning_Cadastre layer 6 (CAMA Jun 2026)",
+  "study_area": "T12N R24W Sec 19 & 22 \u2014 Patent 19B",
+  "section_19_parcels": [
+    {
+      "ppan": "001-06297-000",
+      "owner": "MERKLING JOE OR CAROLYN",
+      "acres": 1.0,
+      "legal": "PT NE NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06297-001",
+      "owner": "OARK SD #7",
+      "acres": 7.0999999,
+      "legal": "PT E2 NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06298-000",
+      "owner": "WOOD DONNA  ET AL",
+      "acres": 3.6400001,
+      "legal": "PT NE NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06298-001",
+      "owner": "DEWBERRY DORIS",
+      "acres": 47.72999954,
+      "legal": "PT NE NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06298-002",
+      "owner": "BALLINGER ROBERT OR JESSICA",
+      "acres": 0.34999999,
+      "legal": "PT SE NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06298-003",
+      "owner": "SCENIC ROUTE LLC",
+      "acres": 1.0,
+      "legal": "PT SE NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06299-000",
+      "owner": "BROWN AILEEN",
+      "acres": 27.5,
+      "legal": "NW NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06300-000",
+      "owner": "BROWN ALISON TAYLOR",
+      "acres": 30.29999924,
+      "legal": "PT SW NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06300-001",
+      "owner": "CARTER CURTIS & RISHELLE WILSON",
+      "acres": 5.80000019,
+      "legal": "PT SW NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06301-000",
+      "owner": "FARMER AUDREY & RISHELLE WILSON",
+      "acres": 1.60000002,
+      "legal": "PT SW NE  A PART OF THE SW/4 NE/4 OF S19, T12N, R24W BEGINNING AT THE NW CORNER OF SAID FORTY, THENCE RUNNING SOUTH 650 FEET TO HWY, THENCE RUNNING N AN EASTWARD DIRECTION UP SAID HWY 424 FEET TO A ROAD RUNNING NORTH, THENCE NORTH 429 FEET UP SAID ROAD T",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06301-001",
+      "owner": "WILSON RISHELLE L",
+      "acres": 2.29999995,
+      "legal": "PT SW NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06302-001",
+      "owner": "SCHOOL DISTRICT #7",
+      "acres": 7.09000015,
+      "legal": "PT SE NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06303-000",
+      "owner": "WARREN THOMAS SAMUEL TRUST",
+      "acres": 19.98999977,
+      "legal": "PT SE NE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06304-000",
+      "owner": "WARREN BETTY BARROW",
+      "acres": 11.32999992,
+      "legal": "PT NE NW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06304-001",
+      "owner": "JARMON TOM OR DONNA",
+      "acres": 4.0,
+      "legal": "PT NE NW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06304-003",
+      "owner": "WILLIS DAVID MICHAEL",
+      "acres": 11.32999992,
+      "legal": "PT NE NW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06304-005",
+      "owner": "WARREN RALPH JR OR CARLA M",
+      "acres": 11.32999992,
+      "legal": "PT NE NW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06305-000",
+      "owner": "REVOCABLE TRUST DCA",
+      "acres": 11.32999992,
+      "legal": "PT N2 NW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06305-001",
+      "owner": "JARMON TOM OR DONNA",
+      "acres": 7.5,
+      "legal": "PT NW NW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06306-000",
+      "owner": "WARREN RANDALL",
+      "acres": 2.0,
+      "legal": "PT NW NW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06306-001",
+      "owner": "WARREN THOMAS SAMUEL TRUST",
+      "acres": 7.5,
+      "legal": "PT NW NW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06306-002",
+      "owner": "WARREN THOMAS S & MARY ANN",
+      "acres": 8.0,
+      "legal": "NW NW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06307-000",
+      "owner": "COWAN DEBRA REVOCABLE TRUST",
+      "acres": 33.70000076,
+      "legal": "SW NW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06308-000",
+      "owner": "CRAIN RANDA ET AL",
+      "acres": 182.66000366,
+      "legal": "SE NW E2 SW 46.68 AC W2 SW 15.91 AC SW SE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06310-000",
+      "owner": "COWAN DEBRA REVOCABLE TRUST",
+      "acres": 26.0,
+      "legal": "PT W2 SW & E2 SW",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06313-000",
+      "owner": "WARREN THOMAS SAMUEL TRUST",
+      "acres": 40.0,
+      "legal": "NE SE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06314-000",
+      "owner": "BROWN ALISON TAYLOR",
+      "acres": 20.0,
+      "legal": "PT NW SE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06315-000",
+      "owner": "WARREN THOMAS SAMUEL TRUST",
+      "acres": 24.0,
+      "legal": "PT NW SE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    },
+    {
+      "ppan": "001-06319-000E",
+      "owner": "U S A",
+      "acres": 0.0,
+      "legal": "35 AC SE SE",
+      "section": 19,
+      "str": "S19-T12-R24"
+    }
+  ],
+  "section_22_parcels": [
+    {
+      "ppan": "001-06377-000",
+      "owner": "LANGDON THOMAS J & JOSEPH N",
+      "acres": 44.77000046,
+      "legal": "PT N2 NE",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06377-001",
+      "owner": "HODGE JOHN TRUSTEE CHURCH CATALP",
+      "acres": 0.23,
+      "legal": "PT NE NE CATALPA CHURCH",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06380-000",
+      "owner": "KIMBRIEL CHARLOTTE",
+      "acres": 0.23999999,
+      "legal": "PT NW NE",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06381-000E",
+      "owner": "U S A",
+      "acres": 391.75,
+      "legal": "4.75 AC NW NE 35 AC SW NE SE NE 78 AC NE NW 80 AC S2 SW 74 AC N2 SE S2 SE",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06382-000",
+      "owner": "HAMMONS COY",
+      "acres": 1.0,
+      "legal": "PT NW NE",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06383-000",
+      "owner": "HAMMONS ANNA",
+      "acres": 3.0,
+      "legal": "PT NW NE",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06385-000",
+      "owner": "COOK CATHIE B",
+      "acres": 20.44000053,
+      "legal": "PT NW NE",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06386-001",
+      "owner": "BROWN CATHIE",
+      "acres": 3.0,
+      "legal": "PT SW NE",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06392-000",
+      "owner": "PRICE JAMES C FLP",
+      "acres": 83.0,
+      "legal": "W2 NW  3.00 AC SE NW",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06393-000",
+      "owner": "COOK CATHIE B",
+      "acres": 6.78999996,
+      "legal": "6.79 AC NE NW",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06393-001",
+      "owner": "ARBAUGH IMOGENE",
+      "acres": 24.89999962,
+      "legal": "PT SE NW",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06393-002",
+      "owner": "QUALITY RESTORATION OF ARKANSAS",
+      "acres": 0.87,
+      "legal": "PT SE NW  A PART OF THE SE/4 NW/4 OF S22, T12N, R24W, IN JOHNSON COUNTY, ARKANSAS BEING MORE PARTICULARLY DESCRIBED AS FOLLOWS AND AS SHOWN ON THE SURVEY PLAT ON 10-12-10 FOR JEFFREY & ANNE SNIDER:  BEGINNING AT A FOUND STONE FOR THE NW CORNER OF SAID SE",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06393-004",
+      "owner": "BEAN JIMMY G & BETHANY L",
+      "acres": 8.32999992,
+      "legal": "PT SE NW",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06395-000",
+      "owner": "ARBAUGH IMOGENE",
+      "acres": 33.0,
+      "legal": "PT NE SW",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06396-000E",
+      "owner": "USA",
+      "acres": 9.0,
+      "legal": "PT NE SW",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06400-000",
+      "owner": "FAUGHT TRUDY & LARRY",
+      "acres": 3.0,
+      "legal": "PT N2 SE",
+      "section": 22,
+      "str": "S22-T12-R24"
+    },
+    {
+      "ppan": "001-06400-001",
+      "owner": "JOHNSON W TOM",
+      "acres": 0.27000001,
+      "legal": "PT NW NE PT NE NE",
+      "section": 22,
+      "str": "S22-T12-R24"
+    }
+  ],
+  "section_23_nearby": [
+    {
+      "ppan": "001-06404-000",
+      "owner": "U S A",
+      "acres": 480.0,
+      "legal": "NW N2 SE N2 SW NE",
+      "section": 23,
+      "str": "S23-T12-R24"
+    },
+    {
+      "ppan": "001-06408-000",
+      "owner": "DEWBERRY DORIS TRUST",
+      "acres": 127.0,
+      "legal": "S2 SW 7 AC SE SE SW SE",
+      "section": 23,
+      "str": "S23-T12-R24"
+    },
+    {
+      "ppan": "001-06412-000",
+      "owner": "CHANCE MARVIN & MARGARET",
+      "acres": 3.0,
+      "legal": "PT SE SE  PART OF THE SE SE OF S23, T12N, R24W DESCRIBED AS BEGINNING AT THE NW CORNER OF THE SAID SE SE THENCE EAST TO THE DRY BRANCH, THENCE SOUTH ALONG THE DRY BRANCH TO THE CENTER OF THE HWY ( NOW CR 5440) THENCE WEST TO THE WEST LINE OF THE SAID SE",
+      "section": 23,
+      "str": "S23-T12-R24"
+    },
+    {
+      "ppan": "001-06413-000",
+      "owner": "WILKINS MAISIE",
+      "acres": 1.63,
+      "legal": "PT SE SE",
+      "section": 23,
+      "str": "S23-T12-R24"
+    },
+    {
+      "ppan": "001-06414-000",
+      "owner": "STEPP RONNIE D",
+      "acres": 0.69999999,
+      "legal": "PT SE SE  PART OF THE SE/4  SE/4 OF SECTION 23, T12 N, RANGE 24 W, DESCRIBED AS FOLLOWS: BEGINNING WEST 18 DEGREES NORTH 9790 FEET FROM THE SE CORNER OF THE SE QUARTER OF THE SE QUARTER OF SECTION 23, T12N, R23W, THENCE SOUTH 18 DEGREES WEST 108 FEET THE",
+      "section": 23,
+      "str": "S23-T12-R24"
+    },
+    {
+      "ppan": "001-06415-000",
+      "owner": "TURNER TERRY C",
+      "acres": 1.5,
+      "legal": "PT SE SE",
+      "section": 23,
+      "str": "S23-T12-R24"
+    },
+    {
+      "ppan": "001-06417-000",
+      "owner": "TURNER TERRY C OR LOLA",
+      "acres": 17.0,
+      "legal": "PT SE SE",
+      "section": 23,
+      "str": "S23-T12-R24"
+    },
+    {
+      "ppan": "001-06417-001",
+      "owner": "TURNER WESLEY E",
+      "acres": 8.26000023,
+      "legal": "PT SE SE",
+      "section": 23,
+      "str": "S23-T12-R24"
+    }
+  ],
+  "gps_point_hits": [
+    {
+      "site": "Horner Homestead",
+      "ppan": "001-06437-000",
+      "owner": "YORK EDWARD V & MELISSA K",
+      "acres": 40.0,
+      "legal": "NE SW",
+      "section": 25,
+      "township": "12",
+      "range": "24"
+    },
+    {
+      "site": "Moore Cemetery",
+      "ppan": "001-06437-000",
+      "owner": "YORK EDWARD V & MELISSA K",
+      "acres": 40.0,
+      "legal": "NE SW",
+      "section": 25,
+      "township": "12",
+      "range": "24"
+    },
+    {
+      "site": "Moore Homestead",
+      "ppan": "001-06512-000",
+      "owner": "U S A",
+      "acres": 240.0,
+      "legal": "NE4 E2 NW",
+      "section": 36,
+      "township": "12",
+      "range": "24"
+    },
+    {
+      "site": "Bluff / Cave / Overhang",
+      "ppan": "001-06512-000",
+      "owner": "U S A",
+      "acres": 240.0,
+      "legal": "NE4 E2 NW",
+      "section": 36,
+      "township": "12",
+      "range": "24"
+    },
+    {
+      "site": "Overhang Target A",
+      "ppan": "001-06512-000",
+      "owner": "U S A",
+      "acres": 240.0,
+      "legal": "NE4 E2 NW",
+      "section": 36,
+      "township": "12",
+      "range": "24"
+    },
+    {
+      "site": "Overhang Target B",
+      "ppan": "001-06512-000",
+      "owner": "U S A",
+      "acres": 240.0,
+      "legal": "NE4 E2 NW",
+      "section": 36,
+      "township": "12",
+      "range": "24"
+    }
+  ]
+}

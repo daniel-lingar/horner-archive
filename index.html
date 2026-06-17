@@ -247,8 +247,29 @@
     margin-top: 4rem;
   }
   footer a { color: #a08060; }
-  #site-map { height: 420px; border: 1px solid var(--border); margin: 1.2rem 0; }
+  #site-map { height: 520px; border: 1px solid var(--border); margin: 1.2rem 0; }
   .map-links { font-size: 0.88rem; margin-bottom: 1rem; }
+  .horner-map-legend {
+    background: rgba(248, 245, 239, 0.95);
+    padding: 0.55rem 0.65rem;
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    font-size: 0.78rem;
+    line-height: 1.4;
+    max-width: 210px;
+  }
+  .horner-map-legend strong { display: block; margin-bottom: 0.3rem; }
+  .horner-legend-row { display: flex; align-items: center; gap: 0.4rem; margin: 0.15rem 0; }
+  .horner-legend-swatch {
+    width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0;
+    border: 1px solid rgba(0,0,0,0.12);
+  }
+  .horner-legend-source {
+    margin-top: 0.35rem; padding-top: 0.3rem; border-top: 1px solid var(--border);
+    font-size: 0.7rem; color: var(--muted);
+  }
+  .leaflet-popup-content { font-family: Georgia, serif; font-size: 0.88rem; line-height: 1.45; }
+  .leaflet-popup-content code { font-size: 0.82rem; background: var(--card); padding: 0.1rem 0.2rem; }
   .photo-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -309,7 +330,7 @@
   <div class="label">Johnson County Civil War Archive · Floyd Township, Arkansas</div>
   <h1>The Killing of <em>John Spencer Horner</em></h1>
   <div class="sub">Floyd Township, Johnson County, Arkansas — August 2, 1864</div>
-  <div class="sub" style="margin-top:0.3rem; font-size:0.8rem;">Research: Daniel Lingar &nbsp;·&nbsp; Dossier v. 20.11 · June 2026 &nbsp;·&nbsp; Clarksville, AR</div>
+  <div class="sub" style="margin-top:0.3rem; font-size:0.8rem;">Research: Daniel Lingar &nbsp;·&nbsp; Dossier v. 20.13 · June 2026 &nbsp;·&nbsp; Clarksville, AR</div>
 </header>
 
 <nav>
@@ -542,23 +563,27 @@
     <tr><th>Location</th><th>Coordinates</th><th>Confidence</th><th>Notes</th></tr>
   </thead>
   <tbody>
-    <tr><td>Moore Cemetery</td><td>35.6666°N, 93.4955°W</td><td>GPS-verified</td><td>Spencer, William, Permelia Horner buried here</td></tr>
-    <tr><td>Spencer Horner Homestead</td><td>35.6681°N, 93.4981°W</td><td>GPS-verified</td><td>Attack site, August 2, 1864; potato patch; Spencer's murder</td></tr>
-    <tr><td>The Bluff / Cave Refuge</td><td>35.6583°N, 93.4888°W</td><td>GPS-verified</td><td>William's hiding place; died here August 10, 1864</td></tr>
-    <tr><td>Ozone, AR</td><td>~35.653°N, 93.448°W</td><td>Approximate</td><td>Nearest community; 2.3 miles east of homestead</td></tr>
+    <tr><td>Moore Cemetery</td><td>35.6666°N, 93.4955°W</td><td>GPS-verified</td><td>PPAN <code>001-06298-001</code> · Dewberry Doris · Spencer, William, Permelia Horner</td></tr>
+    <tr><td>Spencer Horner Homestead</td><td>35.6681°N, 93.4981°W</td><td>GPS-verified</td><td>PPAN <code>001-06308-000</code> · Crain Randa et al. · Attack site, Aug 2, 1864</td></tr>
+    <tr><td>Locked Gate (primary)</td><td>35.66075°N, 93.48564°W</td><td>GIS-confirmed</td><td>PPAN <code>001-03571-000</code> · U.S.A. · Federal boundary ≈0.9 mi SSE of cemetery</td></tr>
+    <tr><td>The Bluff / Cave Refuge</td><td>35.6583°N, 93.4888°W</td><td>GPS-verified</td><td>PPAN <code>001-06512-000</code> · U.S.A. · William died here Aug 10, 1864</td></tr>
+    <tr><td>Ozone, AR</td><td>~35.635°N, 93.445°W</td><td>Approximate</td><td>Nearest community; Hwy 86 west ~2.3 mi to Y-junction</td></tr>
     <tr><td>Yale Cemetery</td><td>~35.638°N, 93.572°W</td><td>Approximate</td><td>Henry Stewart, Marcus Mark Hill, Acord family burials</td></tr>
     <tr><td>Clarksville, AR</td><td>~35.471°N, 93.467°W</td><td>County seat</td><td>Sheriff Hill's base; 7th Arkansas Cavalry organized here</td></tr>
   </tbody>
 </table>
 
-<p><strong>Directions:</strong> From Ozone, AR, take Highway 86 (Low Gap Road) west approximately 2.3 miles. Turn north toward Farris Springs. A locked cable blocks access approximately one mile from the cemetery.</p>
+<p><strong>Directions:</strong> From Ozone, take Highway 86 (Low Gap Road) west ~2.3 miles to the Y-junction. Take the northwest dirt fork toward Farris Springs. The locked cable gate sits at the federal parcel boundary (<code>001-03571-000</code>, U.S.A.) approximately 0.9 miles SSE of Moore Cemetery on the Jimmie-corrected access corridor.</p>
 
-<h3>Interactive Site Map <span class="new-badge">v20.1</span></h3>
+<h3>Interactive Site Map <span class="new-badge">v20.13</span></h3>
 <p class="map-links">
-  <a href="horner-sites.kml">Download KML</a> (shelter investigation polygons, gate, cemetery, homestead, bluff) &nbsp;·&nbsp;
-  <a href="https://www.google.com/maps/d/u/0/create?hl=en">Import into Google My Maps</a>
+  <a href="ppan-map.html"><strong>Full-screen PPAN map</strong></a> (satellite + parcel popups) &nbsp;·&nbsp;
+  <a href="horner-sites.kml">Download KML</a> &nbsp;·&nbsp;
+  <a href="sources/ppan-001/completed-matrix.md">PPAN matrix</a> &nbsp;·&nbsp;
+  <a href="https://www.google.com/maps/d/u/0/create?hl=en">Google My Maps</a>
 </p>
-<div id="site-map" role="img" aria-label="Map of Horner archive GPS sites in Johnson County, Arkansas"></div>
+<p style="font-size:0.88rem; color:var(--muted); margin-bottom:0.6rem;">Toggle <strong>Satellite</strong> to trace dirt roads. Click any marker for PPAN, owner, and legal description. Orange line = primary gate-to-cemetery corridor; dashed gray = legacy estimate (discard).</p>
+<div id="site-map" role="img" aria-label="Map of Horner archive GPS sites with PPAN parcel data in Johnson County, Arkansas"></div>
 
 <h3>Then &amp; Now — Johnson County, 1860 vs. Today</h3>
 
@@ -1064,7 +1089,7 @@
 </div>
 
 <div class="oq-item priority">
-  <p><strong>OQ-PPAN-001 — partial v20.11:</strong> Patent 19B modern PPANs identified via Arkansas GIS (16 Jun 2026) — e.g. Sec. 19 <code>001-06301-000</code>–<code>001-06308-000</code>, Sec. 22 <code>001-06393-001</code>; GPS point hits need ARCountyData verify. <strong>Formal letters still use Patent 19B legal description</strong> — not PPAN. <a href="sources/oq-ppan-001.md">Tracker →</a> · <a href="sources/ppan-001/patent-19b-parcel-map.md">Patent 19B PPAN map →</a></p>
+  <p><strong>OQ-PPAN-001 — closed v20.13:</strong> Homestead <code>001-06308-000</code> (Crain, Sec. 19); Moore Cemetery <code>001-06298-001</code> (Dewberry); bluff/overhang <code>001-06512-000</code> (U.S.A., Sec. 36); primary gate <code>001-03571-000</code> (U.S.A., Sec. 31). <a href="sources/ppan-001/completed-matrix.md">Completed matrix →</a> · Patent 19B aliquot table in same file. <strong>Formal letters still use Patent 19B legal description.</strong></p>
 </div>
 
 
@@ -1357,7 +1382,7 @@
 
 <h3>The Killing of John Spencer Horner — Complete Dossier</h3>
 
-<p>Version 20.11 · June 2026 · OQ-PPAN-001 partial (AGISO GIS) · OQ-15/16 NARA requested · OQ-20 estate · Grant Edition §16</p>
+<p>Version 20.13 · June 2026 · OQ-PPAN-001 closed · primary gate confirmed · OQ-15/16 NARA requested · OQ-20 estate · Grant Edition §16</p>
 
 <p>
   <a href="https://daniel-lingar.github.io/horner-archive/dossier.pdf">Download PDF</a> &nbsp;·&nbsp;
@@ -1374,28 +1399,10 @@
 </footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="js/horner-site-map-data.js"></script>
+<script src="js/horner-site-map.js"></script>
 <script>
-(function () {
-  var map = L.map('site-map').setView([35.663, -93.488], 13);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 18,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-  }).addTo(map);
-
-  var sites = [
-    { name: 'Moore Cemetery', lat: 35.6666, lng: -93.4955, note: 'Spencer, William, Permelia Horner' },
-    { name: 'Spencer Horner Homestead', lat: 35.6681, lng: -93.4981, note: 'Attack site — Aug 2, 1864' },
-    { name: 'Bluff / Cave Refuge', lat: 35.6583, lng: -93.4888, note: 'William Riley Horner — died Aug 10, 1864' },
-    { name: 'Ozone, AR', lat: 35.653, lng: -93.448, note: 'Nearest community — 2.3 mi east' },
-    { name: 'Yale Cemetery', lat: 35.638, lng: -93.572, note: 'Hill, Stewart, Acord burials' },
-    { name: 'Clarksville, AR', lat: 35.471, lng: -93.467, note: 'County seat — Sheriff Hill' }
-  ];
-
-  sites.forEach(function (site) {
-    L.marker([site.lat, site.lng]).addTo(map)
-      .bindPopup('<strong>' + site.name + '</strong><br>' + site.note);
-  });
-})();
+  HornerSiteMap.init('site-map', { padding: 0.1 });
 </script>
 
 </body>
