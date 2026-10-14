@@ -4,6 +4,14 @@
   <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663251514784/peyAAcfVglzoCzKU.png" alt="Capitol Contracts LLC Logo" width="300">
 </p>
 
+## Why I Work on History Alongside the Memoir and WRH
+
+My memoir and trauma-related work are emotionally demanding. I live with C-PTSD, and working on my own experiences can bring me back into reliving those moments. I need other subjects to help pull me back out of that work.
+
+The Horner research and the World War II research into Lawrence J. Lingar give me that change of focus. They still take me into the past, but these are events I did not experience. I was not alive when they happened.
+
+These archives have their own historical purpose. They also give me something meaningful to work on when I need a break from my own memories.
+
 ## How to Deploy This Site (Free, 15 Minutes)
 
 ---
