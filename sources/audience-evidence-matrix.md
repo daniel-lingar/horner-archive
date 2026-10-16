@@ -14,7 +14,7 @@
 | William Riley Horner died **10 Aug 1864** from wounds | ✅ Tombstone + CMSR WC75885 | ✅ | ✅ | ✅ |
 | Attack at homestead / potato patch | ✅ Sturges WC75885 p.3 + 1942 transcript | ✅ Label 1942 as oral | ✅ Distinguish oral vs pension | ✅ |
 | William nursed in cave refuge | ✅ Sturges + 1942 | ✅ | ✅ | ✅ |
-| Sheriff **John Fry Hill** did not prosecute | ⚠️ Inference (CMSR absent Sep 1864; no indictment found) | ✅ With CMSR + amnesty contrast | ✅ As "no record of prosecution" | ⚠️ Diplomatic — Hill descendants |
+| Identity of sheriff on 2 Aug 1864; investigation status | ⚠️ 1889 county roster lists W. L. Cravens for 1864; precise changeover date and surviving investigative records unresolved | ⚠️ Explain uncertainty | ⚠️ Compare office roster with county minutes | ⚠️ Do not assign blame without records |
 | Hill's 1866 amnesty claims vs CMSR | ✅ Document both readings | ✅ | ✅ Teach contradiction | ⚠️ |
 
 ---
