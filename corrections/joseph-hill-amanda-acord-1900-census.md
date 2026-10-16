@@ -21,7 +21,7 @@ Joseph Hill, father of Amanda Catherine Hill Acord, remains a source-sensitive p
 
 ## Public narrative replacement
 
-John Samuel Acord married Amanda Catherine Hill, daughter of Joseph Hill. Joseph Hill belonged to the Union-aligned Hill family, while John Fry Hill served as the Confederate sheriff whose office never investigated the Horner killings. The significance of the marriage remains intact, but the dossier should frame it as a postwar union between the Horner/Acord survivor line and the divided Hill family - not as a marriage between two children definitively orphaned by the same month of wartime violence unless that claim is directly sourced.
+John Samuel Acord married Amanda Catherine Hill, daughter of Joseph Hill. Joseph Hill belonged to the Union-aligned Hill family, while John Fry Hill was a former Johnson County sheriff and later Confederate commander. An 1889 county roster lists W. L. Cravens as sheriff in 1864; the exact transition date and any official investigation remain unverified. The significance of the marriage remains intact, but the dossier should frame it as a postwar union between the Horner/Acord survivor line and the divided Hill family - not as a marriage between two children definitively orphaned by the same month of wartime violence unless that claim is directly sourced.
 
 ## Genealogical anchor points
 
