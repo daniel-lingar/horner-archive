@@ -1,6 +1,6 @@
 # The Horner family: land, war, and remembrance
 
-**Reader edition | v21.1 | 17 October 2026**
+**Reader edition | v21.2 | 17 October 2026**
 
 In June 1860, a census enumerator recorded Spencer Horner as a 52-year-old farmer in Mulberry Township, Johnson County, Arkansas. Permelia appears immediately below him, followed by five younger people. The page places a household in view before the war: names, ages, birthplaces, work, and reported property. Four years later, a family account describes Spencer's killing and the shooting of William Riley Horner, identified in the archive's family reconstruction as his son. William's grave marker gives his death as 10 August 1864. These records bring us close to a family's losses, although they preserve different kinds of evidence [S01, S03, S04].
 
@@ -48,7 +48,7 @@ Here, S07 means a research register of leads, not an authenticated original reco
 
 William's marker attributes the killing to parties known to his family. It preserves a public accusation and a death date. It does not supply the killers' names or tell us whether an investigation, inquest, or prosecution followed. Its installation date and the date and maker of the surviving photograph are unknown [S03].
 
-The 1942-attributed narrative continues beyond the attack. It tells of reprisals associated with Dr. John Turner Horner and reports seventeen of twenty attackers killed. That is a claim made by the family account, not an independently verified casualty total [S04]. The published excerpt places Jess Wilson with the **reprisal group**, holding its horses. No identification with a similarly named Confederate prisoner is made here.
+The 1942-attributed narrative continues beyond the attack. It tells of reprisals associated with Dr. John Turner Horner and reports seventeen of twenty attackers killed. That is a claim made by the family account, not an independently verified casualty total [S04]. The excerpt quoted for this review says that on one occasion the party left Jess Wilson to hold their horses when they went to fight [S04]. As quoted, it does not say which party or which fight is meant.
 
 Family memory gives this history its human urgency: people tried to explain loss, identify responsibility and tell later generations what had happened. Examining how those stories were recorded is part of preserving them. The next task is to compare the complete account with dated records, not to fill its gaps with a more dramatic narrative.
 

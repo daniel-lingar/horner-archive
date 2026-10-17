@@ -1,6 +1,6 @@
 # Optional extension: memorials and family memory
 
-**v21.1 | Not part of the 50-minute core lesson or its scored assessment**
+**v21.2 | Not part of the 50-minute core lesson or its scored assessment**
 
 Teacher content notice: this extension discusses reported wartime killings and later reprisals. It omits graphic injury descriptions. Students can complete the entire core census/patent lesson without using this extension.
 
@@ -10,7 +10,7 @@ An editorial reading of the repository photograph gives his death as 10 August 1
 
 ## D: the 1942-attributed account, S04
 
-Published excerpts attributed to Eva Horner describe Spencer's killing, William being shot, and later reprisals associated with Dr. John Turner Horner. They report seventeen of twenty attackers killed; this is an uncorroborated family-account claim. The excerpt describes Jess Wilson holding the **reprisal group's** horses. Full manuscript, authorship/date and transmission history remain unverified. This paragraph is an attributed editorial summary, not a primary manuscript sheet. Published source note: https://github.com/daniel-lingar/horner-archive/blob/grant-readiness-repair-2026-10-17/transcript-1942.md
+Published excerpts attributed to Eva Horner describe Spencer's killing, William being shot, and later reprisals associated with Dr. John Turner Horner. They report seventeen of twenty attackers killed; this is an uncorroborated family-account claim. The excerpt quoted for this review says that on one occasion the party left Jess Wilson to hold their horses when they went to fight [S04]. As quoted, it does not say which party or which fight is meant. Full manuscript, authorship/date and transmission history remain unverified. This paragraph is an attributed editorial summary, not a primary manuscript sheet. Published source note: https://github.com/daniel-lingar/horner-archive/blob/grant-readiness-repair-2026-10-17/transcript-1942.md
 
 **2 August 1864 is a working date, source not located** in the verified materials. A 10 August death inscription cannot independently establish that attack date. An injury on an earlier date and later death is a possible explanation, not an established sequence here.
 

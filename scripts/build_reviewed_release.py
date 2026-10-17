@@ -22,7 +22,7 @@ table{width:100%;border-collapse:collapse;font:14px/1.5 sans-serif;margin:1.5rem
 .table-wrap{overflow-x:auto}.notice{background:#f1e1bb;padding:1rem 1.2rem;border-left:5px solid #8b452e;font:15px/1.5 sans-serif}.page{break-before:page}.source-image{max-height:8in;max-width:100%;object-fit:contain}footer{padding:1.3rem;text-align:center;font:13px sans-serif;color:#59635e;border-top:1px solid #bbc1b6}
 @media(max-width:600px){body{font-size:17px}h1{font-size:2rem}main{padding:1rem}table{min-width:560px}nav a{display:inline-block}}
 @media print{
- @page{size:letter;margin:.65in .65in .7in;@bottom-left{content:'Horner Archive · v21.1 · 17 October 2026';font:8px sans-serif;color:#59635e}@bottom-right{content:counter(page);font:8px sans-serif;color:#59635e}}
+ @page{size:letter;margin:.65in .65in .7in;@bottom-left{content:'Horner Archive · v21.2 · 17 October 2026';font:8px sans-serif;color:#59635e}@bottom-right{content:counter(page);font:8px sans-serif;color:#59635e}}
  body{background:white;font:10.4pt/1.45 Georgia,serif;color:#182b25}main{padding:0;max-width:none}header,nav,footer,.web-only{display:none}h1{font-size:27pt;margin:0 0 16pt}h2{font-size:16pt;margin-top:20pt;padding-top:10pt;break-after:avoid}h3{font-size:12pt;break-after:avoid}p{orphans:3;widows:3;margin:7pt 0}a{color:#653522;text-decoration:none}table{font:8pt/1.35 sans-serif;min-width:0!important;width:100%;table-layout:fixed}td,th{padding:5pt}thead{display:table-header-group}tr{break-inside:avoid}.table-wrap{overflow:visible}img{max-width:100%;max-height:8in;object-fit:contain}.source-image{max-height:7.1in}.notice{font:9pt/1.4 sans-serif;padding:9pt}
 .reading{font-size:9.8pt;line-height:1.38}.reading h2{margin-top:16pt}.guide{font-size:9pt;line-height:1.35}.guide h2{font-size:14pt;margin-top:14pt}.guide table{break-inside:avoid;font-size:7.5pt}.guide table.sequence th:first-child{width:14%}.guide table.sequence th:nth-child(2){width:46%}.guide table.sequence th:nth-child(3){width:40%}.worksheet td{height:36pt}.writing-line{height:20pt;border-bottom:1px solid #777}.writing-space{height:3.25in;background:repeating-linear-gradient(to bottom,transparent 0,transparent 19pt,#999 19.5pt,transparent 20pt)}.source-sheet{font-size:9.5pt;line-height:1.38}.source-sheet h1{font-size:23pt}.source-sheet h2{font-size:14pt;margin-top:13pt}.source-sheet img{max-height:2.5in}.source-sheet a{overflow-wrap:anywhere;font-size:8pt}.worksheet{font-size:10pt;line-height:1.4}.worksheet td{height:27pt}.worksheet h1{font-size:24pt}.worksheet h2{font-size:14pt;margin-top:14pt}table.budget th:nth-child(1){width:22%}table.budget th:nth-child(2){width:12%}table.budget th:nth-child(3){width:11%}table.budget th:nth-child(4){width:14%}table.budget th:nth-child(5){width:41%}
 }
@@ -30,7 +30,7 @@ table{width:100%;border-collapse:collapse;font:14px/1.5 sans-serif;margin:1.5rem
 def md(s): return markdown.markdown(s,extensions=['tables','attr_list','sane_lists'])
 def wrap(title,body,prefix='',notice=''):
  body=re.sub(r'(<table>.*?</table>)',r'<div class="table-wrap">\1</div>',body,flags=re.S)
- return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+html.escape(title)+' | Horner Archive</title><style>'+CSS+'</style></head><body><a class="web-only" href="#main">Skip to content</a><header><p>Horner Civil War Archive · current reading edition · v21.1</p><strong>Records, memory, and the work of history</strong></header><nav aria-label="Main"><a href="'+prefix+'index.html">Archive</a><a href="'+prefix+'dossier.pdf">Dossier PDF</a><a href="'+prefix+'classroom/index.html">Classroom</a><a href="'+prefix+'grant-readiness/index.html">Grant packet</a><a href="'+prefix+'grant-readiness/annotated-bibliography.html">Sources</a></nav><main id="main">'+('<div class="notice">'+notice+'</div>' if notice else '')+body+'</main><footer>Daniel Bret Lingar · Source-specific rights apply · Corrections and research limits documented · 17 October 2026</footer></body></html>'
+ return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Descendant-led archive on the Horner family of Johnson County, Arkansas: land, census and family accounts of wartime loss, with each source&#39;s limits stated."><meta property="og:image" content="https://daniel-lingar.github.io/horner-archive/Patent_19B_AR2690___426.jpg"><title>'+html.escape(title)+' | Horner Archive</title><style>'+CSS+'</style></head><body><a class="web-only" href="#main">Skip to content</a><header><p>Horner Civil War Archive · current reading edition · v21.2</p><strong>Records, memory, and the work of history</strong></header><nav aria-label="Main"><a href="'+prefix+'index.html">Archive</a><a href="'+prefix+'dossier.pdf">Dossier PDF</a><a href="'+prefix+'classroom/index.html">Classroom</a><a href="'+prefix+'grant-readiness/index.html">Grant packet</a><a href="'+prefix+'grant-readiness/annotated-bibliography.html">Sources</a></nav><main id="main">'+('<div class="notice">'+notice+'</div>' if notice else '')+body+'</main><footer>Daniel Bret Lingar · Source-specific rights apply · Corrections and research limits documented · 17 October 2026</footer></body></html>'
 def write_page(source,target,title,prefix='',notice=''):
  text=(R/source).read_text().replace('<!-- page -->','')
  if source=='classroom/source-sheets.md':text=text.replace('](sources/','](../sources/')
@@ -44,7 +44,7 @@ def pdf(doc,path,base=R):
   if dest.is_relative_to(R):a['href']='https://daniel-lingar.github.io/horner-archive/'+str(dest.relative_to(R))+('#'+u.fragment if u.fragment else '')
  HTML(string=str(parsed),base_url=str(base)+'/').write_pdf(R/path);print('PDF',path)
 def main():
- ap=argparse.ArgumentParser();ap.add_argument('--html-only',action='store_true');ap.add_argument('--reader-only',action='store_true');a=ap.parse_args()
+ ap=argparse.ArgumentParser();ap.add_argument('--html-only',action='store_true');ap.add_argument('--reader-only',action='store_true');ap.add_argument('--public-only',action='store_true');a=ap.parse_args()
  core=write_page('editions/v21/current-reading.md','index.html','The Horner family in Civil War Johnson County',notice='Reader edition: household, land, wartime loss and family remembrance. Source and relationship limits are stated alongside the account; the correction register remains separate.')
  write_page('grant-readiness/annotated-bibliography.md','grant-readiness/annotated-bibliography.html','Annotated sources','../')
  write_page('classroom/teacher-guide.md','grant-readiness/teacher-guide.html','Teacher guide','../')
@@ -61,7 +61,7 @@ def main():
   write_page('classroom/'+n+'.md','classroom/'+n+'.html',n.replace('-',' ').title(),'../')
  classroom_intro='''# Classroom materials
 
-**v21.1 | Grades 9–12 and adult learners | Review draft, unpiloted**
+**v21.2 | Grades 9–12 and adult learners | Review draft, unpiloted**
 
 [Print source pack with source sheets, worksheet, teacher key and evaluation form](source-pack.pdf).
 
@@ -72,7 +72,7 @@ The assessed core works offline using only the census and patent, with enlarged 
  (R/'classroom/index.html').write_text(wrap('Classroom materials',md(classroom_intro),'../'))
  # Historic page: prominently mark it and disable the old gallery/map rendering.
  old=R/'superseded-v20.html';t=old.read_text()
- if 'SUPERSEDED v20' not in t:
+ if 'correction-notice' not in t and 'SUPERSEDED v20' not in t:
   t=t.replace('<body>','<body><aside style="padding:25px;background:#ffe6a6;color:#171717;border:5px solid #8b452e"><strong>SUPERSEDED v20: research history, not the current reading edition.</strong> This page contains known incorrect images, transcriptions and unsupported claims. <a href="index.html">Read v21 and its correction register.</a> The old 57-page PDF is preserved in Git history, not at the current dossier link.</aside>')
   t=re.sub(r'<img\b[^>]*field-docs/[^>]*>', '<p>[Mislabeled census image withdrawn from the former cemetery gallery.]</p>',t)
   t=re.sub(r'<script\b[^>]*>.*?</script>','',t,flags=re.S)
@@ -104,13 +104,16 @@ The assessed core works offline using only the census and patent, with enlarged 
    kind='guide' if n in ['teacher-guide','evaluation-form'] else 'worksheet'
    sheet+='<section class="page '+kind+'">'+body+'</section>'
  pdf(wrap('Classroom source pack',sheet),'classroom/source-pack.pdf')
+ if a.public_only:
+  refresh_catalog()
+  return
  N=R/'grant-readiness/neh-planning'
  docs={n:md((N/(n+'.md')).read_text()) for n in ['narrative','workplan','bibliography','submission-gates','commitment-templates']}
  for n in (['narrative'] if a.reader_only else ['narrative','workplan','bibliography']):
   pdf(wrap(n.title(),docs[n],'../../'),'grant-readiness/neh-planning/'+n+'.pdf',N)
  budget=md((R/'grant-readiness/startup-budget.md').read_text()).replace('<table>','<table class="budget">',1)
  if not a.reader_only:pdf(wrap('Budget justification',budget,'../../'),'grant-readiness/neh-planning/budget-justification.pdf',R/'grant-readiness')
- combined=md('# Exhibition planning discussion packet\n\n**17 October 2026 | v21.1 | Not a submission package**\n\nThe following pages are prepared drafts. Actual eligible institution, appointments, signed letters, original-source identifiers, rights and approved costs remain required. Do not attach this combined file to an NEH application.')
+ combined=md('# Exhibition planning discussion packet\n\n**17 October 2026 | v21.2 | Not a submission package**\n\nThe following pages are prepared drafts. Actual eligible institution, appointments, signed letters, original-source identifiers, rights and approved costs remain required. Do not attach this combined file to an NEH application.')
  for body in [docs['submission-gates'],docs['narrative'],docs['workplan'],docs['bibliography'],budget,docs['commitment-templates']]:combined+='<section class="page">'+body+'</section>'
  pdf(wrap('Institutional planning discussion packet',combined,'../../'),'grant-readiness/neh-planning/discussion-packet.pdf',N)
  if a.reader_only:

@@ -1,6 +1,6 @@
 # Student worksheet: record, inference, or unsupported claim?
 
-**v21.1 | Core sources A and B | No internet needed**
+**v21.2 | Core sources A and B | No internet needed**
 
 Class/date __________  Teacher-selected anonymous identifier __________
 

@@ -1,6 +1,13 @@
 # Release history
 
-## v21.1 — 17 October 2026 — reader narrative and usable lesson
+## v21.2 — 17 October 2026 — Wilson scope and earlier-edition correction notice
++
++- Narrow Wilson to the reviewer-quoted horse-holding sentence; party/fight antecedent remains unresolved. Remove the Confederate-prisoner comparison from the reader and retain the distinction only in the research register.
++- Add the visible correction notice and section-level withdrawal labels to the earlier HTML and a notice page/page-level status to the preserved legacy PDF. The main-site notice is a limited correction/privacy fix, not publication of the reader/classroom draft.
++- Retire exposed KML, map popup data and cadastral owner/coordinate extracts; remove the compiler’s displayed birthdate and identified current-owner strings from the legacy PDF. Git history and third-party caches are not erased.
++- Preserve the noticed legacy PDF separately on the review branch so a future reader-edition merge does not discard it. Funding drafts are otherwise unchanged.
++
++## v21.1 — 17 October 2026 — reader narrative and usable lesson
 +
 +- Rewrite the reader edition around household, Choctaw-connected land record, reported attack, family relationships and remembrance; add a who-is-who table and timeline. Keep correction history and technical leads separate.
 +- Label 2 August as a working date with its source not located. Remove it from the scored lesson and replace the exhibition date metric with the documented census reference/enumeration dates.

@@ -20,3 +20,8 @@ Acquired, transcribed, verified, and published are separate states. A file in th
 | GENEALOGY | Displayed six-generation chain; not independently proved here | Source each parent-child link, distinguish similarly named Mary Anns, resolve Christopher’s birth year | Genealogical reviewer |
 
 Earlier request drafts and notes saying “sent June 16” do not establish present request status. Confirm correspondence before resending. No requests, partner outreach, or grant submissions were sent in this release.
+
+
+## Wilson context check, 17 October 2026
+
+The reviewer-supplied excerpt says “they” left Jess Wilson to hold their horses when they went to fight. Its antecedent and the particular fight have not been verified from preceding/following original text. Do not call this a reprisal group, infer that Wilson fought, identify him with Confederate prisoner James Mitchell Wilson, or label him an original attacker or reprisal victim on this sentence alone. Obtain the complete passage, its original/custodial source and a line-level citation. A repository summary that says he held horses is not the missing surrounding passage.

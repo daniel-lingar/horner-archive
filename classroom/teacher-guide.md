@@ -1,6 +1,6 @@
 # Teacher guide: a household, a land grant, and historical evidence
 
-**v21.1 | Grades 9–12 / adult learners | 50 minutes | Unpiloted prototype**
+**v21.2 | Grades 9–12 / adult learners | 50 minutes | Unpiloted prototype**
 
 ## Goals and preparation
 

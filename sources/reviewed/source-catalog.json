@@ -1,5 +1,5 @@
 {
-  "release": "21.1",
+  "release": "21.2",
   "reviewed": "2026-10-17",
   "sources": [
     {
@@ -46,9 +46,9 @@
       "date": "Attributed to 1942; original not examined",
       "provenance": "Published repository excerpts and reconstruction refer to FindAGrave memorial 9297073. The complete dated manuscript and transmission chain remain unverified.",
       "supports": "The family account describes Spencer being shot after surrendering, William receiving a head wound, and later reprisals.",
-      "limits": "The reported seventeen-of-twenty reprisal count, names, tactics, hidden money, and exact chronology are uncorroborated here. Excerpt publication is not a complete diplomatic transcript.",
+      "limits": "The reported seventeen-of-twenty reprisal count, names, tactics, hidden money, and exact chronology are uncorroborated here. Excerpt publication is not a complete diplomatic transcript. The reviewer-quoted Jess Wilson sentence does not identify the party or fight; its antecedent remains unresolved.",
       "rights": "Text permission and original custody unresolved. The optional memory extension uses an attributed editorial summary; core assessment does not depend on it.",
-      "sha256": "e484c1103b945867d45e8a8f6a86a5c258ecf34eeae707747a6e9a954934f2d3"
+      "sha256": "46b7df156ea5e324b20a0be7e0d6cb485c35f3574160c8a634596bef67084fea"
     },
     {
       "id": "S05",
@@ -84,7 +84,7 @@
       "supports": "Identifies records to retrieve and compare; no new authentication of their quoted contents.",
       "limits": "WC75885 concerns William Riley’s widow; it is not John Turner’s rejected application. Sturges authorship/date/context/independence remain open. AWOL status does not locate Hiram Boen or implicate him in killings.",
       "rights": "Request repository copies and record-level citations before facsimile publication.",
-      "sha256": "1fd0a83e84911c12f1465146f62713dcbb05912dd29ba11d422fa13747e69583"
+      "sha256": "b6dc68d0c509597d98444413bfcda589f282e7b839da14bbdc802c9bbd19b752"
     }
   ]
 }

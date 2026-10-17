@@ -1,6 +1,6 @@
 # Source A: a household in the 1860 census
 
-**Core lesson | S01 | v21.1 | Read the printed aid as well as the image**
+**Core lesson | S01 | v21.2 | Read the printed aid as well as the image**
 
 Review draft: the editing assistant compared these crops with the originals; independent human source review and classroom piloting remain pending.
 
