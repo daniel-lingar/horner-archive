@@ -1,0 +1,77 @@
+[
+  {
+    "path": "sources/reviewed/census-heading-detail.png",
+    "source": "sources/reviewed/1860-mulberry-spencer-horner.jpeg",
+    "source_sha256": "d54143056dfa25e8bc05bf642fd6979ca1ea2e32903b864fb8d638fa0c1ea319",
+    "box": [
+      270,
+      65,
+      1660,
+      420
+    ],
+    "operation": "rectangular crop only; no enhancement or resampling",
+    "sha256": "0f8b7cbe001f6948a96e3689e1e2eaea83d93bc108ea86fe30cd828022160b41",
+    "human_review": "pending",
+    "assistant_visual_review": "17 October 2026; compared to unchanged original; independent human review pending"
+  },
+  {
+    "path": "sources/reviewed/census-household-detail.png",
+    "source": "sources/reviewed/1860-mulberry-spencer-horner.jpeg",
+    "source_sha256": "d54143056dfa25e8bc05bf642fd6979ca1ea2e32903b864fb8d638fa0c1ea319",
+    "box": [
+      290,
+      400,
+      1530,
+      690
+    ],
+    "operation": "rectangular crop only; no enhancement or resampling",
+    "sha256": "f3a541472fb94feb5fb9f772547ced88e58b070794feeb7194d189fa4685ac4f",
+    "human_review": "pending",
+    "assistant_visual_review": "17 October 2026; compared to unchanged original; independent human review pending"
+  },
+  {
+    "path": "sources/reviewed/patent-certificate-detail.png",
+    "source": "Patent_19B_AR2690___426.jpg",
+    "source_sha256": "d4d27d45ad62534d955354049bf54e33f447af7d3e825d5afa736688cc1a7d53",
+    "box": [
+      180,
+      200,
+      2070,
+      790
+    ],
+    "operation": "rectangular crop only; no enhancement or resampling",
+    "sha256": "c2cc84fb162d5bff05f0f7d7aa0b367af1e2eed51c90b68259af4b08a1caf6c5",
+    "human_review": "pending",
+    "assistant_visual_review": "17 October 2026; compared to unchanged original; independent human review pending"
+  },
+  {
+    "path": "sources/reviewed/patent-tract-detail.png",
+    "source": "Patent_19B_AR2690___426.jpg",
+    "source_sha256": "d4d27d45ad62534d955354049bf54e33f447af7d3e825d5afa736688cc1a7d53",
+    "box": [
+      180,
+      1350,
+      2080,
+      1750
+    ],
+    "operation": "rectangular crop only; no enhancement or resampling",
+    "sha256": "f909a125a75e6124a13ac38ffbb702d1d6536afd8c53fa1e8f5ccb049be5648c",
+    "human_review": "pending",
+    "assistant_visual_review": "17 October 2026; compared to unchanged original; independent human review pending"
+  },
+  {
+    "path": "sources/reviewed/patent-date-detail.png",
+    "source": "Patent_19B_AR2690___426.jpg",
+    "source_sha256": "d4d27d45ad62534d955354049bf54e33f447af7d3e825d5afa736688cc1a7d53",
+    "box": [
+      330,
+      2700,
+      2070,
+      2940
+    ],
+    "operation": "rectangular crop only; no enhancement or resampling",
+    "sha256": "d1b9b7147b46d043ab5a2724e1133ec380f5cabbcd51cc211107d86c7e67c8eb",
+    "human_review": "pending",
+    "assistant_visual_review": "17 October 2026; compared to unchanged original; independent human review pending"
+  }
+]

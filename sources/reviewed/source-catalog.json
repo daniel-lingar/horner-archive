@@ -1,5 +1,5 @@
 {
-  "release": "21.0",
+  "release": "21.1",
   "reviewed": "2026-10-17",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "title": "1860 population census: Spencer Horner household",
       "path": "sources/reviewed/1860-mulberry-spencer-horner.jpeg",
       "kind": "Government record image",
-      "date": "20 June 1860 (heading)",
+      "date": "Reference date 1 June 1860; enumeration heading 20 June 1860",
       "provenance": "Extracted without alteration from page 1 of the owner-supplied Google Doc export “1860 census,” retrieved 17 October 2026. Heading: Mulberry Township, Johnson County, Arkansas; post office Clarksville. Page No. appears 98, with another handwritten 99; stamped 1029. Dwelling 698, family 699, lines 1–7. NARA series/roll and provider image ID have not been independently reconciled.",
       "supports": "Spencer Horner, age 52, farmer, Tennessee; reported real estate $1,500 and personal estate $1,500. Permelia appears on line 2.",
       "limits": "Census relationships are not stated in this schedule. Difficult ages and given names require a second reader. Values do not prove cash on hand, total acreage, or an attacker’s motive. Township heading differs from the archive’s earlier Floyd label.",
@@ -16,13 +16,13 @@
     },
     {
       "id": "S02",
-      "title": "Patent 19B, Fayetteville Land Office",
+      "title": "Federal land patent associated with Choctaw Certificate No. 19B",
       "path": "Patent_19B_AR2690___426.jpg",
       "kind": "Government record image",
       "date": "1 April 1857",
       "provenance": "Existing repository image; original BLM/GLO accession and download provenance need completion.",
-      "supports": "Spencer Horner as assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased; four forty-acre tracts, total 160 acres: SE 1/4 NE 1/4 and NW 1/4 SE 1/4 of section 19; NW 1/4 NW 1/4 and SE 1/4 NW 1/4 of section 22; T12N R24W.",
-      "limits": "The patent does not prove Horner’s Indigenous ancestry, the deceased person’s age, the transfer price, or a modern home-site location. First tract corrected from NE 1/4 SE 1/4.",
+      "supports": "Spencer Horner as assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased; Choctaw Certificate No. 19B; total 160 acres in sections 19 and 22, T12N R24W. First tract reads SE 1/4 NE 1/4 of section 19.",
+      "limits": "The patent does not prove Horner’s Indigenous ancestry, the deceased person’s age, the transfer price, or a modern home-site location. First tract corrected from NE 1/4 SE 1/4. The crowded third tract is disputed by a later reader and awaits independent catalog/image comparison; it is not assessed in the lesson. Certificate No. 19B is visible; a catalog accession/patent number is not independently verified.",
       "rights": "Underlying federal land patent; retain source identification when reproducing.",
       "sha256": "d4d27d45ad62534d955354049bf54e33f447af7d3e825d5afa736688cc1a7d53"
     },
@@ -47,8 +47,8 @@
       "provenance": "Published repository excerpts and reconstruction refer to FindAGrave memorial 9297073. The complete dated manuscript and transmission chain remain unverified.",
       "supports": "The family account describes Spencer being shot after surrendering, William receiving a head wound, and later reprisals.",
       "limits": "The reported seventeen-of-twenty reprisal count, names, tactics, hidden money, and exact chronology are uncorroborated here. Excerpt publication is not a complete diplomatic transcript.",
-      "rights": "Text permission and original custody unresolved. Classroom sheet uses a short attributed paraphrase rather than a facsimile.",
-      "sha256": "e53fcd582be50d63320495dab724d44008762adc06bec926c20fa97f6cd0c404"
+      "rights": "Text permission and original custody unresolved. The optional memory extension uses an attributed editorial summary; core assessment does not depend on it.",
+      "sha256": "e484c1103b945867d45e8a8f6a86a5c258ecf34eeae707747a6e9a954934f2d3"
     },
     {
       "id": "S05",

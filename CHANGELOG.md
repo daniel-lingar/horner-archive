@@ -1,5 +1,14 @@
 # Release history
 
+## v21.1 — 17 October 2026 — reader narrative and usable lesson
++
++- Rewrite the reader edition around household, Choctaw-connected land record, reported attack, family relationships and remembrance; add a who-is-who table and timeline. Keep correction history and technical leads separate.
++- Label 2 August as a working date with its source not located. Remove it from the scored lesson and replace the exhibition date metric with the documented census reference/enumeration dates.
++- Make census/patent the complete core lesson; move memorial/family-account summaries to an optional, unscored extension.
++- Add five exact rectangular source crops, provenance/hashes/bounds, supplied partial transcriptions, all fourteen census column descriptions and both census dates. Disputed tract/given-name readings are unscored.
++- Add D/I/N definitions, a scheduled five-item classification activity, identical three-item Before/After tasks and matching answer keys/pilot counts, a 122-word model, writing space and anonymous student feedback.
++- Add an explicit human comparison gate; human sign-off and classroom pilot remain pending. Automated checks are not source authentication or measured learning outcomes.
++
 ## v21.0 — 17 October 2026 — evidence and grant-readiness repair
 
 - Replace current public narrative with a concise corrected reading edition; preserve the full earlier narrative as superseded and the old 57-page PDF in Git history.

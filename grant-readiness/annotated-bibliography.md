@@ -1,8 +1,8 @@
-# Annotated bibliography | v21.0 | 17 October 2026
+# Annotated bibliography | v21.1 | 17 October 2026
 
 ## S01 · 1860 population census: Spencer Horner household
 
-**Government record image | 20 June 1860 (heading)**
+**Government record image | Reference date 1 June 1860; enumeration heading 20 June 1860**
 
 [Published item](../sources/reviewed/1860-mulberry-spencer-horner.jpeg)
 
@@ -14,7 +14,7 @@ Extracted without alteration from page 1 of the owner-supplied Google Doc export
 
 **Rights:** Underlying 1860 federal record; no provider interface is included. Scan provider and reproduction terms still to be recorded.
 
-## S02 · Patent 19B, Fayetteville Land Office
+## S02 · Federal land patent associated with Choctaw Certificate No. 19B
 
 **Government record image | 1 April 1857**
 
@@ -22,9 +22,9 @@ Extracted without alteration from page 1 of the owner-supplied Google Doc export
 
 Existing repository image; original BLM/GLO accession and download provenance need completion.
 
-**Use:** Spencer Horner as assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased; four forty-acre tracts, total 160 acres: SE 1/4 NE 1/4 and NW 1/4 SE 1/4 of section 19; NW 1/4 NW 1/4 and SE 1/4 NW 1/4 of section 22; T12N R24W.
+**Use:** Spencer Horner as assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased; Choctaw Certificate No. 19B; total 160 acres in sections 19 and 22, T12N R24W. First tract reads SE 1/4 NE 1/4 of section 19.
 
-**Limits:** The patent does not prove Horner’s Indigenous ancestry, the deceased person’s age, the transfer price, or a modern home-site location. First tract corrected from NE 1/4 SE 1/4.
+**Limits:** The patent does not prove Horner’s Indigenous ancestry, the deceased person’s age, the transfer price, or a modern home-site location. First tract corrected from NE 1/4 SE 1/4. The crowded third tract is disputed by a later reader and awaits independent catalog/image comparison; it is not assessed in the lesson. Certificate No. 19B is visible; a catalog accession/patent number is not independently verified.
 
 **Rights:** Underlying federal land patent; retain source identification when reproducing.
 
@@ -54,7 +54,7 @@ Published repository excerpts and reconstruction refer to FindAGrave memorial 92
 
 **Limits:** The reported seventeen-of-twenty reprisal count, names, tactics, hidden money, and exact chronology are uncorroborated here. Excerpt publication is not a complete diplomatic transcript.
 
-**Rights:** Text permission and original custody unresolved. Classroom sheet uses a short attributed paraphrase rather than a facsimile.
+**Rights:** Text permission and original custody unresolved. The optional memory extension uses an attributed editorial summary; core assessment does not depend on it.
 
 ## S05 · Henry Stewart entry in Johnson County pension payment ledger
 
@@ -105,3 +105,8 @@ Daniel E. Sutherland, *A Savage Conflict: The Decisive Role of Guerrillas in the
 Thomas A. DeBlack, *With Fire and Sword: Arkansas, 1861–1874*. University of Arkansas Press, 2003. [Publisher](https://www.uapress.com/product/with-fire-and-sword/). Proposed state-level wartime and Reconstruction context. Publisher listing checked 17 October 2026; full-text consultation and page-specific integration remain work for an outside historian.
 
 Genealogy platforms, memorial transcriptions and earlier AI-assisted reconstructions are discovery aids unless a statement is tied to an examined record. Multiple repetitions of one family narrative do not make independent witnesses.
+
+
+## Choctaw historical context
+
+Chief Gary Batton, “The Treaty that Forever Changed our Chahta People’s Story,” Choctaw Nation of Oklahoma, 15 September 2025. https://www.choctawnation.com/news/chiefs-blog/the-treaty-that-forever-changed-our-chahta-peoples-story/ Consulted 17 October 2026 for removal/treaty context, not the terms of Spencer’s particular assignment.

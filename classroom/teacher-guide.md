@@ -1,55 +1,53 @@
-# Reading records, remembering violence
+# Teacher guide: a household, a land grant, and historical evidence
 
-**Horner Civil War Archive | v21.0 | Grades 9–12 and adult learners | 50 minutes**
+**v21.1 | Grades 9–12 / adult learners | 50 minutes | Unpiloted prototype**
 
-This is an unpiloted classroom prototype. It makes no claim of meeting a particular grant’s minimum page requirement or a state standards code. A classroom teacher should confirm curricular fit, accessibility and local policy before use. The core activity works offline with the accompanying source pack; internet and cemetery visits are not required.
+## Goals and preparation
 
-## Learning goals
+Students distinguish a record's direct statement, a reasonable inference and a claim not supported by the supplied evidence. They compare reference and recording dates, cite two sources in a short label, and propose a useful next record. The assessed core uses only A (census) and B (patent), supplied with enlarged details, printed reading aids and a full 14-column census key. Uncertain handwriting is not scored. No browser, family-history disclosure or visit to a cemetery is required.
 
-Students will (1) identify a source’s maker, date and purpose; (2) distinguish a directly observable statement from an inference; (3) cite two sources without treating them as independent proof of every claim; and (4) propose a record that could resolve a specific uncertainty. Evidence is assessed, not family identity or personal disclosure.
+Print the three worksheet pages and four source-sheet pages. Give the worksheet's “Before” items before instruction or source distribution; then distribute A and B. Students may read the printed aids throughout. Provide a larger-print copy or read-aloud support as needed. A student can meet every goal using supplied text; handwriting decoding is optional. No graphic violence is included in the core lesson. An optional separate memory extension discusses reported killings and reprisals without graphic injury details; do not include it without an appropriate content notice and teacher decision.
 
-## Preparation and access
+Independent human source review and classroom testing remain pending. The editing assistant has compared the crops with the supplied originals; that is not a named human source sign-off.
 
-Print the source sheets A–D and student worksheet. Provide large-print text or a digital copy; pair a student who needs image-reading support with the supplied partial transcription. Historical handwriting need not be decoded perfectly to complete the task. Images of government records are included; the privately made marker photograph is linked for optional study, not reproduced without established permission. Give the brief content notice: the lesson discusses two reported wartime killings without graphic injury details. Students may use the patent/census comparison instead of the death/memory comparison and meet the same goals.
+## Timed sequence
 
-## Sequence
-
-| Time | Teacher action | Student product |
+| Time | Activity | Student work |
 |---|---|---|
-| 0–5 | Ask: What can one historical document prove? Explain direct statement vs inference. | One baseline claim classification |
-| 5–10 | Introduce Johnson County and the difference between event date, document date and memorial date. Do not treat current site coordinates as verified. | Three date labels |
-| 10–25 | Pairs compare A (census) and B (patent), using printed images and reading aids. | Two supported statements, one limit per source |
-| 25–35 | Compare C (marker reading) and D (later family account), or continue A/B alternative. | Explain why 10 August death does not establish 2 August attack |
-| 35–45 | Write a 100–150 word label using two sources and an explicit uncertainty. | Completed worksheet |
-| 45–50 | Exit question and anonymous feedback. | Evidence-based next research step |
+| 0–5 | Mini-evidence and three “Before” items; do not teach answers yet | P1–P3 baseline |
+| 5–9 | Explain D/I/N; distinguish reference date from enumeration date | Mark 1 June and 20 June on A |
+| 9–22 | Pairs read A and B, including printed aids | Section 1 comparison table |
+| 22–30 | Classify all five claims, discuss reasons, complete date/next-record prompts | Section 2 and date check |
+| 30–44 | Write a 100–150 word label using A and B | Section 3, two references and a research question |
+| 44–50 | Repeat the same P1–P3 items and anonymous readability feedback | Matched exit and feedback |
 
-## Essential questions
+## Answer key
 
-How do land records, census entries, memorials and family narratives preserve different parts of the past? What does an inscription saying killers were known to the family establish? Which records would be needed to assess investigation or prosecution? Why is the absence of a located record different from proof that an event never happened?
+**Matched Before/After items: P1 D; P2 I; P3 N.** An accurate age in 1860 suggests a birth around 1808, with uncertainty about birthday and reporting; an exact date of birth is not supplied. A certificate assignment does not establish the assignee's ancestry.
 
-## Teacher key and acceptable answers
+**Section 1:** A is a government population schedule; reference date 1 June 1860, enumeration heading 20 June 1860. Accept Spencer's reported age, occupation, township or a clearly identified valuation as a direct statement. It does not explicitly state household relationships or describe the later attack. B is a federal land-grant document dated 1 April 1857, naming an assignee and Choctaw certificate. Its source does not establish the assignment price or ancestry. Do not require memorization of uncertain archival catalog fields or all tract readings.
 
-A: The heading reads Mulberry Township. Spencer is entered at age 52, with $1,500 in each property column. The census does not name attackers, state a motive or quantify acreage; relationship to Permelia needs corroborating evidence beyond schedule structure. Accept uncertainty on handwriting rather than penalizing it.
+**Section 2: 1 D [A]; 2 I [A]; 3 N [A/B]; 4 D [B]; 5 N [A].** For 3, a census valuation is not the price paid in a different transaction. For 5, co-residence is not a stated parent-child relationship. The word “everyone” is especially unsupported. A student may suggest a cautious relationship hypothesis, but must not treat it as an explicit census statement. Do not award N simply because an answer says “we can never know”; the explanation must identify the missing evidence.
 
-B: Patent date 1 April 1857; total 160 acres. First tract is SE 1/4 NE 1/4, section 19. Assignee status does not establish Horner ancestry or transfer price. A deed/assignment instrument is an appropriate next source.
+**Date check:** 1 June is the reference date, 20 June the enumeration date. The enumerator could record information later about the earlier specified date. No inference about an 1864 attack date is required.
 
-C: The published marker reading gives William’s death as 10 August 1864 and says those responsible were known to his family. It does not give their names or demonstrate official inaction. A dated court docket, indictment, inquest, correspondence or complete service card could address a narrower question. Record the marker’s installation and photograph dates as unknown.
+**Next record:** accept a certificate assignment/deed for consideration; marriage, probate or a vital/family record for a specified relationship. Accept other appropriate records if the student explains the particular question and acknowledges they may not settle it.
 
-D: The account is attributed to 1942, long after 1864. It preserves a family narrative about surrender, a head wound and reprisals. Seventeen-of-twenty is attributed oral tradition, not an independently verified count. A full manuscript and transmission history are needed before claiming exact date, authorship or independence.
+## Model label (100–150 words)
 
-Example label: “An 1860 census page lists Spencer Horner in Mulberry Township, with reported real and personal estate of $1,500 each. A marker photograph gives William Riley Horner’s death as 10 August 1864 and records a family accusation about the killers. These records describe property and commemoration; they do not explain the attackers’ motives or establish what officials did. The attack date of 2 August needs separately dated evidence.” Accept equally careful alternatives using any two sheets.
+In 1860, a census enumerator listed Spencer Horner as a 52-year-old farmer in Mulberry Township, Arkansas. The entry reports $1,500 in real estate and $1,500 in personal estate [A]. The form asks about the household on 1 June, although the page was recorded on 20 June. A federal land patent dated 1 April 1857 names Spencer as an assignee using a Choctaw certificate for 160 acres [B]. These records document a household and a land grant, but they do not establish the assignment price or Spencer's Indigenous ancestry. A historian could seek the original certificate assignment to investigate what consideration changed hands. Comparing that record with the patent would help explain the transaction without turning a census valuation into a purchase price.
 
-Worksheet classification key: 1 directly supported by A; 2 unsupported inference from B; 3 unresolved/unsupported inference from C; 4 family-account claim in D; 5 unsupported inference from an absence. Accept “unresolved” for 2 or 5 if the explanation identifies the missing evidence.
-
-## Assessment rubric, 8 points
+## Label rubric: 8 points
 
 | Criterion | 2 points | 1 point | 0 points |
 |---|---|---|---|
-| Source identification | Two sources correctly identified | One source identified | No source identified |
-| Evidence | Two accurate, bounded statements | One accurate statement | Assertions unsupported |
-| Uncertainty | Specific limit and useful next record | Limit stated, next record vague | Certainty claimed without support |
-| Interpretation | Clear distinction between record, inference and memory | Partial distinction | Conflates them |
+| Source references | Both [A] and [B] used accurately | One reference accurate | Neither used accurately |
+| Evidence | Two accurate, bounded statements | One accurate statement | Unsupported assertions only |
+| Reasoning | Distinguishes record, inference and limit | Some distinction, incompletely explained | Conflates them |
+| Research step | Specific next record and question | Vague record or question | Neither supplied |
 
-## Evaluation and revision protocol
+Record word count separately and invite revision outside 100–150; do not confuse length compliance with historical reasoning. Accept equally careful alternative labels. Never penalize a student for retaining a genuinely uncertain reading.
 
-No pilot results are claimed. Invite one teacher to test with one class only after agreement. Suggested success target: at least 75% of participating students score 6/8 or higher; this is a design target, not a reported result. Compare baseline classification and exit response; record class count and anonymized score totals. Do not collect student names, trauma narratives or ancestry. Record image legibility, timing, accessibility barriers and misleading wording. Revise sources/key before claiming classroom readiness. Classroom piloting is a companion use, not the main public audience for the NEH exhibition proposal.
+## Evaluation that matches the worksheet
+
+Score P1–P3 out of 3 before and after, using the same anonymous identifier. Report paired completed responses, totals/percentages before and after, unchanged/improved/decreased counts, and missing pairs. Repeated items measure performance on these specific items; familiarity and the small classroom sample limit claims about broader learning. Also report the label rubric out of 8 and readability feedback. A suggested design target is 75% of completed labels scoring at least 6/8, not a claimed result or a student pass/fail rule. No pilot has been conducted. Use the evaluation form to record changes needed before describing the pack as tested.

@@ -32,7 +32,7 @@ The proposed primary audience is the general public in Johnson County, including
 
 ## Project evaluation
 
-Prototype visitors would compare two sources, distinguish a directly stated fact from an inference, and identify a useful next record. The evaluation consultant would gather anonymous responses, observe confusing labels and record image-reading or access barriers. A proposed design target is that at least 75% of responding visitors can correctly distinguish the 10 August death inscription from the separate attack-date claim after using the display. This is not a measured result. The evaluation report would include participant count, response count, question wording, anonymized totals, limitations and the revisions made. Small convenience samples would inform design rather than support population-wide claims. No personal trauma disclosure or student information is required.
+Prototype visitors would compare two sources, distinguish a directly stated fact from an inference, and identify a useful next record. The evaluation consultant would gather anonymous responses, observe confusing labels and record image-reading or access barriers. A proposed design target is that at least 75% of responding visitors can correctly distinguish the census reference date of 1 June 1860 from the enumeration date of 20 June 1860 after using the display. This is not a measured result. The evaluation report would include participant count, response count, question wording, anonymized totals, limitations and the revisions made. Small convenience samples would inform design rather than support population-wide claims. No personal trauma disclosure or student information is required.
 
 ## Organizational profile
 

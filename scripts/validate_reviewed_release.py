@@ -34,7 +34,7 @@ for row in b['rows']:check(row['quantity']*row['rate']==row['total'],'Budget row
 check(sum(x['total'] for x in b['rows'])==b['direct_total']==25920,'Budget total')
 check(b['indirect_total']==0,'Unexpected indirect total')
 core=(R/'index.html').read_text()
-for term in ['Mulberry Township','SE 1/4 NE 1/4','1,143,763','WC75885','fourth great-grandparent','164 elapsed','reopened']:
+for term in ['Mulberry Township','Choctaw','1 June 1860','20 June 1860','working date, source not located',"Who's who",'A short timeline','reopened']:
  check(term in core,'Missing correction '+term)
 register=(R/'corrections/v21-claim-reconciliation.md').read_text()
 check(len(re.findall(r'^\| C\d+ ',register,re.M))==40,'Missing audit findings')
@@ -50,6 +50,30 @@ for f in [R/'dossier.pdf',R/'classroom/source-pack.pdf',*R.glob('grant-readiness
   check(not text.lstrip().startswith('Exhibition planning discussion packet'),'Narrative has forbidden packet cover')
  if f.name in ['workplan.pdf','bibliography.pdf']:check(len(d)<=2,'Suggested attachment length exceeded '+f.name)
 check(not json.loads((R/'sources/glo-field-notes-t12n-r24w/manifest.json').read_text())['oq_status'].lower().startswith('oq-22 closed'),'GLO question falsely closed')
+# Classroom content checks complement technical link/PDF checks; they are not a pilot.
+from PIL import Image,ImageChops
+for x in json.loads((R/'sources/reviewed/lesson-derivatives.json').read_text()):
+ original=R/x['source'];derivative=R/x['path']
+ check(hashlib.sha256(original.read_bytes()).hexdigest()==x['source_sha256'],'Derivative original hash changed '+x['path'])
+ check(hashlib.sha256(derivative.read_bytes()).hexdigest()==x['sha256'],'Derivative hash changed '+x['path'])
+ a=Image.open(original).crop(x['box']).convert('RGB');b=Image.open(derivative).convert('RGB')
+ check(a.size==b.size and ImageChops.difference(a,b).getbbox() is None,'Derivative is not exact source crop '+x['path'])
+ check(x['human_review']=='pending','Human sign-off must not be invented')
+worksheet=(R/'classroom/student-worksheet.md').read_text();guide=(R/'classroom/teacher-guide.md').read_text();sheets=(R/'classroom/source-sheets.md').read_text();evaluation=(R/'classroom/evaluation-form.md').read_text()
+model=guide.split('## Model label (100–150 words)')[1].split('## Label rubric')[0].strip()
+check(100<=len(model.split())<=150,'Model violates required word count')
+check('[A]' in model and '[B]' in model,'Model lacks source references')
+check('assignment' in model and 'consideration' in model,'Model lacks specific next record/question')
+for item in ['P1','P2','P3']:
+ check(worksheet.count('| '+item+' |')==2,'Baseline/exit not paired for '+item)
+ check(item in evaluation,'Evaluation lacks '+item)
+check('P1 D; P2 I; P3 N' in guide and 'P1 D; P2 I; P3 N' in evaluation,'Teacher/form matched answer key')
+check('2 August' not in worksheet and '10 August' not in worksheet,'Core assessment depends on optional death/attack dates')
+check('22–30' in guide and 'all five' in guide,'Classification task absent from timed lesson')
+check('Anonymous feedback' in worksheet,'Promised student feedback absent')
+check('Partial transcription' in sheets and 'Column key' in sheets,'In-pack reading aids absent')
+check('1 June 1860' in sheets and '20 June 1860' in sheets,'Census reference/enumeration dates absent')
+check('Not part of the 50-minute core lesson' in (R/'classroom/memory-extension.md').read_text(),'Optional memory material not clearly separated')
 print(f'{checks} checks; {len(errors)} failures')
 for e in errors:print('FAIL:',e)
 raise SystemExit(bool(errors))
