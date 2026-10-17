@@ -1,105 +1,55 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Horner–Moore PPAN Site Map — Johnson County, Arkansas</title>
-<meta name="description" content="Interactive parcel map: Moore Cemetery, Horner homestead, confirmed federal gate, access corridors, and PPAN data from Johnson County assessor records (Jun 2026).">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
-<style>
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    font-family: Georgia, 'Times New Roman', serif;
-    background: #1a0e08;
-    color: #f8f5ef;
-  }
-  header {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1000;
-    background: rgba(26, 14, 8, 0.88);
-    border-bottom: 1px solid #5a4a3a;
-    padding: 0.65rem 1rem;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0.75rem 1.25rem;
-    font-size: 0.9rem;
-  }
-  header h1 {
-    font-size: 1rem;
-    font-weight: normal;
-    color: #e8dcc8;
-  }
-  header a { color: #c9a87c; }
-  header .meta { color: #9a8a7a; font-size: 0.82rem; }
-  #map {
-    position: absolute;
-    top: 52px;
-    left: 0;
-    right: 0;
-    bottom: 0;
-  }
-  .horner-map-legend {
-    background: rgba(248, 245, 239, 0.95);
-    color: #1a1a1a;
-    padding: 0.65rem 0.75rem;
-    border: 1px solid #c8b99a;
-    border-radius: 2px;
-    font-size: 0.8rem;
-    line-height: 1.45;
-    max-width: 220px;
-  }
-  .horner-map-legend strong {
-    display: block;
-    margin-bottom: 0.35rem;
-    font-size: 0.85rem;
-  }
-  .horner-legend-row {
-    display: flex;
-    align-items: center;
-    gap: 0.45rem;
-    margin: 0.2rem 0;
-  }
-  .horner-legend-swatch {
-    width: 14px;
-    height: 14px;
-    border-radius: 50%;
-    flex-shrink: 0;
-    border: 1px solid rgba(0,0,0,0.15);
-  }
-  .horner-legend-source {
-    margin-top: 0.45rem;
-    padding-top: 0.35rem;
-    border-top: 1px solid #ddd;
-    font-size: 0.72rem;
-    color: #666;
-  }
-  .leaflet-popup-content { font-family: Georgia, serif; font-size: 0.88rem; line-height: 1.5; }
-  .leaflet-popup-content code { font-size: 0.82rem; background: #f0ebe0; padding: 0.1rem 0.25rem; }
-  @media (max-width: 600px) {
-    header h1 { font-size: 0.9rem; }
-    #map { top: 72px; }
-  }
-</style>
-</head>
-<body>
-<header>
-  <h1>Horner–Moore PPAN Site Map</h1>
-  <span class="meta">Patent 19B · T12N R23W / R24W · Gate confirmed 17 Jun 2026</span>
-  <a href="index.html#map">← Archive</a>
-  <a href="sources/ppan-001/completed-matrix.md">Matrix</a>
-  <a href="horner-sites.kml">KML</a>
-  <a href="https://www.arcountydata.com/maps/map?county=JOHTAX&ne=-93.471,35.668&sw=-93.491,35.648">ARCountyData</a>
-</header>
-<div id="map" role="img" aria-label="Interactive map of Horner and Moore historic sites with modern parcel numbers"></div>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-<script src="js/horner-site-map-data.js"></script>
-<script src="js/horner-site-map.js"></script>
-<script>
-  HornerSiteMap.init("map", { padding: 0.15, legendPosition: "topleft" });
-</script>
-</body>
-</html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Landscape research | Horner Archive</title><style>
+:root{--ink:#20332f;--accent:#8b452e;--paper:#faf7ef;--muted:#59635e}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:18px/1.65 Georgia,serif}
+header{background:#20332f;color:#faf7ef;padding:2.4rem max(5vw,1.2rem)}header p{margin:0;font:13px/1.5 sans-serif;letter-spacing:.13em;text-transform:uppercase}header strong{font-size:1.5rem;font-weight:normal}
+nav{padding:.8rem max(5vw,1.2rem);background:#e7e4d9;font:14px/1.9 sans-serif}nav a{margin-right:1.2rem}
+main{max-width:1040px;margin:auto;padding:2rem 1.5rem 4rem}h1{font-size:2.5rem;line-height:1.15;font-weight:normal}h2{font-size:1.6rem;border-top:1px solid #bbc1b6;padding-top:1.1rem;margin-top:2.4rem;line-height:1.3}h3{font-size:1.2rem}
+a{color:#8b452e;text-underline-offset:.15em}a:focus{outline:3px solid #b87023;outline-offset:3px}p{margin:.8rem 0 1.1rem}li{margin:.4rem 0}img{display:block;max-width:100%;height:auto;margin:1.3rem auto}main>p>img{max-height:850px;object-fit:contain}
+table{width:100%;border-collapse:collapse;font:14px/1.5 sans-serif;margin:1.5rem 0;overflow-wrap:anywhere}th{text-align:left;background:#20332f;color:white}td,th{padding:.65rem;border:1px solid #b9c0b6;vertical-align:top}tbody tr:nth-child(even){background:#eeeae0}
+.table-wrap{overflow-x:auto}.notice{background:#f1e1bb;padding:1rem 1.2rem;border-left:5px solid #8b452e;font:15px/1.5 sans-serif}.page{break-before:page}.source-image{max-height:8in;max-width:100%;object-fit:contain}footer{padding:1.3rem;text-align:center;font:13px sans-serif;color:#59635e;border-top:1px solid #bbc1b6}
+@media(max-width:600px){body{font-size:17px}h1{font-size:2rem}main{padding:1rem}table{min-width:560px}nav a{display:inline-block}}
+@media print{
+ @page{size:letter;margin:.65in .65in .7in;@bottom-left{content:'Horner Archive · v21.0 · 17 October 2026';font:8px sans-serif;color:#59635e}@bottom-right{content:counter(page);font:8px sans-serif;color:#59635e}}
+ body{background:white;font:10.4pt/1.45 Georgia,serif;color:#182b25}main{padding:0;max-width:none}header,nav,footer,.web-only{display:none}h1{font-size:27pt;margin:0 0 16pt}h2{font-size:16pt;margin-top:20pt;padding-top:10pt;break-after:avoid}h3{font-size:12pt;break-after:avoid}p{orphans:3;widows:3;margin:7pt 0}a{color:#653522;text-decoration:none}table{font:8pt/1.35 sans-serif;min-width:0!important;width:100%;table-layout:fixed}td,th{padding:5pt}thead{display:table-header-group}tr{break-inside:avoid}.table-wrap{overflow:visible}img{max-width:100%;max-height:8in;object-fit:contain}.source-image{max-height:7.1in}.notice{font:9pt/1.4 sans-serif;padding:9pt}
+.reading{font-size:9.8pt;line-height:1.38}.reading h2{margin-top:16pt}.guide{font-size:9pt;line-height:1.35}.guide h2{font-size:14pt;margin-top:14pt}.guide table{break-inside:avoid;font-size:7.5pt}.guide table.sequence th:first-child{width:14%}.guide table.sequence th:nth-child(2){width:46%}.guide table.sequence th:nth-child(3){width:40%}.worksheet td{height:36pt}.writing-line{height:20pt;border-bottom:1px solid #777}table.budget th:nth-child(1){width:22%}table.budget th:nth-child(2){width:12%}table.budget th:nth-child(3){width:11%}table.budget th:nth-child(4){width:14%}table.budget th:nth-child(5){width:41%}
+}
+</style></head><body><a class="web-only" href="#main">Skip to content</a><header><p>Horner Civil War Archive · current reading edition · v21.0</p><strong>Records, memory, and the work of history</strong></header><nav aria-label="Main"><a href="index.html">Archive</a><a href="dossier.pdf">Dossier PDF</a><a href="classroom/index.html">Classroom</a><a href="grant-readiness/index.html">Grant packet</a><a href="grant-readiness/annotated-bibliography.html">Sources</a></nav><main id="main"><div class="notice">Parcel and coordinate identification reopened. This page is not access guidance.</div><h1>Landscape research: candidates, not certified sites</h1>
+<p><strong>v21.0 | OQ-PPAN-001 reopened | 17 October 2026</strong></p>
+<p>This page replaces the previous confident parcel map while the historical registration is reconciled. The current release does not establish modern ownership, a gate, a route, exact 1864 event sites or permission to enter.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Conflicting or insufficient evidence</th>
+<th>Required next step</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Patent 19B</td>
+<td>First section 19 tract corrected to SE 1/4 NE 1/4</td>
+<td>Remap all four tracts against cadastral polygons before any owner/site inference</td>
+</tr>
+<tr>
+<td>Homestead</td>
+<td>Reported 35.6681, -93.4981 point returns a section 25 parcel; preferred section 19 parcel was selected separately</td>
+<td>Reconcile reported location, patent and deed chain; do not call conflict a coarse-GPS error without evidence</td>
+</tr>
+<tr>
+<td>Moore Cemetery</td>
+<td>Site/JS 35.6666, -93.4955 vs legacy KML 35.66217, -93.4955</td>
+<td>Source-supported field reconciliation and capture method/date</td>
+</tr>
+<tr>
+<td>Yale Cemetery</td>
+<td>Earlier text 35.638, -93.572 vs 35.67084, -93.65063</td>
+<td>Identify which cemetery each coordinate refers to; do not silently select one</td>
+</tr>
+<tr>
+<td>Gate</td>
+<td>35.66075, -93.48564 generated from GIS boundary/corridor analysis</td>
+<td>Confirm physical gate and legal access separately with actual managing owner</td>
+</tr>
+</tbody>
+</table></div>
+<p>The earlier Leaflet display used markers/corridors rather than a displayed cadastral polygon layer. Matching terrain is not a precise historical identification. Legacy JSON/KML and parcel notes remain for research history with warnings; they are not visitor directions. No field visits are part of the classroom activity.</p></main><footer>Daniel Bret Lingar · Source-specific rights apply · Corrections and research limits documented · 17 October 2026</footer></body></html>

@@ -16,7 +16,7 @@
     "excerpt-sec19-homer-field-jan1844.jpg"
   ],
   "transcription": "sections-19-22-transcription.txt",
-  "oq_status": "OQ-22 closed v20.7",
+  "oq_status": "OQ-22 reopened: continued-entry dating and occupation identity unresolved",
   "bundles": [
     {
       "quarter": "NW",
@@ -835,5 +835,6 @@
       "path": "LPSFNT/BD0164/913A/Img62546.jpg",
       "viewer": "https://cosl.org/History/LouisianaPurchase/Viewer?PT=LPSFNT\\BD0164\\913A\\Img62546.jpg&BD=BD0164&BK=913A&SQ=24"
     }
-  ]
+  ],
+  "review_note": "Excerpt filename dec1845 retained as a legacy identifier, not a verified date. Adjacent heading reads 1843."
 }

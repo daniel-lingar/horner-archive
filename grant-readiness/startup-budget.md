@@ -1,92 +1,32 @@
-# Horner Civil War Archive — Startup Budget
+# Exhibition planning budget | v21.0 | 17 October 2026
 
-## First 12 Months: Lean Launch Budget
+**Illustrative 12-month direct-cost request: $25,920. No award, approved rates, vendor quotes or applicant budget approval are represented.** This replaces the earlier broad startup scenarios. All costs are prospective, tied to exhibition planning, and subject to allowability and applicant review. Prior website, bibliography and source-acquisition work is not billed again as a future deliverable.
 
-This budget is designed for a fiscal sponsor conversation and early grant planning. It keeps the first-year ask modest while showing what is needed to move the archive from personal research project to public history initiative.
+| Cost / role | Units | Rate | Amount | Basis |
+|---|---:|---:|---:|---|
+| Applicant project director | 40 hours | $50.00 | $2,000.00 | Institutional oversight, decisions and final review; provisional salary basis, fringe to be calculated by applicant |
+| Source researcher / descendant collaborator | 120 hours | $35.00 | $4,200.00 | Source register, provenance checks and record comparison; proposed role for Daniel Lingar subject to written agreement |
+| Project coordination | 100 hours | $35.00 | $3,500.00 | Schedule, permissions log, meetings and document control; assigned by applicant |
+| Outside humanities historians | 80 hours | $85.00 | $6,800.00 | Two independent historians, 40 hours each; topic and source review, not confirmed appointments |
+| Education consultant | 24 hours | $55.00 | $1,320.00 | Review companion source sheets and interpretation for clarity; no classroom outcomes assumed |
+| Exhibition designer | 60 hours | $50.00 | $3,000.00 | Concept layout and accessible label prototype, not fabrication |
+| Accessibility reviewer | 24 hours | $65.00 | $1,560.00 | Plain-language, image alternatives, contrast and print/digital access review |
+| Evaluation consultant | 24 hours | $50.00 | $1,200.00 | Public prototype testing design, analysis and revision memo |
+| Record digitization | 120 pages | $2.00 | $240.00 | Estimated scanning units, not a repository quote |
+| Prototype printing | 100 sets | $4.00 | $400.00 | Low-volume test copies, not final exhibition production |
+| Consultation room rental | 2 sessions | $250.00 | $500.00 | Only if a paid room is necessary; replace with actual quote or zero if provided |
+| Local travel | 8 trips | $50.00 | $400.00 | Per-trip planning estimate, not a verified mileage rate; use applicant policy and actual distance |
+| Repository reproduction fees | 10 orders | $40.00 | $400.00 | Allowance by estimated order, not a NARA price quote; allocate only to exhibition-related records |
+| Prototype accessible transcription | 20 units | $20.00 | $400.00 | Estimated short source/label units; avoid double counting researcher work |
 
----
+**Direct costs: $25,920.00. Indirect costs: $0 in this draft. Proposed federal request: $25,920.00. Proposed cost share: $0.** The selected NEH program does not require cost sharing. Zero indirect is an explicit draft assumption, not a statement that the applicant cannot claim a permitted rate. No contingency, fiscal sponsor/agent fee, grant-writing fee, fundraising, land purchase or final fabrication is included. Budget must change if roles, rates, fringe, travel, rights or the institution’s indirect treatment change.
 
-## Budget Summary
+## Budget justification and evidence to collect
 
-| Category | Low | Base | High |
-|---|---:|---:|---:|
-| Project coordination / research labor | $6,000 | $9,000 | $12,000 |
-| Website and digital archive improvements | $2,000 | $3,500 | $5,000 |
-| Education and public materials | $1,500 | $2,500 | $4,000 |
-| Public programming and outreach | $1,000 | $2,000 | $3,500 |
-| Archival / research expenses | $1,000 | $1,750 | $3,000 |
-| Design, printing, and communications | $1,000 | $1,750 | $2,500 |
-| Fiscal sponsor/admin/operations | $1,500 | $2,500 | $3,500 |
-| Contingency | $1,500 | $2,000 | $3,000 |
-| **Total** | **$15,500** | **$25,000** | **$36,500** |
+The applicant director directs the institution’s own exhibition project, rather than serving as a pass-through. The researcher prepares evidence for interpretation; coordination manages the actual planning work. The outside historians develop context and critique labels throughout. Design, accessibility and evaluation produce a testable exhibition concept and documented revision, not a promise of completed exhibition installation.
 
----
+No named consultant has agreed to these rates or appointments. Collect dated scope/rate letters for each consultant, institutional salary/fringe calculations for employee effort, price estimates for printing/reproductions, and a travel basis consistent with policy. Attach this evidence to the internal working budget; do not invent quotations. Classify employee, contractor and any subrecipient by the actual relationship. The institution must map the rows to the Research and Related Budget categories and provide any required subrecipient budget or indirect agreement.
 
-## Recommended First-Year Ask
+Daniel Lingar or Capitol Contracts LLC may be considered for a properly scoped, approved role; neither is represented as an eligible NEH applicant. A grant is not an automatic payment entitlement. Any agreement must set deliverables, hours/rate or fee, rights, conflict review, invoice requirements and who accepts the work. The applicant must retain substantive authority. The same hours cannot be charged twice under research and coordination.
 
-A realistic first-year cash target is:
-
-**$20,000–$25,000**
-
-This is enough to support basic coordination, archive improvement, educational material development, outreach, and first public programs without creating a heavy overhead structure.
-
----
-
-## Budget Notes
-
-### Project Coordination / Research Labor
-
-Supports the founder/researcher’s time for archive organization, partner meetings, document preparation, public programming, and grant development.
-
-### Website and Digital Archive Improvements
-
-Covers improvements to navigation, source indexes, map pages, accessibility, preservation of digital files, and presentation of research materials.
-
-### Education and Public Materials
-
-Supports handouts, lesson outlines, teacher-facing material, timelines, interpretive summaries, and public-friendly source guides.
-
-### Public Programming and Outreach
-
-Supports one or more local presentations, library or historical society programs, meeting materials, travel within the region, and basic event support.
-
-### Archival / Research Expenses
-
-May include document copies, archive fees, scans, map work, subscriptions, records requests, or preservation supplies.
-
-### Design, Printing, and Communications
-
-Supports simple printed packets, one-page summaries, small signage concepts, visuals, and outreach materials.
-
-### Fiscal Sponsor / Administration / Operations
-
-Allows for sponsor administrative fee, bookkeeping support, basic insurance or compliance needs, and operational expenses.
-
-### Contingency
-
-Protects the project from underbudgeting and provides flexibility as partner requirements become clearer.
-
----
-
-## In-Kind Support to Seek
-
-The cash budget can be reduced or strengthened through in-kind support, including:
-
-- Meeting space
-- Public event hosting
-- Faculty or advisor review
-- Student intern support
-- Archival guidance
-- Printing support
-- Website review
-- Local promotion
-- Grant-writing advice
-- Letters of support
-
----
-
-## Budget Strategy
-
-The first year should avoid permanent staffing obligations, large property commitments, or major tourism promises. The strongest first-year use of funds is to organize the archive, build public-facing materials, secure partners, and prove the project can operate responsibly.
-
-The goal is not to build everything at once. The goal is to create a fundable foundation.
+Suggested invoice evidence: date; task; source/deliverable ID; hours; approved rate; amount; acceptance by institutional lead. Hold a separate permissions/fee ledger. Revise the request from confirmed costs before any submission.

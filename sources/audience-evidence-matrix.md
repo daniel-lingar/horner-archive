@@ -1,3 +1,5 @@
+LEGACY RESEARCH NOTE — NOT REVERIFIED IN v21.0 (17 October 2026). Earlier CLOSED, identity, source-tier and location conclusions may be superseded. Consult the current source catalog, claim reconciliation and research register before citing.
+
 # Audience Evidence Matrix — Horner Civil War Archive
 
 **Purpose:** What you can say safely to whom. Read tiers (§16) first; use this for grants, classrooms, and family conversations.

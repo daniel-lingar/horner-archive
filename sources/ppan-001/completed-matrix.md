@@ -1,3 +1,5 @@
+LEGACY RESEARCH NOTE — NOT REVERIFIED IN v21.0 (17 October 2026). Earlier CLOSED, identity, source-tier and location conclusions may be superseded. Consult the current source catalog, claim reconciliation and research register before citing.
+
 # OQ-PPAN-001 — Completed Parcel Matrix
 
 **Source:** Arkansas AGISO statewide parcel layer (Johnson County CAMA feed, assessor data current Jun 2026) — equivalent to ARCountyData real estate records.  

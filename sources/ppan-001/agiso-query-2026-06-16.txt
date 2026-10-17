@@ -1,3 +1,5 @@
+LEGACY RESEARCH NOTE — NOT REVERIFIED IN v21.0 (17 October 2026). Earlier CLOSED, identity, source-tier and location conclusions may be superseded. Consult the current source catalog, claim reconciliation and research register before citing.
+
 === T12N R24W Johnson ΓÇö 200 parcels ===
 001-06105-000      Sec  1  355.45999146 ac  U S A                                       N2 NE 78.73 SW NE 78.96 NE NW 37.87 AC SE4
 001-06109-000      Sec  1  37.77000046 ac  EVANS MARK O                                NW NW

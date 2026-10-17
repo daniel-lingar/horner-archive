@@ -1,3 +1,5 @@
+REVIEWED WITH LIMITATIONS, v21.0, 17 October 2026. See S06 source catalog.
+
 GLO Field Notes — T12N R24W (5th Principal Meridian)
 Johnson County, Arkansas · Patent 19B sections 19 & 22
 Source: Arkansas Commissioner of State Lands, Book 913A, Bundle BD0164 (NW quarter)
@@ -13,8 +15,8 @@ SECTION 19 & 20 — North line between Sections 19 & 20
 Date: January 5, 1844 (Book 913A page 17 / COSL seq 17)
 
 Between Sections 19 & 20:
-  20.30  Entered John Arringtons field brs E & W & here entered bottom brs E & W
-  20.25  Left the field brs E & W
+  15.00  Entered John Arringtons field brs E & W & here entered bottom brs E & W
+  20.20  Left the field brs E & W
   20.25  West Mulberry distance obtained by calculation 144 links wide runs West
   39.06  Entered G. Homers field brs E & W
   40.00  Set a ¼ Section corner post [witness trees: Black Gum/Walnut 14 in, Black Oak 14 in]
@@ -40,13 +42,13 @@ West — true line between Sections 19 & 30:
 
 ---
 SECTIONS 21 & 22 — North line (Mulberry corridor)
-Date: December 29, 1845 (Book 913A page 10 / COSL seq 10)
+Date: adjacent heading reads December 29, 1843; date of continued entry pending adjacent-page review (COSL seq 10)
 
 Between Sections 21 & 22, Township 12 North Range 24 West:
   18.00  Mulberry 110 links wide runs S W
   21.50  Entered bottom brs N W & S E
   25.50  A Road brs N W & S E
-  33.10  Entered Subanks field brs E & W
+  33.10  Entered Eubanks field brs E & W
   40.00  Set a ¼ Section corner post
   40.40  Left the field brs E & W
   80.00  Set a post corner to Sections 15,16,21 & 22
@@ -64,14 +66,14 @@ Corrected line between Sections 15 & 22:
 ---
 RELEVANCE TO HORNER HOMESTEAD (Patent 19B, 160 acres)
 
-Patent parcels: Sec 19 (NE¼ SE¼, NW¼ SE¼) · Sec 22 (NW¼ NW¼, SE¼ NW¼)
+Patent parcels: Sec 19 (SE¼ NE¼, NW¼ SE¼) · Sec 22 (NW¼ NW¼, SE¼ NW¼)
 
-1844–1845 surveyors describe:
+1843–1844 headings / surveyors describe:
   • River bottom ("1st rate soil") vs upland ("hilly & Rocky")
   • Named watercourses: Mulberry (110–144 links wide), multiple brooks
   • Roads crossing section lines
-  • Pre-patent fields: Arrington, G. Homer(s), Subanks
+  • Pre-patent fields: Arrington, G. Homer(s), Eubanks
 
-Corroborates oral/LiDAR geography: bluff-upland vs bottom-land contrast along Little Mulberry corridor. Does not name Spencer Horner (b. ~1809) — he acquires via Choctaw scrip in 1857.
+The notes describe bottom-land and upland terrain. Their comparison to oral-location accounts or LiDAR remains a research hypothesis, not a verified site match. They do not name Spencer Horner; identification of G. Homer requires separate evidence.
 
 Full COSL bundle: 89 transcribed pages · manifest.json · fetch script: scripts/fetch_cosl_field_notes.py

@@ -1,3 +1,11 @@
+# Current release: v21.0 (17 October 2026)
+
+Read [current edition](index.html), [change log](CHANGELOG.md), [classroom pack](classroom/source-pack.pdf), and [institutional grant draft](grant-readiness/index.html). Older research notes retain unresolved claims and are labeled accordingly.
+
+Build: `python -m pip install -r scripts/requirements-release.txt`, then `python scripts/build_reviewed_release.py`. Validate: `python scripts/validate_reviewed_release.py`.
+
+---
+
 # Johnson County Civil War Archive
 
 <p align="center">

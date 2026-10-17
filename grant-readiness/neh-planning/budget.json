@@ -1,0 +1,121 @@
+{
+  "currency": "USD",
+  "status": "illustrative planning assumptions, not approved rates or quotes",
+  "direct_total": 25920,
+  "indirect_total": 0,
+  "indirect_basis": "No indirect requested in this draft; applicant approval required. Recalculate if applicant elects a permitted rate.",
+  "rows": [
+    {
+      "role": "Applicant project director",
+      "unit": "hours",
+      "quantity": 40,
+      "rate": 50,
+      "total": 2000,
+      "basis": "Institutional oversight, decisions and final review; provisional salary basis, fringe to be calculated by applicant"
+    },
+    {
+      "role": "Source researcher / descendant collaborator",
+      "unit": "hours",
+      "quantity": 120,
+      "rate": 35,
+      "total": 4200,
+      "basis": "Source register, provenance checks and record comparison; proposed role for Daniel Lingar subject to written agreement"
+    },
+    {
+      "role": "Project coordination",
+      "unit": "hours",
+      "quantity": 100,
+      "rate": 35,
+      "total": 3500,
+      "basis": "Schedule, permissions log, meetings and document control; assigned by applicant"
+    },
+    {
+      "role": "Outside humanities historians",
+      "unit": "hours",
+      "quantity": 80,
+      "rate": 85,
+      "total": 6800,
+      "basis": "Two independent historians, 40 hours each; topic and source review, not confirmed appointments"
+    },
+    {
+      "role": "Education consultant",
+      "unit": "hours",
+      "quantity": 24,
+      "rate": 55,
+      "total": 1320,
+      "basis": "Review companion source sheets and interpretation for clarity; no classroom outcomes assumed"
+    },
+    {
+      "role": "Exhibition designer",
+      "unit": "hours",
+      "quantity": 60,
+      "rate": 50,
+      "total": 3000,
+      "basis": "Concept layout and accessible label prototype, not fabrication"
+    },
+    {
+      "role": "Accessibility reviewer",
+      "unit": "hours",
+      "quantity": 24,
+      "rate": 65,
+      "total": 1560,
+      "basis": "Plain-language, image alternatives, contrast and print/digital access review"
+    },
+    {
+      "role": "Evaluation consultant",
+      "unit": "hours",
+      "quantity": 24,
+      "rate": 50,
+      "total": 1200,
+      "basis": "Public prototype testing design, analysis and revision memo"
+    },
+    {
+      "role": "Record digitization",
+      "unit": "pages",
+      "quantity": 120,
+      "rate": 2,
+      "total": 240,
+      "basis": "Estimated scanning units, not a repository quote"
+    },
+    {
+      "role": "Prototype printing",
+      "unit": "sets",
+      "quantity": 100,
+      "rate": 4,
+      "total": 400,
+      "basis": "Low-volume test copies, not final exhibition production"
+    },
+    {
+      "role": "Consultation room rental",
+      "unit": "sessions",
+      "quantity": 2,
+      "rate": 250,
+      "total": 500,
+      "basis": "Only if a paid room is necessary; replace with actual quote or zero if provided"
+    },
+    {
+      "role": "Local travel",
+      "unit": "trips",
+      "quantity": 8,
+      "rate": 50,
+      "total": 400,
+      "basis": "Per-trip planning estimate, not a verified mileage rate; use applicant policy and actual distance"
+    },
+    {
+      "role": "Repository reproduction fees",
+      "unit": "orders",
+      "quantity": 10,
+      "rate": 40,
+      "total": 400,
+      "basis": "Allowance by estimated order, not a NARA price quote; allocate only to exhibition-related records"
+    },
+    {
+      "role": "Prototype accessible transcription",
+      "unit": "units",
+      "quantity": 20,
+      "rate": 20,
+      "total": 400,
+      "basis": "Estimated short source/label units; avoid double counting researcher work"
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+LEGACY RESEARCH NOTE — NOT REVERIFIED IN v21.0 (17 October 2026). Earlier CLOSED, identity, source-tier and location conclusions may be superseded. Consult the current source catalog, claim reconciliation and research register before citing.
+
 # CMSR Research — OQ-12 / OQ-13 (June 2026)
 
 **Archive version:** v20.6  

@@ -1,3 +1,5 @@
+LEGACY RESEARCH NOTE — NOT REVERIFIED IN v21.0 (17 October 2026). Earlier CLOSED, identity, source-tier and location conclusions may be superseded. Consult the current source catalog, claim reconciliation and research register before citing.
+
 # OQ-20 — Post-1864 Land Disposition — Estate + Deed Search
 
 **Status:** Open · Reframed v20.8 · June 2026  

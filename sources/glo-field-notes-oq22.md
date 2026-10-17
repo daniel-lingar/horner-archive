@@ -1,3 +1,5 @@
+LEGACY RESEARCH NOTE — NOT REVERIFIED IN v21.0 (17 October 2026). Earlier CLOSED, identity, source-tier and location conclusions may be superseded. Consult the current source catalog, claim reconciliation and research register before citing.
+
 # OQ-22 — GLO Field Notes T12N R24W — CLOSED v20.7
 
 **Township:** 12 North · **Range:** 24 West · **Meridian:** Fifth Principal (Louisiana Purchase)  

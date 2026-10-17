@@ -1,3 +1,5 @@
+LEGACY RESEARCH NOTE — NOT REVERIFIED IN v21.0 (17 October 2026). Earlier CLOSED, identity, source-tier and location conclusions may be superseded. Consult the current source catalog, claim reconciliation and research register before citing.
+
 # Patent 19B → Modern PPAN Map (AGISO GIS pull)
 
 **Source:** Arkansas GIS Office statewide parcel layer (`Planning_Cadastre` FeatureServer layer 6)  
