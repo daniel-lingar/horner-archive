@@ -24,4 +24,14 @@ Earlier request drafts and notes saying “sent June 16” do not establish pres
 
 ## Wilson context check, 17 October 2026
 
-The reviewer-supplied excerpt says “they” left Jess Wilson to hold their horses when they went to fight. Its antecedent and the particular fight have not been verified from preceding/following original text. Do not call this a reprisal group, infer that Wilson fought, identify him with Confederate prisoner James Mitchell Wilson, or label him an original attacker or reprisal victim on this sentence alone. Obtain the complete passage, its original/custodial source and a line-level citation. A repository summary that says he held horses is not the missing surrounding passage.
+*original transcript unchecked; antecedent of "they" unresolved.*
+
+Item 17 is closed only at the published-excerpt level. The published excerpt states: “One time they left Jess Wilson to hold their horses when they went to fight” [S04]. The surrounding published passage does not identify “they” or specify which fight is meant. Do not call this a reprisal group, infer that Wilson fought, identify him with Confederate prisoner James Mitchell Wilson, or label him an original attacker or reprisal victim on this sentence alone.
+
+In the repository excerpt page at commit 4fe2aa4592b3c0b0bff1dfc9218ef2e2dc47d3e1, the preceding sentence is “Dad said Jess Wilson was a brave man too.” The two earlier excerpt blocks describe a road killing and a dance-house raid; both name Wash Middleton. A more distant excerpt names Wash Middleton and Fate Arnold. The blocks are editorially arranged, so their order cannot establish the original manuscript's adjacent sentences. “Too” suggests a comparison; its referent is unresolved.
+
+That page attributes the narrator to Prof. John Turner Horner, “Dad” to Dr. John Turner Horner, and the 1942 recording to Eva Horner, the professor's daughter. This is the website's reported transmission chain, not an independently authenticated chain. The old heading “Squad Members — Additional Detail” supplies editorial framing; its presence in the manuscript is unverified. The current source page removes that heading rather than claiming to know the manuscript's headings. Obtain the complete passage, original/custodial source and a line-level citation before resolving the antecedent.
+
+## Census reconciliation follow-up, 17 October 2026
+
+The earlier page reports $200 real estate and $1,000 personal estate; the S01 page examined for the current edition reports $1,500 in each column. The figures are discrepant. A transcription error, household misidentification or other source mismatch must be checked; double enumeration is not established and must not be presumed. Verify the earlier citation “M653 roll 44” and enumerator attribution “A.M. Marshall” against original record metadata. S01's series, roll, image ID and page numbering remain unresolved. The withdrawn displayed image did not authenticate the earlier figures.

@@ -45,7 +45,7 @@ def pdf(doc,path,base=R):
  HTML(string=str(parsed),base_url=str(base)+'/').write_pdf(R/path);print('PDF',path)
 def main():
  ap=argparse.ArgumentParser();ap.add_argument('--html-only',action='store_true');ap.add_argument('--reader-only',action='store_true');ap.add_argument('--public-only',action='store_true');a=ap.parse_args()
- core=write_page('editions/v21/current-reading.md','index.html','The Horner family in Civil War Johnson County',notice='Reader edition: household, land, wartime loss and family remembrance. Source and relationship limits are stated alongside the account; the correction register remains separate.')
+ core=write_page('editions/v21/current-reading.md','index.html','The Horner family in Civil War Johnson County')
  write_page('grant-readiness/annotated-bibliography.md','grant-readiness/annotated-bibliography.html','Annotated sources','../')
  write_page('classroom/teacher-guide.md','grant-readiness/teacher-guide.html','Teacher guide','../')
  write_page('transcript-1942.md','transcript-1942.html','Later family testimony',notice='Published family-account excerpts are not a complete authenticated original. Source S04.')

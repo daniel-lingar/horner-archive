@@ -81,9 +81,11 @@ check(legacy.body.find(True,recursive=False).get('id')=='correction-notice','Cor
 check(not legacy.find_all('script'),'Legacy map/popup scripts still active')
 check(not legacy.select('img[src^="field-docs/"]'),'Withdrawn gallery image still displayed')
 check('James Mitchell' not in BeautifulSoup((R/'index.html').read_text(),'html.parser').get_text(),'Reader plants Wilson prisoner association')
-check('which party or which fight' in (R/'editions/v21/current-reading.md').read_text(),'Wilson antecedent uncertainty absent')
-check('reprisal group' not in (R/'editions/v21/current-reading.md').read_text().split('The excerpt quoted')[1].split('## A short timeline')[0],'Wilson party assumption reintroduced')
-check(not ET.parse(R/'horner-sites.kml').findall('.//{http://www.opengis.net/kml/2.2}Placemark'),'Withdrawn KML retains locations')
+reader_text=(R/'editions/v21/current-reading.md').read_text()
+check('does not identify “they” or specify which fight is meant' in reader_text,'Wilson antecedent uncertainty absent')
+check('reprisal group' not in reader_text.split('The published excerpt states:')[1].split('## A short timeline')[0],'Wilson party assumption reintroduced')
+for kml_file in R.rglob('*.kml'):
+ check(not ET.parse(kml_file).findall('.//{http://www.opengis.net/kml/2.2}Placemark'),'Withdrawn KML retains locations '+str(kml_file.relative_to(R)))
 for f in (R/'sources/ppan-001').glob('*.json'):
  check(json.loads(f.read_text()).get('status')=='withdrawn','Cadastral extract not withdrawn '+f.name)
 legacy_pdf=fitz.open(R/'legacy-research-edition.pdf')

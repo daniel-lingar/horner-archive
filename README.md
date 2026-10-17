@@ -1,8 +1,25 @@
-# Current release: v21.0 (17 October 2026)
+# Current release: v21.2 (17 October 2026)
 
-Read [current edition](index.html), [change log](CHANGELOG.md), [classroom pack](classroom/source-pack.pdf), and [institutional grant draft](grant-readiness/index.html). Older research notes retain unresolved claims and are labeled accordingly.
+[Read the archive](https://daniel-lingar.github.io/horner-archive/) · [Reader PDF](https://daniel-lingar.github.io/horner-archive/dossier.pdf) · [Correction register](corrections/v21-claim-reconciliation.md)
 
-Build: `python -m pip install -r scripts/requirements-release.txt`, then `python scripts/build_reviewed_release.py`. Validate: `python scripts/validate_reviewed_release.py`.
+The current edition brings together the reader, sources, research questions, classroom materials and grant discussion packet. It preserves the distinction between examined record images, later family testimony and unresolved research leads. Publication does not certify unresolved historical claims or submission readiness.
+
+| Material | Purpose and status |
+|---|---|
+| [Current reader](index.html) and [six-page PDF](dossier.pdf) | Household, land, reported attack and remembrance; claim-specific source limits retained |
+| [Source catalog](grant-readiness/annotated-bibliography.html) and [source records](sources/reviewed/source-catalog.json) | Seven source groups, provenance, uses and limits |
+| [Correction register](corrections/v21-claim-reconciliation.md) and [research register](sources/reviewed/research-register.md) | Withdrawn claims, discrepant records and evidence still needed |
+| [Classroom materials](classroom/index.html) and [printable source pack](classroom/source-pack.pdf) | Complete core lesson with source details, worksheet, key and evaluation form; human source review and classroom piloting remain pending |
+| [Grant discussion packet](grant-readiness/index.html) | Institutional planning drafts and estimated budget; no award, applicant commitment or approved application claimed |
+| [Superseded detailed edition](superseded-v20.html) and [legacy PDF](legacy-research-edition.pdf) | Earlier research preserved with correction warnings; older assertions are not current findings |
+
+Location mapping, current ownership extracts and all five published KML coordinate payloads are withdrawn pending reconciliation. This release supplies no visitor route or permission to enter land. Git history and third-party copies are not erased.
+
+## Build and check
+
+Install the pinned dependencies in `scripts/requirements-release.txt`, run `python scripts/build_reviewed_release.py`, then `python scripts/validate_reviewed_release.py`. The build renders the Markdown sources to the current HTML and PDFs. The separately preserved legacy PDF retains its correction notice and superseded page marks.
+
+Technical validation checks links, source hashes, image derivatives, budget arithmetic, document layout bounds and withdrawal notices. It does not authenticate the original family manuscript, prove disputed identities, or substitute for human source review and classroom testing.
 
 ---
 
@@ -19,85 +36,3 @@ My memoir and trauma-related work are emotionally demanding. I live with C-PTSD,
 The Horner research and the World War II research into Lawrence J. Lingar give me that change of focus. They still take me into the past, but these are events I did not experience. I was not alive when they happened.
 
 These archives have their own historical purpose. They also give me something meaningful to work on when I need a break from my own memories.
-
-## How to Deploy This Site (Free, 15 Minutes)
-
----
-
-### Step 1 — Create a GitHub Account
-Go to github.com and sign up if you don't have one.
-
----
-
-### Step 2 — Create a New Repository
-- Click the green "New" button
-- Name it: `horner-archive` (or whatever you want)
-- Set it to **Public**
-- Click "Create repository"
-
----
-
-### Step 3 — Upload index.html
-- Click "uploading an existing file"
-- Drag `index.html` into the box
-- Click "Commit changes"
-
----
-
-### Step 4 — Enable GitHub Pages
-- Go to Settings → Pages (left sidebar)
-- Under "Source," select: **Deploy from a branch**
-- Branch: **main** / folder: **/ (root)**
-- Click Save
-
----
-
-### Step 5 — Your site is live
-Within 2 minutes, your site will be at:
-`https://YOUR-USERNAME.github.io/horner-archive/`
-
-That's the URL you put in your grant application.
-
----
-
-## Filling In Your Content
-
-Search the file for these markers and replace them:
-
-| Marker | Replace with |
-|--------|-------------|
-| `[coordinates TK]` | Your GPS coordinates |
-| `[location TK]` | Birth location, etc. |
-| `[dates TK]` | Birth/death dates |
-| `your@email.com` | Your actual email |
-| `dossier.pdf` | Upload your PDF to GitHub and link it |
-
-### To embed your Google Map:
-1. Go to mymaps.google.com
-2. Build your map with pins
-3. Click Share → Embed → copy the iframe code
-4. In index.html, find the map-container section
-5. Paste the iframe code inside it
-
----
-
-## To Update the Site Later
-- Go to your GitHub repository
-- Click on index.html
-- Click the pencil icon (Edit)
-- Make changes
-- Click "Commit changes"
-
-Site updates within 2 minutes. No software needed.
-
----
-
-## Files to Upload
-
-| File | What it is |
-|------|-----------|
-| `index.html` | The site (required) |
-| `dossier.pdf` | Your research dossier (when ready) |
-| Any photo files | Tombstone photos, document scans |
-
-Keep all files in the same folder in GitHub.

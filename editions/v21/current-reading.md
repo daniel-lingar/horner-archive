@@ -1,10 +1,6 @@
 # The Horner family: land, war, and remembrance
 
-**Reader edition | v21.2 | 17 October 2026**
-
 In June 1860, a census enumerator recorded Spencer Horner as a 52-year-old farmer in Mulberry Township, Johnson County, Arkansas. Permelia appears immediately below him, followed by five younger people. The page places a household in view before the war: names, ages, birthplaces, work, and reported property. Four years later, a family account describes Spencer's killing and the shooting of William Riley Horner, identified in the archive's family reconstruction as his son. William's grave marker gives his death as 10 August 1864. These records bring us close to a family's losses, although they preserve different kinds of evidence [S01, S03, S04].
-
-Daniel Bret Lingar assembled this archive to investigate that history. The story begins with land and a household, turns to the deaths remembered by descendants, and follows the questions those memories leave for researchers. Source numbers identify the records or attributed accounts behind each part. The separate correction register records changes to earlier editions.
 
 ## A household before the war {#origins}
 
@@ -16,7 +12,7 @@ The property columns show reported values, not a list of possessions. They canno
 
 ## The land record and its Choctaw connection {#census1860}
 
-Three years before that census, a federal patent dated **1 April 1857** named Spencer Horner as an assignee: a recipient through assignment of a prior claim. The document identifies **Choctaw Certificate No. 19B**, in the name of Canne Chubbee, deceased, and names Co-cha-tubbee as a representative. It describes a total of 160 acres in sections 19 and 22, Township 12 North, Range 24 West, processed through the Fayetteville Land Office [S02]. The certificate number is visible; the original BLM/GLO accession and catalog fields still need independent checking.
+Three years before that census, a federal patent dated **1 April 1857** named Spencer Horner as an assignee: a recipient through assignment of a prior claim. The document identifies **Choctaw Certificate No. 19B**, in the name of Canne Chubbee, deceased, and names Co-cha-tubbee as a representative. It describes a total of 160 acres in sections 19 and 22, Township 12 North, Range 24 West, processed through the Fayetteville Land Office [S02].
 
 The patent explicitly connects the certificate to claims under the Treaty of Dancing Rabbit Creek and later federal acts. That connection belongs in the history of this land. The Choctaw Nation describes the 1830 treaty in the context of forced removal and provisions for Choctaw people seeking to remain in Mississippi [C1]. Spencer's patent records a later assignment within that claims history. It does not explain how this particular assignment was arranged, what Spencer paid, or what the claim meant to Canne Chubbee's family.
 
@@ -30,25 +26,11 @@ The account also places two young Acord boys, John Samuel and Christopher Columb
 
 The date **2 August 1864 is a working date, source not located** in the materials verified for this edition. William's marker instead records his death on **10 August 1864** [S03]. One possible explanation is that an injury preceded a later death, but these materials do not establish that sequence. Spencer's exact death date also needs separately dated evidence. The two dates must not be made to corroborate one another by assumption.
 
-## Who's who {#people}
-
-| Person | Place in this history | Evidence and status |
-|---|---|---|
-| Spencer Horner | Farmer; patent assignee; victim of a reported wartime killing | Census and patent images establish entries in his name [S01–S02]; account of killing is later family testimony [S04] |
-| Permelia | Appears on census line 2; identified as Spencer's wife in the family reconstruction | Entry examined [S01]; relationship needs separately cited family records [S04/S07] |
-| William Riley Horner | Identified as Spencer's son; victim described in the family account | Relationship and attack account [S04/S07]; marker gives death 10 August 1864 [S03] |
-| Dr. John Turner Horner | Identified as Spencer's son and William's brother; central figure in the later reprisal account | Family reconstruction/testimony [S04/S07]; formal Union enlistment unresolved |
-| Elizabeth Horner Acord | Identified as Spencer's daughter and mother of the Acord boys | Family reconstruction [S04/S07]; supporting vital/family records to be checked |
-| Francis Marion Acord | Identified as Elizabeth's husband and the boys' father | Family reconstruction [S04/S07]; individual records require verification |
-| John Samuel and Christopher Columbus Acord | Identified as young grandsons whose childhood is connected to the attack | Later family account/reconstruction [S04/S07]; Christopher's age disputed |
-
-Here, S07 means a research register of leads, not an authenticated original record. The table makes the family account understandable without presenting every relationship as independently proved.
-
 ## Remembering the deaths {#reckoning}
 
 William's marker attributes the killing to parties known to his family. It preserves a public accusation and a death date. It does not supply the killers' names or tell us whether an investigation, inquest, or prosecution followed. Its installation date and the date and maker of the surviving photograph are unknown [S03].
 
-The 1942-attributed narrative continues beyond the attack. It tells of reprisals associated with Dr. John Turner Horner and reports seventeen of twenty attackers killed. That is a claim made by the family account, not an independently verified casualty total [S04]. The excerpt quoted for this review says that on one occasion the party left Jess Wilson to hold their horses when they went to fight [S04]. As quoted, it does not say which party or which fight is meant.
+The 1942-attributed narrative continues beyond the attack. It tells of reprisals associated with Dr. John Turner Horner and reports seventeen of twenty attackers killed. That is a claim made by the family account, not an independently verified casualty total [S04]. The published excerpt states: “One time they left Jess Wilson to hold their horses when they went to fight” [S04]. The surrounding published passage does not identify “they” or specify which fight is meant.
 
 Family memory gives this history its human urgency: people tried to explain loss, identify responsibility and tell later generations what had happened. Examining how those stories were recorded is part of preserving them. The next task is to compare the complete account with dated records, not to fill its gaps with a more dramatic narrative.
 
@@ -64,19 +46,41 @@ Family memory gives this history its human urgency: people tried to explain loss
 | 10 August 1864 | William Riley's death date on the marker | Memorial reading [S03]; does not by itself date the attack |
 | 1942, attributed | Recording of the family narrative associated with Eva Horner | Complete original and transmission history unverified [S04] |
 
+## Who's who {#people}
+
+| Person | Place in this history | Evidence and status |
+|---|---|---|
+| Spencer Horner | Farmer; patent assignee; victim of a reported wartime killing | Census and patent images establish entries in his name [S01–S02]; account of killing is later family testimony [S04] |
+| Permelia | Appears on census line 2; identified as Spencer's wife in the family reconstruction | Entry examined [S01]; relationship needs separately cited family records [S04/S07] |
+| William Riley Horner | Identified as Spencer's son; victim described in the family account | Relationship and attack account [S04/S07]; marker gives death 10 August 1864 [S03] |
+| Dr. John Turner Horner | Identified as Spencer's son and William's brother; central figure in the later reprisal account | Family reconstruction/testimony [S04/S07]; formal Union enlistment unresolved |
+| Elizabeth Horner Acord | Identified as Spencer's daughter and mother of the Acord boys | Family reconstruction [S04/S07]; supporting vital/family records to be checked |
+| Francis Marion Acord | Identified as Elizabeth's husband and the boys' father | Family reconstruction [S04/S07]; individual records require verification |
+| John Samuel and Christopher Columbus Acord | Identified as young grandsons whose childhood is connected to the attack | Later family account/reconstruction [S04/S07]; Christopher's age disputed |
+
+Here, S07 means a research register of leads, not an authenticated original record. The table makes the family account understandable without presenting every relationship as independently proved.
+
 ## Questions the archive is pursuing {#open}
 
 Which dated records can establish the attack and Spencer's death? What do complete military, pension and court records say about the people and events? Can the original family manuscript be located, dated and compared with later retellings? What became of the Choctaw claim and of each tract after the patent? What records establish the children's family relationships and later lives?
 
-Location research is also **reopened**: historical tracts, reported coordinates and present parcels have not been reconciled. The archive's map is a research aid, not directions or permission to enter land. Details of official appointments, service-record leads and disputed identities belong in the [research register](sources/reviewed/research-register.md), where each can be tested without interrupting this account.
+Location research is also **reopened**: historical tracts, reported coordinates and present parcels have not been reconciled. Location mapping remains withdrawn; this edition supplies no directions or permission to enter land. Details of official appointments, service-record leads and disputed identities belong in the [research register](sources/reviewed/research-register.md).
 
 ## Read the evidence {#sources}
 
 S01: census image and cautious transcription. S02: federal patent associated with Choctaw Certificate No. 19B. S03: William Riley marker photograph. S04: family-account excerpts attributed to 1942. S05–S06: additional pension-ledger and survey sources. S07: unverified military, pension and family-record leads. The [annotated catalog](grant-readiness/annotated-bibliography.html) gives provenance, uses and limits for each.
 
+The patent's certificate number is visible; its original BLM/GLO accession and catalog fields still need independent checking. The census's original series, roll and provider image ID also remain unreconciled. These identification tasks are recorded with the sources rather than treated as settled citations.
+
 C1: Choctaw Nation of Oklahoma, [The Treaty that Forever Changed our Chahta People's Story](https://www.choctawnation.com/news/chiefs-blog/the-treaty-that-forever-changed-our-chahta-peoples-story/). Tribal historical account, consulted 17 October 2026; context for removal and treaty provisions, not evidence of the terms of Spencer's particular assignment.
 
-[Printable reader edition](dossier.pdf) · [Classroom source pack](classroom/source-pack.pdf) · [Correction register](corrections/v21-claim-reconciliation.md) · [Research register](sources/reviewed/research-register.md) · [Grant discussion materials](grant-readiness/index.html).
+### About this edition
+
+**Reader edition | v21.2 | 17 October 2026**
+
+Daniel Bret Lingar assembled this archive to investigate the family's history. Source numbers identify the records or attributed accounts behind each part. The [correction register](corrections/v21-claim-reconciliation.md) records withdrawn claims and changes to earlier editions; the [research register](sources/reviewed/research-register.md) records what remains unresolved. Source limits that affect the meaning of an event or identification remain beside that claim in the narrative.
+
+[Printable reader edition](dossier.pdf) · [Classroom source pack](classroom/source-pack.pdf) · [Grant discussion materials](grant-readiness/index.html).
 
 The [superseded detailed edition](superseded-v20.html) and original PDF in [Git history](https://github.com/daniel-lingar/horner-archive/blob/66eaac11fbbd5385cff6d08861453ac8b46ab3d2/dossier.pdf) retain earlier wording for correction history. Source-specific rights apply; possession of a photograph or manuscript is not a blanket reproduction license.
 

@@ -17,7 +17,7 @@ The two dates answer different questions. Do not use 20 June as the household's 
 
 **Locator:** dwelling 698, family 699, lines 1–7; Page No. appears 98 with another handwritten 99; stamped 1029. Original scan extracted from page 1 of the owner's “1860 census” export. NARA microfilm series/roll and provider image ID remain unverified. This is a provisional local citation, not a complete archival citation.
 
-**About the detail:** a rectangular crop of the source image, without altered letters, contrast enhancement or reconstructed handwriting. The full original remains available for comparison: https://github.com/daniel-lingar/horner-archive/blob/grant-readiness-repair-2026-10-17/sources/reviewed/1860-mulberry-spencer-horner.jpeg
+**About the detail:** a rectangular crop of the source image, without altered letters, contrast enhancement or reconstructed handwriting. The full original remains available for comparison: https://daniel-lingar.github.io/horner-archive/sources/reviewed/1860-mulberry-spencer-horner.jpeg
 
 <!-- page -->
 
@@ -76,6 +76,6 @@ The record describes a total of **160 acres** in **sections 19 and 22, Township 
 
 The patent identifies Spencer as an assignee; it does **not** establish his Indigenous ancestry, the price of the assignment or a modern house site. The people named in a claim transaction need not be relatives. To learn a transaction's consideration, a historian could seek the original assignment or a related deed.
 
-**Provenance:** existing repository image; handwritten “426” at upper left and Certificate No. 19B in the image. Original archival accession remains unverified. These details are exact rectangular crops, not enhanced or rewritten handwriting. Full image: https://github.com/daniel-lingar/horner-archive/blob/grant-readiness-repair-2026-10-17/Patent_19B_AR2690___426.jpg
+**Provenance:** existing repository image; handwritten “426” at upper left and Certificate No. 19B in the image. Original archival accession remains unverified. These details are exact rectangular crops, not enhanced or rewritten handwriting. Full image: https://daniel-lingar.github.io/horner-archive/Patent_19B_AR2690___426.jpg
 
 **Compare A and B:** Which describes a household? Which records a land grant? What does each date refer to? Why is a $1,500 census valuation not the price paid for a certificate three years earlier?

@@ -44,11 +44,11 @@
       "path": "transcript-1942.html",
       "kind": "Later family testimony, published excerpts",
       "date": "Attributed to 1942; original not examined",
-      "provenance": "Published repository excerpts and reconstruction refer to FindAGrave memorial 9297073. The complete dated manuscript and transmission chain remain unverified.",
+      "provenance": "Published repository excerpts and reconstruction refer to FindAGrave memorial 9297073. The earlier website attributes the narrator to Prof. John Turner Horner, “Dad” to his father Dr. John Turner Horner, and recording in 1942 to Eva Horner, the professor’s daughter. This reported second-hand transmission chain and the complete dated manuscript remain unverified. The arranged website excerpt blocks do not establish original manuscript continuity.",
       "supports": "The family account describes Spencer being shot after surrendering, William receiving a head wound, and later reprisals.",
-      "limits": "The reported seventeen-of-twenty reprisal count, names, tactics, hidden money, and exact chronology are uncorroborated here. Excerpt publication is not a complete diplomatic transcript. The reviewer-quoted Jess Wilson sentence does not identify the party or fight; its antecedent remains unresolved.",
+      "limits": "The reported seventeen-of-twenty reprisal count, names, tactics, hidden money, and exact chronology are uncorroborated here. Excerpt publication is not a complete diplomatic transcript. The reviewer-quoted Jess Wilson sentence does not identify the party or fight; its antecedent remains unresolved. Original transcript unchecked; antecedent of “they” unresolved. The preceding published sentence is “Dad said Jess Wilson was a brave man too.”",
       "rights": "Text permission and original custody unresolved. The optional memory extension uses an attributed editorial summary; core assessment does not depend on it.",
-      "sha256": "46b7df156ea5e324b20a0be7e0d6cb485c35f3574160c8a634596bef67084fea"
+      "sha256": "7af98bf640b80be717dfbb3caa17da950e7d45dbea3015ccdf126ad46b14b84a"
     },
     {
       "id": "S05",
@@ -84,7 +84,7 @@
       "supports": "Identifies records to retrieve and compare; no new authentication of their quoted contents.",
       "limits": "WC75885 concerns William Riley’s widow; it is not John Turner’s rejected application. Sturges authorship/date/context/independence remain open. AWOL status does not locate Hiram Boen or implicate him in killings.",
       "rights": "Request repository copies and record-level citations before facsimile publication.",
-      "sha256": "b6dc68d0c509597d98444413bfcda589f282e7b839da14bbdc802c9bbd19b752"
+      "sha256": "35f52da7ae41118ccb5c9833133a54b55f75061f4b135f11659da814d9f8b9da"
     }
   ]
 }

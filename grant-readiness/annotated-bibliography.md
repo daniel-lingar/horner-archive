@@ -48,11 +48,11 @@ Existing repository screenshot of a marker. Photographer, capture date, marker i
 
 [Published item](../transcript-1942.html)
 
-Published repository excerpts and reconstruction refer to FindAGrave memorial 9297073. The complete dated manuscript and transmission chain remain unverified.
+Published repository excerpts and reconstruction refer to FindAGrave memorial 9297073. The earlier website attributes the narrator to Prof. John Turner Horner, “Dad” to his father Dr. John Turner Horner, and recording in 1942 to Eva Horner, the professor’s daughter. This reported second-hand transmission chain and the complete dated manuscript remain unverified. The arranged website excerpt blocks do not establish original manuscript continuity.
 
 **Use:** The family account describes Spencer being shot after surrendering, William receiving a head wound, and later reprisals.
 
-**Limits:** The reported seventeen-of-twenty reprisal count, names, tactics, hidden money, and exact chronology are uncorroborated here. Excerpt publication is not a complete diplomatic transcript.
+**Limits:** The reported seventeen-of-twenty reprisal count, names, tactics, hidden money, and exact chronology are uncorroborated here. Excerpt publication is not a complete diplomatic transcript. The reviewer-quoted Jess Wilson sentence does not identify the party or fight; its antecedent remains unresolved. Original transcript unchecked; antecedent of “they” unresolved. The preceding published sentence is “Dad said Jess Wilson was a brave man too.”
 
 **Rights:** Text permission and original custody unresolved. The optional memory extension uses an attributed editorial summary; core assessment does not depend on it.
 
