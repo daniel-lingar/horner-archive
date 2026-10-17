@@ -1,3 +1,1 @@
-floyd-township-pages-981-982-horner-cluster.jpg	Floyd Township pp. 981-982 — W.R. Horne (l.35-38) and John T. Homer (l.1-7)	182 KB
-Source: Google Doc export of 1860 census.pdf (Johnson County, Floyd Township)
-NARA M653 roll 44 · Enumerator A.M. Marshall · June 1860
+WITHDRAWN, 17 October 2026. The earlier Floyd 981–982 household/image and valuation comparison were not supported by the displayed page. See the corrected reader and source record on the review branch: https://github.com/daniel-lingar/horner-archive/tree/grant-readiness-repair-2026-10-17/sources/reviewed
