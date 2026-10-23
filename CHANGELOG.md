@@ -1,5 +1,12 @@
 # Release history
 
+## v21.3 (proposed) — 19 October 2026 — 1867 roster errata
+
+- Publish the dated errata of 19 October 2026 (`corrections/errata-2026-10-19.md`): newly verified roster facts (E1–E6), withdrawn legacy claims (F1–F11), and unresolved items (N1–N4). Link the errata from the current reading edition's "About this edition" section and from the superseded v20 correction notice.
+- Integrate the 1867 Adjutant General's roster (S08) into the reading edition: William R. Horner's service and death asserted on the roster's authority with the CMSR/muster-roll attributions withdrawn; Pleasant (4 August 1864) and Andrew (31 July 1864) Horner deaths added to the timeline in chronological order; patent sections corrected to 19, 20, and 22.
+- Add the identity register (`sources/reviewed/identity-register.md`) preserving the 2nd/4th Infantry Andrew-and-Pleasant conflict as unresolved; reclassify S07 summaries as leads.
+- Add the NARA acquisition plan (`sources/reviewed/nara-acquisition-plan.md`) with verified procedures and fees. No orders submitted, no fees incurred; re-verify fees at order time.
+
 ## v21.2 — 17 October 2026 — complete public release
 
 - Make the corrected reader the current homepage and dossier; publish the source catalog, correction/research registers, classroom pack and institutional discussion materials together.
