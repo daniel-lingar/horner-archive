@@ -12,7 +12,7 @@ The property columns show reported values, not a list of possessions. They canno
 
 ## The land record and its Choctaw connection {#census1860}
 
-Three years before that census, a federal patent dated **1 April 1857** named Spencer Horner as an assignee: a recipient through assignment of a prior claim. The document identifies **Choctaw Certificate No. 19B**, in the name of Canne Chubbee, deceased, and names Co-cha-tubbee as a representative. It describes a total of 160 acres in sections 19 and 22, Township 12 North, Range 24 West, processed through the Fayetteville Land Office [S02].
+Three years before that census, a federal patent dated **1 April 1857** named Spencer Horner as an assignee: a recipient through assignment of a prior claim. The document identifies **Choctaw Certificate No. 19B**, in the name of Canne Chubbee, deceased, and names Co-cha-tubbee as a representative. It describes a total of 160 acres in sections 19, 20, and 22, Township 12 North, Range 24 West, processed through the Fayetteville Land Office [S02].
 
 The patent explicitly connects the certificate to claims under the Treaty of Dancing Rabbit Creek and later federal acts. That connection belongs in the history of this land. The Choctaw Nation describes the 1830 treaty in the context of forced removal and provisions for Choctaw people seeking to remain in Mississippi [C1]. Spencer's patent records a later assignment within that claims history. It does not explain how this particular assignment was arranged, what Spencer paid, or what the claim meant to Canne Chubbee's family.
 
@@ -21,6 +21,10 @@ Those are questions about people as well as paperwork. Further research should f
 ## The family and the reported attack {#attack}
 
 The later narrative attributed to Eva Horner in 1942 describes Spencer going toward the house, surrendering to approaching men, and being shot. It describes William Riley running away and receiving a head wound [S04]. In that family account, Spencer was killed and William was also a victim of the attack. The complete original manuscript has not yet been authenticated; the archive currently preserves published excerpts and later reconstruction.
+
+A contemporary official record now establishes William Riley's service and death. The 1867 *Report of the Adjutant General of Arkansas* lists "Horner, William R." as a private in Company K, 2nd Arkansas Infantry (U.S.) — enlisted December 6, 1863, mustered February 19, 1864 — with the remark, in the roster's original wording: "Killed by guerillas in Johnson county, Arkansas, August 10, 1864" [S08]. This is the archive's first primary-source verification of the service-and-death claim. It replaces the superseded edition's differently-punctuated quotation ("reported killed by guerillas 10 August, 1864, Johnson Co., Arkansas"), which that edition ascribed to a specific CMSR card and to a "Muster roll, August 8, 1865" — neither of which has been produced. The roster gives no circumstances beyond those six words; the head-wound account remains later family testimony [S04], and William's duty status on August 10 is not stated.
+
+The same roster corroborates the deaths of two more men of Company K that summer: "Horner, Pleasant" — enlisted March 29, 1864, mustered June 27, 1864 — "Died of fever at Lewisburg, Arkansas, August 4, 1864"; and "Horner, Andrew" — enlisted March 29, 1864, mustered June 27, 1864 — "Died of measles at Lewisburg, Arkansas, July 31, 1864" [S08]. The roster prints no middle initial for Andrew, so his identification as Andrew Jackson Horner is probable but unconfirmed. Pleasant's August 4 date replaces the superseded edition's unsupported "August 12 per military record," for which no record has been produced. These roster entries date three men's deaths; they do not date Spencer's killing, and the August 2 working date remains a working date.
 
 The account also places two young Acord boys, John Samuel and Christopher Columbus, in the family setting. The archive identifies them as Spencer's grandsons through Elizabeth Horner Acord and Francis Marion Acord. It reports that both parents had died earlier in 1864. These relationships and the boys' presence are part of the family reconstruction, awaiting verification against the underlying originals. Christopher's reported age varies, so no exact age is chosen here [S04/S07].
 
@@ -42,8 +46,10 @@ Family memory gives this history its human urgency: people tried to explain loss
 | 1 June 1860 | Reference date specified on the population schedule | Printed heading [S01] |
 | 20 June 1860 | Enumeration date written on the Spencer household page | Examined heading [S01] |
 | Earlier in 1864 | Deaths of Elizabeth and Francis reported in the archive's family reconstruction | Original supporting records still to be checked [S04/S07] |
+| 31 July 1864 | Andrew Horner (Co. K, 2nd Ark. Inf.) died of measles at Lewisburg | Official roster [S08]; identity as Andrew Jackson Horner probable, unconfirmed (no middle initial printed) |
 | 2 August 1864 | Working date for the reported attack | Source not located in verified materials; exact attack and Spencer death dates unresolved |
-| 10 August 1864 | William Riley's death date on the marker | Memorial reading [S03]; does not by itself date the attack |
+| 4 August 1864 | Pleasant Horner (Co. K, 2nd Ark. Inf.) died of fever at Lewisburg | Official roster [S08]; replaces withdrawn "August 12 per military record" |
+| 10 August 1864 | William Riley Horner killed by guerrillas in Johnson County | Memorial reading [S03]; official roster: "Killed by guerillas in Johnson county, Arkansas, August 10, 1864" [S08]; does not by itself date the attack |
 | 1942, attributed | Recording of the family narrative associated with Eva Horner | Complete original and transmission history unverified [S04] |
 
 ## Who's who {#people}
@@ -52,8 +58,10 @@ Family memory gives this history its human urgency: people tried to explain loss
 |---|---|---|
 | Spencer Horner | Farmer; patent assignee; victim of a reported wartime killing | Census and patent images establish entries in his name [S01–S02]; account of killing is later family testimony [S04] |
 | Permelia | Appears on census line 2; identified as Spencer's wife in the family reconstruction | Entry examined [S01]; relationship needs separately cited family records [S04/S07] |
-| William Riley Horner | Identified as Spencer's son; victim described in the family account | Relationship and attack account [S04/S07]; marker gives death 10 August 1864 [S03] |
-| Dr. John Turner Horner | Identified as Spencer's son and William's brother; central figure in the later reprisal account | Family reconstruction/testimony [S04/S07]; formal Union enlistment unresolved |
+| William Riley Horner | Identified as Spencer's son; private, Co. K, 2nd Arkansas Infantry (U.S.); killed by guerrillas in Johnson County, 10 August 1864 | Official roster: "Killed by guerillas in Johnson county, Arkansas, August 10, 1864" [S08]; family account describes a head wound [S04]; marker gives the same death date and the family's accusation [S03] |
+| Pleasant Horner | Private, Co. K, 2nd Arkansas Infantry (U.S.); died of fever at Lewisburg, 4 August 1864 | Official roster [S08]; attribution in family reconstruction to the younger Pleasant (b. ~1845) is inference from enlistment age — the roster gives no age. A 4th Infantry deserter entry under the same name is unresolved; see research register |
+| Andrew Horner | Private, Co. K, 2nd Arkansas Infantry (U.S.); died of measles at Lewisburg, 31 July 1864 | Official roster [S08]; probable match for Andrew Jackson Horner — no middle initial printed. A 4th Infantry deserter entry under the same name is unresolved; see research register |
+| Dr. John Turner Horner | Identified as Spencer's son and William's brother; central figure in the later reprisal account | Family reconstruction/testimony [S04/S07]; formal Union enlistment unresolved. The Army's *Official Army Register of the Volunteer Force* (Part 4) lists no commission for him in any Arkansas infantry organization, including its Resigned list — but the register's front matter never claims that list is comprehensive, and its scope is the roster "as it stood on the day of muster out," so the negative does not prove non-service. The 1st and 2nd Infantry enlisted rosters likewise contain no John Turner Horner [S08]; see research register |
 | Elizabeth Horner Acord | Identified as Spencer's daughter and mother of the Acord boys | Family reconstruction [S04/S07]; supporting vital/family records to be checked |
 | Francis Marion Acord | Identified as Elizabeth's husband and the boys' father | Family reconstruction [S04/S07]; individual records require verification |
 | John Samuel and Christopher Columbus Acord | Identified as young grandsons whose childhood is connected to the attack | Later family account/reconstruction [S04/S07]; Christopher's age disputed |
@@ -68,7 +76,7 @@ Location research is also **reopened**: historical tracts, reported coordinates 
 
 ## Read the evidence {#sources}
 
-S01: census image and cautious transcription. S02: federal patent associated with Choctaw Certificate No. 19B. S03: William Riley marker photograph. S04: family-account excerpts attributed to 1942. S05–S06: additional pension-ledger and survey sources. S07: unverified military, pension and family-record leads. The [annotated catalog](grant-readiness/annotated-bibliography.html) gives provenance, uses and limits for each.
+S01: census image and cautious transcription. S02: federal patent associated with Choctaw Certificate No. 19B. S03: William Riley marker photograph. S04: family-account excerpts attributed to 1942. S05–S06: additional pension-ledger and survey sources. S07: earlier military and pension summaries — reclassified as leads; the quoted CMSR/muster-roll attributions are withdrawn pending record retrieval. S08: 1867 Adjutant General's roster — 2nd Arkansas Infantry, Co. K (pp. 230–231) and 4th Arkansas partial roster (p. 234); the archive's first official primary source for the three men's service and deaths. The [annotated catalog](grant-readiness/annotated-bibliography.html) gives provenance, uses and limits for each.
 
 The patent's certificate number is visible; its original BLM/GLO accession and catalog fields still need independent checking. The census's original series, roll and provider image ID also remain unreconciled. These identification tasks are recorded with the sources rather than treated as settled citations.
 
@@ -76,9 +84,9 @@ C1: Choctaw Nation of Oklahoma, [The Treaty that Forever Changed our Chahta Peop
 
 ### About this edition
 
-**Reader edition | v21.2 | 17 October 2026**
+**Reader edition | v21.3 | 19 October 2026**
 
-Daniel Bret Lingar assembled this archive to investigate the family's history. Source numbers identify the records or attributed accounts behind each part. The [correction register](corrections/v21-claim-reconciliation.md) records withdrawn claims and changes to earlier editions; the [research register](sources/reviewed/research-register.md) records what remains unresolved. Source limits that affect the meaning of an event or identification remain beside that claim in the narrative.
+Daniel Bret Lingar assembled this archive to investigate the family's history. Source numbers identify the records or attributed accounts behind each part. The [correction register](corrections/v21-claim-reconciliation.md) records withdrawn claims and changes to earlier editions; the [research register](sources/reviewed/research-register.md) records what remains unresolved. The [errata of 19 October 2026](corrections/errata-2026-10-19.md) records corrections established by the 1867 Adjutant General's roster recovery. Source limits that affect the meaning of an event or identification remain beside that claim in the narrative.
 
 [Printable reader edition](dossier.pdf) · [Classroom source pack](classroom/source-pack.pdf) · [Grant discussion materials](grant-readiness/index.html).
 

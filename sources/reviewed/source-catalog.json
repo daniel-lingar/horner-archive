@@ -1,6 +1,6 @@
 {
-  "release": "21.2",
-  "reviewed": "2026-10-17",
+  "release": "21.3 (proposed)",
+  "reviewed": "2026-10-19",
   "sources": [
     {
       "id": "S01",
@@ -21,7 +21,7 @@
       "kind": "Government record image",
       "date": "1 April 1857",
       "provenance": "Existing repository image; original BLM/GLO accession and download provenance need completion.",
-      "supports": "Spencer Horner as assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased; Choctaw Certificate No. 19B; total 160 acres in sections 19 and 22, T12N R24W. First tract reads SE 1/4 NE 1/4 of section 19.",
+      "supports": "Spencer Horner as assignee of Co-cha-tubbee, representative of Canne Chubbee, deceased; Choctaw Certificate No. 19B; total 160 acres in sections 19, 20, and 22, T12N R24W. First tract reads SE 1/4 NE 1/4 of section 19.",
       "limits": "The patent does not prove Horner’s Indigenous ancestry, the deceased person’s age, the transfer price, or a modern home-site location. First tract corrected from NE 1/4 SE 1/4. The crowded third tract is disputed by a later reader and awaits independent catalog/image comparison; it is not assessed in the lesson. Certificate No. 19B is visible; a catalog accession/patent number is not independently verified.",
       "rights": "Underlying federal land patent; retain source identification when reproducing.",
       "sha256": "d4d27d45ad62534d955354049bf54e33f447af7d3e825d5afa736688cc1a7d53"
@@ -48,7 +48,7 @@
       "supports": "The family account describes Spencer being shot after surrendering, William receiving a head wound, and later reprisals.",
       "limits": "The reported seventeen-of-twenty reprisal count, names, tactics, hidden money, and exact chronology are uncorroborated here. Excerpt publication is not a complete diplomatic transcript. The reviewer-quoted Jess Wilson sentence does not identify the party or fight; its antecedent remains unresolved. Original transcript unchecked; antecedent of “they” unresolved. The preceding published sentence is “Dad said Jess Wilson was a brave man too.”",
       "rights": "Text permission and original custody unresolved. The optional memory extension uses an attributed editorial summary; core assessment does not depend on it.",
-      "sha256": "7af98bf640b80be717dfbb3caa17da950e7d45dbea3015ccdf126ad46b14b84a"
+      "sha256": "45287c33f60ba96e624696bec31870db8f1e885f2975dc0c5c2f71ea3a29ee9b"
     },
     {
       "id": "S05",
@@ -79,12 +79,24 @@
       "title": "Military and pension research leads",
       "path": "sources/reviewed/research-register.md",
       "kind": "Repository summaries; originals incomplete",
-      "date": "Research status 17 October 2026",
-      "provenance": "Earlier archive summaries cite William Riley’s Union service/death report, WC75885, John Turner’s rejected application 1,143,763, and Confederate CMSR research. Complete originals not reverified in this release.",
+      "date": "Research status 19 October 2026",
+      "provenance": "Earlier archive summaries cited a quotation ('reported killed by guerillas 10 August, 1864, Johnson Co., Arkansas') attributed to a William Riley CMSR card and to a 'Muster roll, August 8, 1865'; the card/roll has not been produced and the 'Reviewed (Fold3)'/tier-Primary designations are withdrawn (F1). The 1867 AG roster (S08) now independently verifies the substance of the service/death claim. WC75885, application 1,143,763, and the Hiram Boen CMSR material remain unretrieved leads.",
       "supports": "Identifies records to retrieve and compare; no new authentication of their quoted contents.",
       "limits": "WC75885 concerns William Riley’s widow; it is not John Turner’s rejected application. Sturges authorship/date/context/independence remain open. AWOL status does not locate Hiram Boen or implicate him in killings.",
       "rights": "Request repository copies and record-level citations before facsimile publication.",
-      "sha256": "35f52da7ae41118ccb5c9833133a54b55f75061f4b135f11659da814d9f8b9da"
+      "sha256": "ff13f3f051e55448cf1fc20b8378fadb6fbdb75e7737e87cc98997169939a0f6"
+    },
+    {
+      "id": "S08",
+      "title": "1867 Report of the Adjutant General of Arkansas — 2nd and 4th Infantry rosters",
+      "path": "Internet Archive reportadjutantg01offigoog (remote; no local copy held)",
+      "kind": "Government published roster (official)",
+      "date": "Published 1867; covers service to November 1, 1866",
+      "provenance": "Report of the Adjutant General of Arkansas, for the Period of the Late Rebellion, and to November 1, 1866 (Government Printing Office, 1867), Internet Archive item reportadjutantg01offigoog (287 scan leaves). Visually inspected 19 October 2026: 2nd Arkansas Infantry roster, printed pp. 205–231 (PDF page N = printed page N-9); 1st Arkansas Infantry roster, pp. 169–204 (no Horner of any name); 4th Arkansas Infantry partial roster (men 'not consolidated'), pp. 233–234. The item's OCR contains zero 'Horner' hits — tables were read from page images, not OCR.",
+      "supports": "Company K, 2nd Arkansas Infantry (U.S.), printed p. 230–231: Horner, Lewis C. (enl. Feb. 15, 1864, mus. Mar. 8, 1864, mustered out with regiment); Horner, Andrew (enl. Mar. 29, 1864, mus. June 27, 1864, 'Died of measles at Lewisburg, Arkansas, July 31, 1864'); Horner, William R. (enl. Dec. 6, 1863, mus. Feb. 19, 1864, 'Killed by guerillas in Johnson county, Arkansas, August 10, 1864'); Horner, Pleasant (enl. Mar. 29, 1864, mus. June 27, 1864, 'Died of fever at Lewisburg, Arkansas, August 4, 1864'). No John Turner Horner in the 2nd (complete), 1st (complete, officers checked), or 4th (partial) rosters. 4th Infantry, Co. A, Deserted, p. 234: Horner, Andrew ('Deserted at Van Buren, Arkansas, June 8, 1864'; enl. Jan. 12, 1864, mus. Feb. 29, 1864); Horner, Pleasant ('Deserted at Clarksville, Arkansas, May 5, 1864'; enl. April 27, 1864, never mustered).",
+      "limits": "The roster gives no ages, birthplaces, or physical descriptions — the 2nd-vs-4th Andrew/Pleasant identity question cannot be resolved from it (CMSR jackets required). The 2nd's Andrew prints no middle initial. William's duty/absence status at death is not stated. The 4th roster is explicitly partial (Company A only, no officer listings). Cavalry rosters (pp. 10–168) were not inspected.",
+      "rights": "Public-domain government publication; Internet Archive scan.",
+      "sha256": "not-applicable — remote scan, no local copy held"
     }
   ]
 }

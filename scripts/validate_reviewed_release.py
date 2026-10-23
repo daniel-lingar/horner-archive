@@ -24,10 +24,14 @@ for p in pages:
  for im in s.find_all('img'):check(bool(im.get('alt')),str(p)+' missing alt text')
  if p.name!='superseded-v20.html':check(not s.select('img[src^="field-docs/"]'),'Withdrawn gallery used in current page')
 data=json.loads((R/'sources/reviewed/source-catalog.json').read_text())
-check(len(data['sources'])==7,'Expected seven source groups')
+check(len(data['sources'])==8,'Expected eight source groups')
 for s in data['sources']:
- p=R/s['path'];check(p.is_file(),'Missing source '+s['id'])
- check(s.get('sha256')==hashlib.sha256(p.read_bytes()).hexdigest(),'Source hash mismatch '+s['id'])
+ # The catalog explicitly marks remote holdings in the path field (e.g. S08).
+ # Missing local files or hashes alone must never imply a remote source.
+ if not s['path'].endswith(' (remote; no local copy held)'):
+  p=R/s['path'];check(p.is_file(),'Missing source '+s['id'])
+  if p.is_file():
+   check(s.get('sha256')==hashlib.sha256(p.read_bytes()).hexdigest(),'Source hash mismatch '+s['id'])
  for field in ['provenance','supports','limits','rights']:check(bool(s.get(field)),'Missing '+field+' '+s['id'])
 b=json.loads((R/'grant-readiness/neh-planning/budget.json').read_text())
 for row in b['rows']:check(row['quantity']*row['rate']==row['total'],'Budget row arithmetic '+row['role'])
